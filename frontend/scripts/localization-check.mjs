@@ -1,0 +1,13 @@
+import ts from 'typescript';
+import fs from 'node:fs';
+import path from 'node:path';
+import {createRequire} from 'node:module';
+import assert from 'node:assert/strict';
+const native=createRequire(import.meta.url),cache=new Map();let currentPath='/';
+function load(file){file=path.resolve(file);if(!fs.existsSync(file)){file=['.tsx','.ts','.json'].map(e=>file+e).find(f=>fs.existsSync(f))}if(file.endsWith('.json'))return JSON.parse(fs.readFileSync(file,'utf8'));if(cache.has(file))return cache.get(file).exports;const module={exports:{}};cache.set(file,module);const req=id=>id==='next/navigation'?{usePathname:()=>currentPath}:id.startsWith('.')?load(path.join(path.dirname(file),id)):native(id);const source=ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022,jsx:ts.JsxEmit.ReactJSX,esModuleInterop:true}}).outputText;new Function('require','module','exports',source)(req,module,module.exports);return module.exports}
+const React=native('react'),{renderToString}=native('react-dom/server');const {default:Portal}=load('features/portal.tsx'),{samples}=load('lib/data.ts'),{extendedDefaults}=load('lib/site-config.ts'),i18n=load('lib/i18n.ts');
+let count=0;for(const locale of i18n.localeCodes)for(const route of ['/','/about','/projects','/investment','/map','/masterplan','/news','/live','/compare','/photos','/videos','/official','/search','/site-map','/contact']){currentPath=route;const html=renderToString(React.createElement(Portal,{initialData:{items:samples,settings:extendedDefaults},initialLocale:locale}));assert(html.includes('appearance-controls'));assert(html.includes(i18n.translate('Xarita',locale)));assert(!html.includes('[object Object]'));count++}
+const {LocaleProvider}=load('features/locale-provider.tsx');for(const locale of i18n.localeCodes)for(const name of ['site-studio','translation-studio']){const Comp=load('features/'+name+'.tsx').default;const html=renderToString(React.createElement(LocaleProvider,{initialLocale:locale,initialSettings:extendedDefaults},React.createElement(Comp,{settings:extendedDefaults,assets:[],role:'manager',onSaved:()=>{},onRefresh:()=>{}})));assert(html.length>500);count++}
+assert.equal(i18n.translate('Xarita','en'),'Map');assert.equal(i18n.translate('Xarita','ru'),'Карта');assert.equal(i18n.translate('Xarita','zh'),'地图');assert.equal(i18n.translate('user@example.com','uz-Cyrl'),'user@example.com');
+for(const [key,row] of Object.entries(i18n.dictionary))for(const lang of ['en','ru','zh'])assert(typeof row[lang]==='string'&&row[lang],`${lang}: ${key}`);
+console.log(`${count} public/admin server renders passed across all five languages; ${Object.keys(i18n.dictionary).length} dictionary entries verified.`);

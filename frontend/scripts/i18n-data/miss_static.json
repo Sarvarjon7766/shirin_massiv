@@ -1,0 +1,2568 @@
+[
+ {
+  "s": "— guruhlanmasin —",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "— har birining nomini yozing",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "— holat bo‘yicha ranglangan, auksion va narxi bilan",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "— ko‘rsatilmasin —",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "«Yangi hudud» → xaritada burchaklarni ketma-ket bosing → «Chizishni tugatish».",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "{\"type\":\"Polygon\",\"coordinates\":[[[69.4,41.3],[69.41,41.3],[69.41,41.31],[69.4,41.3]]]}",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Almashish vaqti",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Alohida xaritalar yarating (Investitsiya, Bosh reja, Metro…) va har birida nimalar ko‘rinishini tanlang.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Alohida xaritalar yarating (Investitsiya, Bosh reja, Metro…) va har birida qaysi hududlar, obyektlar va qatlamlar ko‘rinishini tanlang.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Ariza muddati",
+  "files": [
+   "features/plot-catalog.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Ariza muddatigacha",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Ariza qabul qilish muddati tugagan.",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Asosiy",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Asosiy domen (https://...)",
+  "files": [
+   "features/site-studio.tsx"
+  ]
+ },
+ {
+  "s": "Asosiy vazifa",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Asosiy vazifa ulushi (%)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Auksion boshlanishi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion havolasi (https)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion lot raqami",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion ma’lumoti",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion nomi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Auksion sahifasi",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Avval «Yo‘nalish chizish» yoki «Bekat / nuqta qo‘yish» ni tanlang.",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Avval hudud chegarasini xaritada chizing",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Avval rasm yoki PDF tanlang",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Bajarilganlik (%)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Band nomi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Band qo‘shish",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Band qo‘shsangiz, tugma bosilganda ochiladigan menyu bo‘ladi (masalan: Telegram bot, investor yo‘riqnomasi).",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Barcha bo‘limlardagi materiallar bitta ro‘yxatda: qidirish, holat bo‘yicha saralash, tahrirlash va nashr qilish.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Barcha toifalar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Barcha xaritalar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Batafsil",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Bekat",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Bekat / nuqta qo‘yish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Bekat nomi",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Bekat nomini yozing (masalan: Universitet)",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Bekatlar",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Belgilash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Bir nechta hududning holatini birdan o‘zgartirish uchun ro‘yxatda ularni belgilang.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Biriktirishni olib tashlash",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Bog‘lanmagan",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Bog‘liq materiallar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Bosh sahifa slayderi",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Bosh sahifadagi katta blokka bir nechta rasm, GIF yoki qisqa video (ovozsiz) yuklang — ular o‘zi almashib turadi. Slayd qo‘shilmasa, quyidagi «Bosh sahifa katta rasmi» ishlatiladi.",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "boshida yoqilgan",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Boshlang‘ich ko‘rinish",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Boshlang‘ich narx",
+  "files": [
+   "features/plot-catalog.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Boshqa nom (ixtiyoriy)",
+  "files": [
+   "features/map-admin.tsx",
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Boshqa tillarga tarjima (ixtiyoriy)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Boshqaruv hisobotlari: loyihalar, murojaatlar va vazifalar bo‘yicha qisqa ko‘rsatkichlar.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Boshqaruv paneliga kirish",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Boshqaruv panelining xaritasi: har bir sahifa nima uchun kerak va u yerga qo‘shgan ma’lumotingiz saytda qayerda chiqadi.",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Boshqaruvga kiruvchi xodimlar: login, parol va rol (kontent menejer, admin).",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Boshqasini tanlash",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Bu chegarani nuqta bo‘yicha tahrirlab bo‘lmaydi; «Qayta chizish» yoki GeoJSON orqali almashtiring.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Bu hisobda boshqaruv paneliga kirish huquqi yo‘q.",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Bu hudud uchun auksion ma’lumoti hali e’lon qilinmagan.",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Bu qatlamda maydon (poligon) bor — uni chizish bilan tahrirlab bo‘lmaydi, faqat chiziq va nuqta.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Bu xaritada nimalar ko‘rinadi?",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Bunday xarita topilmadi.",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Burchakni sudrang",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Burish +1°",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Burish −1°",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Chap tomondagi karta",
+  "files": [
+   "features/map-admin.tsx",
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Chegara endi qo‘lda yozilmaydi: hudud admin → «Xarita» bo‘limida xaritada chiziladi yoki GeoJSON fayldan import qilinadi, bu yerda esa tayyor hududni tanlaysiz. Ochiq sahifada «Xaritada ko‘rish» havolasi paydo bo‘ladi.",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Chegara hali chizilmagan",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chegara tayyor. Nuqtalarni sudrab to‘g‘rilashingiz yoki chiziq ustini bosib yangi nuqta qo‘shishingiz mumkin.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chegaralar sxematik; rasmiy kadastr hujjati emas. Auksion shartlari rasmiy auksion platformasida.",
+  "files": [
+   "features/lots-map.tsx",
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Chegarani tahrirlash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chegarani to‘g‘rilash: «Chegarani tahrirlash» → nuqtalarni sudrang; chiziq ustini bosing — yangi nuqta; nuqtaga ikki marta bosing — o‘chadi.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chizilgan",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Chizish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chizish asboblari",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Chizish vositalari",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Chizish xaritasi",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Chizishni tugatish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Darhol xaritada ko‘rsatish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Dastlabki 300 ta ko‘rsatilgan — qidiruvdan foydalaning.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Davom etish",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Davom ettirish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Doira (stansiya belgisi) + nom yozuvi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "F.I.Sh.",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Fayl to‘g‘ri JSON emas",
+  "files": [
+   "features/map-admin.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Fayllar material va sahifalarda ishlatiladi",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Faylni o‘qib bo‘lmadi",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Faylni tanlang: hududlar xaritada ko‘rinadi va server tekshiradi.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Foydalanuvchi xaritaning o‘zida ham ikkalasini almashtira oladi; bu — boshlang‘ich holat.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Foydalanuvchini login orqali qo‘shing, rol va ruxsatlarni belgilang. Hisob bloklansa, boshqaruvga kirish darhol to‘xtaydi.",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Fuqarolar yuborgan murojaatlar. Ko‘rib chiqing, holatini o‘zgartiring va javob yozing.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "G‘olib (natija)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Generplan rasmini (JPG, PNG yoki PDF) xaritaga joylashtiring: 4 ta burchakni xaritadagi haqiqiy joyiga sudrab moslaysiz. Shundan keyin «Hududlar» bo‘limida shu rasm ustidan lotlarni chizasiz.",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "GeoJSON fayl",
+  "files": [
+   "features/map-admin.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "GeoJSON FeatureCollection kerak",
+  "files": [
+   "features/map-admin.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Geometriya GeoJSON orqali berilgan",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Geometriya qabul qilindi. Saqlash tugmasini bosing.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Guruhlash maydoni (masalan: yil)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Hali hudud bo‘lmaganda xarita shu joyda ochiladi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Hali hudud yo‘q",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hali qatlam yo‘q.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Hali qatlam yo‘q. «Qatlamlar» tabida yarating.",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hali reja rasmi yo‘q.",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Hali toifa yo‘q. Quyidagi namunalardan tanlang yoki «Yangi toifa» ni bosing.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hamkor nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Hammasi",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Hammasini belgilash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hammasini yuklab olish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Har bir xarita alohida sahifa: o‘z nomi, o‘z qatlamlari va obyektlari bor. Saytda yuqorida almashtirgich chiqadi. Birinchi xarita — /map ning o‘zi.",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Havola (ixtiyoriy)",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Havola manzili",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Havola matni (ixtiyoriy)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Havola qo‘shish (ixtiyoriy)",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Hech narsa topilmadi",
+  "files": [
+   "features/plot-catalog.tsx",
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hisobot nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Holat — hudud hozir qanday: bo‘sh, kutishda, sotuvda, sotilgan… Xaritada shu rangda chiqadi. Tizim holatlari auksion bilan ishlaydi (nomi va rangini o‘zgartirish mumkin); o‘zingiz yangi holat ham qo‘shishingiz mumkin.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Holat bo‘yicha",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Holat bo‘yicha (bo‘sh, sotuvda, sotilgan…)",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Holat nomi (masalan: Ijarada)",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Holati",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "holatni o‘zgartirish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Holatni tanlang…",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hozircha alohida xarita yaratilmagan: sayt hamma narsani bitta xaritada ko‘rsatadi. Boshlash uchun namunani tanlang:",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hozircha nashr qilingan hududlar yo‘q",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Hudud faqat «Xaritada ko‘rsatish» belgilanganda ommaga ko‘rinadi. Qoralamalar xaritada xira va chiziqli ko‘rinadi.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hudud holatlari",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hudud holatlari (bo‘sh, kutishda, sotuvda, olingan…) va toifalari (turar-joy, noturar-joy, restoran, tashkilotlar…) ni o‘zingiz yarating, nomi va rangini o‘zgartiring.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Hudud holatlari (bo‘sh, kutishda, sotuvda…) va toifalari (turar-joy, noturar-joy…): nomi va rangi.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Hudud ma’lumotlari",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hudud raqami",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hudud tanlash",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hududga",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar (lotlar)",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar (xaritadagi lotlar): chizing yoki import qiling, holati, toifasi, maydoni va auksionini kiriting.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Hududlar (xaritadagi lotlar): xaritada chizing yoki fayldan import qiling, holati, toifasi, maydoni va auksionini kiriting.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "hududlar bor",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar ro‘yxatini yuklab bo‘lmadi",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar ro‘yxatini yuklab bo‘lmadi.",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar xaritasi",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Hududlar xaritasi (tahrirlash)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hududni o‘chirish?",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hududni tahrirlash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hududni tanlang",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Hududni tanlang…",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Hududni xaritada ochish",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Hududni xaritadan yoki ro‘yxatdan tanlang — o‘ng tomonda ma’lumotlari ochiladi.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Hujjat nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Ichki statistika: materiallar, qurilish, investitsiya, murojaat va vazifalar bo‘yicha raqamlar.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Ilg‘or: GeoJSON geometriyani qo‘lda kiritish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Import / eksport",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Import qilish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Import tugadi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Investitsiya xaritasi",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Investorlar va hamkorlar kartasi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Izoh",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Javob fuqaroning «Murojaatlarim» sahifasida ko‘rinadi",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Joyiga o‘tish",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Joyini to‘g‘rilash",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Joylashuvni belgilash uchun xaritani bosing",
+  "files": [
+   "features/location-picker.tsx"
+  ]
+ },
+ {
+  "s": "Joylashuvni olib tashlash",
+  "files": [
+   "features/location-picker.tsx"
+  ]
+ },
+ {
+  "s": "JPG, PNG yoki PDF faylni tanlang",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Kamera nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Kamida 3 ta nuqta kerak",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Kenglik (latitude)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Kerakli hudud yo‘qmi?",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Kerakli turni tanlang: material qo‘shiladi va saytda qaysi sahifada chiqishi ko‘rsatiladi.",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Keyingisi",
+  "files": [
+   "features/hero-media.tsx"
+  ]
+ },
+ {
+  "s": "Kim, qachon, nima qilgani: so‘nggi 100 ta amal.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "KMN (%)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Ko‘pi bilan 10 ta slayd",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Ko‘pi bilan 12 ta fayl biriktiriladi",
+  "files": [
+   "features/attachments-editor.tsx"
+  ]
+ },
+ {
+  "s": "Kompaniya (g‘olib / egasi)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Kontent bo‘limlaridagi obyektlar, agar joylashuvi (nuqta), tayyor hududi yoki chegarasi belgilangan bo‘lsa, xaritada chiqadi. Qaysi turlar ko‘rinishi, nomi va rangini shu yerda sozlang.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Kontent obyektlari",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Lavozim nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Login",
+  "files": [
+   "features/auth-forms.tsx",
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Login va parolni foydalanuvchiga o‘zingiz yetkazing. Parol o‘zgartirilsa yoki hisob bloklansa, uning barcha sessiyalari tugatiladi.",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Logotip, bosh sahifa slayderi (rasm, GIF, video), «haqida» va bosh reja rasmlari.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Lot",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Loyiha / material",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Manzil (/map/…)",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Masalan: / yoki /about",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Masalan: Butun yo‘nalish",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Masalan: Shirin massivi generplani",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Masshtab (1–19)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Materialni tanlang…",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Matn va manzil ikkalasi ham kiritilsa, yuqori o‘ng burchakda ko‘rinadi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Mavjud barcha hududlar o‘chirilib, fayl bilan almashtiriladi. Davom etasizmi?",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Mavjud hududlarni almashtirish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Maydon (gektar)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Maydonni hisoblash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Metro, yo‘l va bekatlarni xaritada chizing, bekatlarga nom bering.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Metro, yo‘l va bekatlarni xaritada o‘zingiz chizing: yo‘nalishni chizasiz, bekatlarni qo‘yasiz, nom va havola berasiz.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Metro, yo‘l yoki bekatlarni GeoJSON faylsiz, to‘g‘ridan-to‘g‘ri xaritada chizing: yo‘nalish chiziladi, bekatlar qo‘yiladi, har biriga nom va havola beriladi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Metro, zona, yo‘l yoki generplan rasmi",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Murakkab chegara (ko‘p qismli yoki teshikli)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Murojaat yuborish va javoblarni kuzatish uchun hisobingiz bilan kiring yoki ro‘yxatdan o‘ting.",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Namuna fayl",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Namuna faylni yuklab oling va o‘z ma’lumotingizni shu shaklda tayyorlang.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Namuna hududlar yuklash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Natija hujjati",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Natija hujjati (https yoki /assets/…)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Natijadan mamnun bo‘lsangiz «Import qilish» ni bosing.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Natijalar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Nima qo‘shmoqchisiz?",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Nimaga bog‘lash",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Nom",
+  "files": [
+   "features/map-admin.tsx",
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Nomli belgi-chip (≤150 nuqta, masalan metro bekatlari)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Nuqtalar ko‘rinishi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "O‘chirildi",
+  "files": [
+   "features/map-admin.tsx",
+   "features/maps-studio.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "O‘chirilgan holatdagi hududlar «Ma’lumot yo‘q» holatiga o‘tadi.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Obyekt nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Obyekt nomi qaysi maydondan olinsin",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Obyektlar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Obyektlar ro‘yxati",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Ochiq maydon (m²)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Oldingisi",
+  "files": [
+   "features/hero-media.tsx"
+  ]
+ },
+ {
+  "s": "Olib tashlash",
+  "files": [
+   "features/attachments-editor.tsx",
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Ommaga ko‘rsatish",
+  "files": [
+   "features/map-admin.tsx",
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Ommaga ko‘rsatish (aks holda faqat adminlarga ko‘rinadi)",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Orqaga",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Oxirgi nuqtani olib tashlash",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Parol",
+  "files": [
+   "features/auth-forms.tsx",
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Parol kamida 8 belgidan iborat bo‘lsin.",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "PDF sahifasi",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Portalning bugungi holati: materiallar, murojaatlar, vazifalar. Bu yerdan tez qo‘shish mumkin.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Qabul vaqti va aloqa",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Qanday ishlaydi?",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qatlam nimaga bog‘lansin? (kartadagi havola)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Qatlam qidirish",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Qatlam qidirish…",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Qatlamlar",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Qatlamlar (zona, metro, yo‘l, reja rasmi)",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qatlamni o‘chirish?",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Qavatlar (max)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qavatlar (min)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qayerda ko‘rinadi",
+  "files": [
+   "features/map-admin.tsx",
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Qayerga nima qo‘shiladi?",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Qayta chizish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qidiruv tizimlari uchun sarlavha va tavsif, domen va integratsiyalar.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Qidiruv va statistika",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa izoh",
+  "files": [
+   "features/content-form.tsx",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa izoh (sarlavha ostida)",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa mazmun",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa mazmun (ro‘yxatda ko‘rinadi)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa maʼlumot",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Qisqa tavsif",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘llash",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘shimcha ko‘rsatkichlar",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘shimcha materiallar",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘shimcha qatlamlar yo‘q",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘shimcha vazifa",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Qo‘shish",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Qurilish maydoni (m²)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Rang",
+  "files": [
+   "features/map-admin.tsx",
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Ranglash",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Raqam yoki nom bo‘yicha qidiring",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Raqam, nom yoki kompaniya",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Raqam, nom, kompaniya yoki auksion lot raqami",
+  "files": [
+   "features/lots-map.tsx",
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Rasm",
+  "files": [
+   "features/content-form.tsx",
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Rasm ham qatlam: qancha xohlasangiz qo‘shing. Har biri xaritada alohida yoqiladi/o‘chiriladi va shaffofligi sozlanadi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Rasm sarlavhasi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Rasmni almashtirish (ixtiyoriy)",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Rasmni butunlay siljitish uchun sudrang",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Rasmni yuklab bo‘lmadi",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmi",
+  "files": [
+   "features/layer-draw.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmi (generplan)",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmi qo‘shish",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmini joylashtirish xaritasi",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmini ko‘rsatish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmini xaritadan olib tashlash?",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Reja rasmlari (generplan, PDF/JPG/PNG)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Ro‘yxat",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Ro‘yxatdan o‘tish yoki kirish",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Sahifa nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Sahifani tanlang…",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Sahifani yuklash",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Saqlab, keyingi hududni darhol chizishga o‘tadi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Saqlandi. «Hududlar» bo‘limida shu rasm ustidan lotlarni chizishingiz mumkin.",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Saqlandi. Keyingi hududni chizing.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Saqlandi. Xarita ochiq sahifada bir necha soniyada yangilanadi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saqlandi. Xaritada bir necha soniyada yangilanadi.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Saqlanmagan o‘zgarish bor",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Saqlanmagan o‘zgarishlar bor. Davom etasizmi?",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Saqlash va keyingisini chizish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Savol",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Sayt nomi, shior, telefon, email, manzil va «Shaharcha haqida» matni.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Sayt sahifasiga",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Saytda ko‘rinmaydi (ichki sahifa)",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda ko‘rinmaydi: Google va ijtimoiy tarmoqlarda chiqadi",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda ko‘rish",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Saytda ochish",
+  "files": [
+   "features/map-admin.tsx",
+   "features/maps-studio.tsx",
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Saytda qayerda ko‘rinadi",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Saytda:",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: «Rasmiy maʼlumot» va footer",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: /map va /investment",
+  "files": [
+   "features/admin-info.ts",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: /map, /map/<nom>",
+  "files": [
+   "features/admin-info.ts",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: barcha sahifalarda",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: bosh sahifaning katta bloki va rasm bloklari",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: har bir material o‘z bo‘limida chiqadi",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: har bir sahifaning tepasidagi menyu",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: sarlavha, footer, «Aloqa» va «Shaharcha haqida»",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: til almashtirilganda",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: xarita sahifasining tepa qismi",
+  "files": [
+   "features/admin-info.ts",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: xarita tepasidagi tugmalar",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytda: xarita tepasidagi tugmalar va filtrlar",
+  "files": [
+   "features/admin-info.ts",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: xaritaning chap paneli",
+  "files": [
+   "features/admin-info.ts",
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytda: xaritaning yuqori tugmalari",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Saytdagi matnlarning rus, ingliz va xitoy tarjimalarini qo‘lda yozish.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Saytdagi tayyor yozuvlar (tugma, sarlavha, izoh) matnini o‘zgartirish.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Shaffoflik",
+  "files": [
+   "features/layer-draw.tsx",
+   "features/map-admin.tsx",
+   "features/overlay-editor.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Shaffoflik ommaviy xaritada ham shunday bo‘ladi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Shaffoflik saqlandi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Shartlar (qisqacha)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Shu hudud haqida so‘rash",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Siz tizimga kirgansiz",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Slayd",
+  "files": [
+   "features/hero-media.tsx"
+  ]
+ },
+ {
+  "s": "Slayder boshqaruvi",
+  "files": [
+   "features/hero-media.tsx"
+  ]
+ },
+ {
+  "s": "Standart rangga qaytarish",
+  "files": [
+   "features/map-admin.tsx",
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Sudrang; o‘chirish uchun ikki marta bosing",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta bekat/nuqta",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "ta hudud",
+  "files": [
+   "features/plot-catalog.tsx",
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta hudud butunlay o‘chiriladi. Davom etilsinmi?",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta hudud o‘chirildi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta hudud yangilandi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta namuna hudud yuklandi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta nashr qilingan",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta nuqta",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta o‘tkazib yuborildi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta qatlam",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta qo‘shildi/yangilandi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta tanlandi",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta to‘g‘ri",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta xato (o‘tkazib yuboriladi)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "ta yo‘nalish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Tadbir nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Talablar (qisqacha)",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Tanlangan hudud",
+  "files": [
+   "features/lots-map.tsx",
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Tanlangan hudud va statistika",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Tanlansa, kartada shu qiymatlar bo‘yicha filtr tugmalari chiqadi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Taqdimot yoki hujjatni biriktiring: foydalanuvchilar uni material sahifasidan yuklab oladi. Bitta fayl — 100 MB gacha.",
+  "files": [
+   "features/attachments-editor.tsx"
+  ]
+ },
+ {
+  "s": "Tashkilot nomi, ro‘yxatdan o‘tish maʼlumoti, ish vaqti, maxfiylik matni.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Tashqi havola",
+  "files": [
+   "features/link-picker.tsx"
+  ]
+ },
+ {
+  "s": "Tashrifchimisiz?",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Tavsif",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Tavsif (ko‘zi ojizlar uchun, ixtiyoriy)",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Tayyorlanmoqda…",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Tekshirilmoqda",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Tender nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Tez qo‘shish",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "To‘g‘ri JSON emas",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Toifa",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Toifa — hudud nima uchun mo‘ljallangan: turar-joy, noturar-joy, restoran, tashkilotlar… Har bir hududga bir yoki bir nechta toifa beriladi (Hududlar sahifasida). Xaritada filtr va rang sifatida chiqadi.",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Toifa (turar-joy, noturar-joy, restoran…; bo‘sh qolsa vazifadan aniqlanadi)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Toifa bo‘yicha",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Toifa bo‘yicha (turar-joy, noturar-joy…)",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Toifa nomi",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Toifalar (hudud turi)",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Transport va metro",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Tugma menyusi (ixtiyoriy)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "tur obyekt",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Turi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Umumiy maydon (m²)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Uzunlik (longitude)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Valyuta",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Vazifa va o‘lchamlar",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Video nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Video: MP4 yoki WEBM, 25 MB gacha, tovushsiz bo‘lishi ma’qul (ovozsiz o‘ynaydi). Rasm yoki GIF ham mumkin.",
+  "files": [
+   "features/hero-slides-editor.tsx"
+  ]
+ },
+ {
+  "s": "Xarita hududi",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Xarita ma’lumotini yuklab bo‘lmadi.",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Xarita ochilganda yoqilgan bo‘lsin",
+  "files": [
+   "features/map-admin.tsx",
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Xarita qanday ranglansin?",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xarita qatlami / reja rasmi",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Xarita qatlamlari",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Xarita sarlavhasi, tugmalari, yo‘riqnomasi va boshlang‘ich joyi.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Xarita sarlavhasi, tugmalari, yo‘riqnomasi, boshlang‘ich joyi va obyekt turlari ko‘rinishi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Xarita va Investitsiya sahifasidagi hudud",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Xarita yuklanmoqda…",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Xaritada hudud burchaklarini ketma-ket bosing, so‘ng «Chizishni tugatish» tugmasini bosing.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xaritada ko‘rish",
+  "files": [
+   "features/plot-catalog.tsx",
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "xaritada ko‘rsatish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xaritada ko‘rsatish (ommaga ochiq)",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xaritada ochish",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Xaritada yangisini chizing",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Xaritadagi 1–4 raqamli burchaklarni sudrab rasmni haqiqiy joyiga moslang (yo‘l, daryo, bino kabi aniq belgilar bo‘yicha). O‘rtadagi ✥ belgisi rasmni butunlay siljitadi. Aniqroq moslash uchun xaritani yaqinlashtiring.",
+  "files": [
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Xaritadagi hududni bosing — parametrlari shu yerda ochiladi.",
+  "files": [
+   "features/lots-map.tsx"
+  ]
+ },
+ {
+  "s": "Xaritadagi joylashuv",
+  "files": [
+   "features/location-picker.tsx"
+  ]
+ },
+ {
+  "s": "Xaritadagi obyektlar (loyihalar, infratuzilma, hududlar)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Xaritadan hudud tanlash",
+  "files": [
+   "features/plot-picker.tsx"
+  ]
+ },
+ {
+  "s": "Xaritalar",
+  "files": [
+   "features/lots-map.tsx",
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xaritani bosing — bekat (nuqta) qo‘yiladi. Nomini pastdagi ro‘yxatda yozing. Sudrab surish mumkin.",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Xaritani ketma-ket bosing — yo‘nalish nuqtalari qo‘shiladi. Tugagach «Yo‘nalishni tugatish» ni bosing. Nuqtani sudrab surish, o‘ng tugma bilan o‘chirish mumkin.",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Xaritani o‘chirish?",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Xavfsiz kirish uchun login va parolingizni kiriting.",
+  "files": [
+   "features/auth-forms.tsx"
+  ]
+ },
+ {
+  "s": "Xodimlar uchun ichki vazifalar: kim, qachongacha, qancha bajarildi.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Yakuniy narx",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yana ko‘rsatish",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Yangi chegarani xaritada chizing.",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yangi holat",
+  "files": [
+   "features/plots-studio.tsx",
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yangi hudud",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yangi toifa",
+  "files": [
+   "features/statuses-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yangi xarita",
+  "files": [
+   "features/maps-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yangilik sarlavhasi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Yashirish",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘nalish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘nalish chizish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘nalish nomi",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘nalishlar",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘nalishni tugatish",
+  "files": [
+   "features/layer-draw.tsx"
+  ]
+ },
+ {
+  "s": "Yo‘riqnoma",
+  "files": [
+   "features/plots-studio.tsx"
+  ]
+ },
+ {
+  "s": "Yoki xaritada o‘zingiz chizing",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Yordam oynasi",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Yuklab olish",
+  "files": [
+   "features/portal.tsx"
+  ]
+ },
+ {
+  "s": "Yuklangan barcha rasm, video va hujjatlar kutubxonasi. Ishlatilmayotganini o‘chirish mumkin.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Yuklanmoqda…",
+  "files": [
+   "features/plot-catalog.tsx"
+  ]
+ },
+ {
+  "s": "Yuqoridagi asosiy menyu: bandlarni yashirish, nomini o‘zgartirish.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ },
+ {
+  "s": "Yuqoridagi tugma (ixtiyoriy)",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Yuqoridagi yoqish/o‘chirish tugmasi",
+  "files": [
+   "features/map-admin.tsx",
+   "features/overlay-editor.tsx"
+  ]
+ },
+ {
+  "s": "Zona (maydon) qatlamlari va reja rasmlari (generplan). Qatlam xaritada yoqiladi/o‘chiriladi.",
+  "files": [
+   "features/map-admin.tsx"
+  ]
+ },
+ {
+  "s": "Zona nomi",
+  "files": [
+   "features/content-form.tsx"
+  ]
+ },
+ {
+  "s": "Zona qatlamlari va reja rasmlari (generplan): xaritada yoqiladi/o‘chiriladi.",
+  "files": [
+   "features/admin-info.ts"
+  ]
+ }
+]

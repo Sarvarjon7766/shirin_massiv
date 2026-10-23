@@ -1,0 +1,2102 @@
+{
+  "— guruhlanmasin —": {
+    "en": "— not grouped —",
+    "ru": "— без группировки —",
+    "zh": "— 不分组 —"
+  },
+  "— har birining nomini yozing": {
+    "en": "— type a name for each",
+    "ru": "— введите название для каждой",
+    "zh": "— 为每个站点输入名称"
+  },
+  "— holat bo‘yicha ranglangan, auksion va narxi bilan": {
+    "en": "coloured by status, with auction and price",
+    "ru": "цвет по статусу, с аукционом и ценой",
+    "zh": "按状态着色，含拍卖和价格"
+  },
+  "— ko‘rsatilmasin —": {
+    "en": "— not shown —",
+    "ru": "— не показывать —",
+    "zh": "— 不显示 —"
+  },
+  "«Yangi hudud» → xaritada burchaklarni ketma-ket bosing → «Chizishni tugatish».": {
+    "en": "“New plot” → click the corners on the map one after another → “Finish drawing”.",
+    "ru": "«Новый участок» → последовательно щёлкайте по углам на карте → «Завершить рисование».",
+    "zh": "“新建地块”→ 在地图上依次点击各角点 →“完成绘制”。"
+  },
+  "Almashish vaqti": {
+    "en": "Switch interval",
+    "ru": "Интервал смены",
+    "zh": "切换间隔"
+  },
+  "Alohida xaritalar yarating (Investitsiya, Bosh reja, Metro…) va har birida nimalar ko‘rinishini tanlang.": {
+    "en": "Create separate maps (Investment, Master plan, Metro…) and choose what each one shows.",
+    "ru": "Создавайте отдельные карты (Инвестиции, Генплан, Метро…) и выбирайте, что на каждой отображается.",
+    "zh": "创建独立地图（投资、总体规划、地铁…），并选择每张地图显示的内容。"
+  },
+  "Alohida xaritalar yarating (Investitsiya, Bosh reja, Metro…) va har birida qaysi hududlar, obyektlar va qatlamlar ko‘rinishini tanlang.": {
+    "en": "Create separate maps (Investment, Master plan, Metro…) and choose which plots, objects and layers each one shows.",
+    "ru": "Создавайте отдельные карты (Инвестиции, Генплан, Метро…) и выбирайте, какие участки, объекты и слои на них видны.",
+    "zh": "创建独立地图（投资、总体规划、地铁…），并选择每张地图显示的地块、对象和图层。"
+  },
+  "Ariza muddati": {
+    "en": "Application deadline",
+    "ru": "Срок подачи заявок",
+    "zh": "申请截止时间"
+  },
+  "Ariza muddatigacha": {
+    "en": "Until the application deadline",
+    "ru": "До окончания приёма заявок",
+    "zh": "距申请截止"
+  },
+  "Ariza qabul qilish muddati tugagan.": {
+    "en": "The application period has ended.",
+    "ru": "Приём заявок завершён.",
+    "zh": "申请期已结束。"
+  },
+  "Asosiy": {
+    "en": "Main",
+    "ru": "Основное",
+    "zh": "主要"
+  },
+  "Asosiy domen (https://...)": {
+    "en": "Main domain (https://...)",
+    "ru": "Основной домен (https://...)",
+    "zh": "主域名 (https://...)"
+  },
+  "Asosiy vazifa": {
+    "en": "Main function",
+    "ru": "Основная функция",
+    "zh": "主要功能"
+  },
+  "Asosiy vazifa ulushi (%)": {
+    "en": "Share of main function (%)",
+    "ru": "Доля основной функции (%)",
+    "zh": "主要功能占比 (%)"
+  },
+  "Auksion": {
+    "en": "Auction",
+    "ru": "Аукцион",
+    "zh": "拍卖"
+  },
+  "Auksion boshlanishi": {
+    "en": "Auction start",
+    "ru": "Начало аукциона",
+    "zh": "拍卖开始"
+  },
+  "Auksion havolasi (https)": {
+    "en": "Auction link (https)",
+    "ru": "Ссылка на аукцион (https)",
+    "zh": "拍卖链接 (https)"
+  },
+  "Auksion lot raqami": {
+    "en": "Auction lot number",
+    "ru": "Номер лота аукциона",
+    "zh": "拍卖地块编号"
+  },
+  "Auksion ma’lumoti": {
+    "en": "Auction information",
+    "ru": "Информация об аукционе",
+    "zh": "拍卖信息"
+  },
+  "Auksion nomi": {
+    "en": "Auction name",
+    "ru": "Название аукциона",
+    "zh": "拍卖名称"
+  },
+  "Auksion sahifasi": {
+    "en": "Auction page",
+    "ru": "Страница аукциона",
+    "zh": "拍卖页面"
+  },
+  "Avval «Yo‘nalish chizish» yoki «Bekat / nuqta qo‘yish» ni tanlang.": {
+    "en": "First choose “Draw route” or “Place station / point”.",
+    "ru": "Сначала выберите «Рисовать маршрут» или «Поставить станцию / точку».",
+    "zh": "请先选择“绘制线路”或“放置站点/点”。"
+  },
+  "Avval hudud chegarasini xaritada chizing": {
+    "en": "First draw the plot boundary on the map",
+    "ru": "Сначала нарисуйте границу участка на карте",
+    "zh": "请先在地图上绘制地块边界"
+  },
+  "Avval rasm yoki PDF tanlang": {
+    "en": "First choose an image or PDF",
+    "ru": "Сначала выберите изображение или PDF",
+    "zh": "请先选择图片或 PDF"
+  },
+  "Bajarilganlik (%)": {
+    "en": "Completion (%)",
+    "ru": "Выполнение (%)",
+    "zh": "完成度 (%)"
+  },
+  "Band nomi": {
+    "en": "Item name",
+    "ru": "Название пункта",
+    "zh": "项目名称"
+  },
+  "Band qo‘shish": {
+    "en": "Add item",
+    "ru": "Добавить пункт",
+    "zh": "添加项目"
+  },
+  "Band qo‘shsangiz, tugma bosilganda ochiladigan menyu bo‘ladi (masalan: Telegram bot, investor yo‘riqnomasi).": {
+    "en": "If you add items, a dropdown menu appears when the button is pressed (e.g. Telegram bot, investor guide).",
+    "ru": "Если добавить пункты, при нажатии кнопки откроется меню (например, Telegram-бот, руководство инвестора).",
+    "zh": "添加项目后，点击按钮会展开菜单（如 Telegram 机器人、投资者指南）。"
+  },
+  "Barcha bo‘limlardagi materiallar bitta ro‘yxatda: qidirish, holat bo‘yicha saralash, tahrirlash va nashr qilish.": {
+    "en": "Materials from all sections in one list: search, filter by status, edit and publish.",
+    "ru": "Материалы всех разделов в одном списке: поиск, фильтр по статусу, редактирование и публикация.",
+    "zh": "所有栏目的资料集中在一个列表：搜索、按状态筛选、编辑和发布。"
+  },
+  "Barcha toifalar": {
+    "en": "All categories",
+    "ru": "Все категории",
+    "zh": "所有类别"
+  },
+  "Barcha xaritalar": {
+    "en": "All maps",
+    "ru": "Все карты",
+    "zh": "所有地图"
+  },
+  "Batafsil": {
+    "en": "Details",
+    "ru": "Подробнее",
+    "zh": "详情"
+  },
+  "Bekat": {
+    "en": "Station",
+    "ru": "Станция",
+    "zh": "站点"
+  },
+  "Bekat / nuqta qo‘yish": {
+    "en": "Place station / point",
+    "ru": "Поставить станцию / точку",
+    "zh": "放置站点/点"
+  },
+  "Bekat nomi": {
+    "en": "Station name",
+    "ru": "Название станции",
+    "zh": "站点名称"
+  },
+  "Bekat nomini yozing (masalan: Universitet)": {
+    "en": "Type the station name (e.g. University)",
+    "ru": "Введите название станции (например, Университет)",
+    "zh": "输入站点名称（例如：大学站）"
+  },
+  "Bekatlar": {
+    "en": "Stations",
+    "ru": "Станции",
+    "zh": "站点"
+  },
+  "Belgilash": {
+    "en": "Select",
+    "ru": "Выбрать",
+    "zh": "选择"
+  },
+  "Bir nechta hududning holatini birdan o‘zgartirish uchun ro‘yxatda ularni belgilang.": {
+    "en": "To change the status of several plots at once, select them in the list.",
+    "ru": "Чтобы изменить статус сразу нескольких участков, отметьте их в списке.",
+    "zh": "要一次更改多个地块的状态，请在列表中勾选它们。"
+  },
+  "Biriktirishni olib tashlash": {
+    "en": "Remove attachment",
+    "ru": "Убрать вложение",
+    "zh": "移除附件"
+  },
+  "Bog‘lanmagan": {
+    "en": "Not linked",
+    "ru": "Не привязано",
+    "zh": "未关联"
+  },
+  "Bog‘liq materiallar": {
+    "en": "Related materials",
+    "ru": "Связанные материалы",
+    "zh": "相关资料"
+  },
+  "Bosh sahifa slayderi": {
+    "en": "Home page slider",
+    "ru": "Слайдер на главной странице",
+    "zh": "首页轮播"
+  },
+  "Bosh sahifadagi katta blokka bir nechta rasm, GIF yoki qisqa video (ovozsiz) yuklang — ular o‘zi almashib turadi. Slayd qo‘shilmasa, quyidagi «Bosh sahifa katta rasmi» ishlatiladi.": {
+    "en": "Upload several images, GIFs or short videos (silent) for the big block on the home page — they rotate automatically. If no slides are added, the “Home page main image” below is used.",
+    "ru": "Загрузите несколько изображений, GIF или коротких видео (без звука) для большого блока на главной — они меняются автоматически. Если слайдов нет, используется «Главное изображение главной страницы» ниже.",
+    "zh": "为首页大图区上传多张图片、GIF 或短视频（无声），它们会自动轮播。若未添加幻灯片，则使用下方的“首页主图”。"
+  },
+  "boshida yoqilgan": {
+    "en": "on by default",
+    "ru": "включено по умолчанию",
+    "zh": "默认开启"
+  },
+  "Boshlang‘ich ko‘rinish": {
+    "en": "Initial view",
+    "ru": "Начальный вид",
+    "zh": "初始视图"
+  },
+  "Boshlang‘ich narx": {
+    "en": "Starting price",
+    "ru": "Начальная цена",
+    "zh": "起拍价"
+  },
+  "Boshqa nom (ixtiyoriy)": {
+    "en": "Other name (optional)",
+    "ru": "Другое название (необязательно)",
+    "zh": "其他名称（可选）"
+  },
+  "Boshqa tillarga tarjima (ixtiyoriy)": {
+    "en": "Translation into other languages (optional)",
+    "ru": "Перевод на другие языки (необязательно)",
+    "zh": "其他语言翻译（可选）"
+  },
+  "Boshqaruv hisobotlari: loyihalar, murojaatlar va vazifalar bo‘yicha qisqa ko‘rsatkichlar.": {
+    "en": "Management reports: short indicators for projects, appeals and tasks.",
+    "ru": "Отчёты руководства: краткие показатели по проектам, обращениям и задачам.",
+    "zh": "管理报表：项目、申诉和任务的简要指标。"
+  },
+  "Boshqaruv paneliga kirish": {
+    "en": "Sign in to the control panel",
+    "ru": "Вход в панель управления",
+    "zh": "登录管理面板"
+  },
+  "Boshqaruv panelining xaritasi: har bir sahifa nima uchun kerak va u yerga qo‘shgan ma’lumotingiz saytda qayerda chiqadi.": {
+    "en": "Map of the control panel: what each page is for and where the data you add appears on the site.",
+    "ru": "Карта панели управления: для чего нужна каждая страница и где добавленные вами данные появятся на сайте.",
+    "zh": "管理面板导览：每个页面的用途，以及您添加的数据会出现在网站的哪个位置。"
+  },
+  "Boshqaruvga kiruvchi xodimlar: login, parol va rol (kontent menejer, admin).": {
+    "en": "Staff who sign in to the panel: login, password and role (content manager, admin).",
+    "ru": "Сотрудники, входящие в панель: логин, пароль и роль (контент-менеджер, администратор).",
+    "zh": "登录管理面板的员工：登录名、密码和角色（内容管理员、管理员）。"
+  },
+  "Boshqasini tanlash": {
+    "en": "Choose another",
+    "ru": "Выбрать другое",
+    "zh": "重新选择"
+  },
+  "Bu chegarani nuqta bo‘yicha tahrirlab bo‘lmaydi; «Qayta chizish» yoki GeoJSON orqali almashtiring.": {
+    "en": "This boundary cannot be edited point by point; redraw it or replace it via GeoJSON.",
+    "ru": "Эту границу нельзя править по точкам; перерисуйте её или замените через GeoJSON.",
+    "zh": "该边界无法逐点编辑；请重新绘制或通过 GeoJSON 替换。"
+  },
+  "Bu hisobda boshqaruv paneliga kirish huquqi yo‘q.": {
+    "en": "This account has no access to the control panel.",
+    "ru": "У этой учётной записи нет доступа к панели управления.",
+    "zh": "此账户无权访问管理面板。"
+  },
+  "Bu hudud uchun auksion ma’lumoti hali e’lon qilinmagan.": {
+    "en": "No auction information has been announced for this plot yet.",
+    "ru": "Для этого участка информация об аукционе ещё не объявлена.",
+    "zh": "该地块尚未公布拍卖信息。"
+  },
+  "Bu qatlamda maydon (poligon) bor — uni chizish bilan tahrirlab bo‘lmaydi, faqat chiziq va nuqta.": {
+    "en": "This layer contains an area (polygon) — it cannot be edited by drawing, only lines and points.",
+    "ru": "В этом слое есть площадной объект (полигон) — его нельзя править рисованием, только линии и точки.",
+    "zh": "该图层包含面（多边形），无法通过绘制编辑，仅支持线和点。"
+  },
+  "Bu xaritada nimalar ko‘rinadi?": {
+    "en": "What is shown on this map?",
+    "ru": "Что отображается на этой карте?",
+    "zh": "这张地图显示什么？"
+  },
+  "Bunday xarita topilmadi.": {
+    "en": "Map not found.",
+    "ru": "Карта не найдена.",
+    "zh": "未找到该地图。"
+  },
+  "Burchakni sudrang": {
+    "en": "Drag the corner",
+    "ru": "Перетащите угол",
+    "zh": "拖动角点"
+  },
+  "Burish +1°": {
+    "en": "Rotate +1°",
+    "ru": "Повернуть +1°",
+    "zh": "旋转 +1°"
+  },
+  "Burish −1°": {
+    "en": "Rotate −1°",
+    "ru": "Повернуть −1°",
+    "zh": "旋转 −1°"
+  },
+  "Chap tomondagi karta": {
+    "en": "Left-side card",
+    "ru": "Карточка слева",
+    "zh": "左侧卡片"
+  },
+  "Chegara endi qo‘lda yozilmaydi: hudud admin → «Xarita» bo‘limida xaritada chiziladi yoki GeoJSON fayldan import qilinadi, bu yerda esa tayyor hududni tanlaysiz. Ochiq sahifada «Xaritada ko‘rish» havolasi paydo bo‘ladi.": {
+    "en": "The boundary is no longer typed by hand: the plot is drawn on the map in admin → “Map”, or imported from a GeoJSON file, and here you choose a ready plot. A “View on map” link appears on the public page.",
+    "ru": "Границу больше не нужно вводить вручную: участок рисуется на карте в админке → «Карта» или импортируется из GeoJSON, а здесь вы выбираете готовый участок. На публичной странице появится ссылка «Показать на карте».",
+    "zh": "边界不再手动输入：地块在后台 →“地图”中绘制或从 GeoJSON 导入，此处直接选择现成地块。公开页面将出现“在地图上查看”链接。"
+  },
+  "Chegara hali chizilmagan": {
+    "en": "Boundary not drawn yet",
+    "ru": "Граница ещё не нарисована",
+    "zh": "尚未绘制边界"
+  },
+  "Chegara tayyor. Nuqtalarni sudrab to‘g‘rilashingiz yoki chiziq ustini bosib yangi nuqta qo‘shishingiz mumkin.": {
+    "en": "Boundary ready. You can drag the points to adjust it or click on the line to add a new point.",
+    "ru": "Граница готова. Можно перетаскивать точки или щёлкнуть по линии, чтобы добавить новую точку.",
+    "zh": "边界已完成。可拖动各点调整，或点击线段添加新点。"
+  },
+  "Chegaralar sxematik; rasmiy kadastr hujjati emas. Auksion shartlari rasmiy auksion platformasida.": {
+    "en": "Boundaries are schematic and not an official cadastral document. Auction terms are on the official auction platform.",
+    "ru": "Границы схематичны и не являются официальным кадастровым документом. Условия аукциона — на официальной аукционной площадке.",
+    "zh": "边界仅为示意，不是官方地籍文件。拍卖条件见官方拍卖平台。"
+  },
+  "Chegarani tahrirlash": {
+    "en": "Edit boundary",
+    "ru": "Править границу",
+    "zh": "编辑边界"
+  },
+  "Chegarani to‘g‘rilash: «Chegarani tahrirlash» → nuqtalarni sudrang; chiziq ustini bosing — yangi nuqta; nuqtaga ikki marta bosing — o‘chadi.": {
+    "en": "Adjusting the boundary: “Edit boundary” → drag points; click on a line — a new point; double-click a point — it is removed.",
+    "ru": "Правка границы: «Править границу» → перетаскивайте точки; щёлкните по линии — новая точка; двойной щелчок по точке — удалить.",
+    "zh": "调整边界：“编辑边界”→ 拖动各点；点击线段新增点；双击某点删除。"
+  },
+  "Chizilgan": {
+    "en": "Drawn",
+    "ru": "Нарисовано",
+    "zh": "已绘制"
+  },
+  "Chizish": {
+    "en": "Draw",
+    "ru": "Рисовать",
+    "zh": "绘制"
+  },
+  "Chizish asboblari": {
+    "en": "Drawing tools",
+    "ru": "Инструменты рисования",
+    "zh": "绘图工具"
+  },
+  "Chizish vositalari": {
+    "en": "Drawing tools",
+    "ru": "Инструменты рисования",
+    "zh": "绘图工具"
+  },
+  "Chizish xaritasi": {
+    "en": "Drawing map",
+    "ru": "Карта для рисования",
+    "zh": "绘图地图"
+  },
+  "Chizishni tugatish": {
+    "en": "Finish drawing",
+    "ru": "Завершить рисование",
+    "zh": "完成绘制"
+  },
+  "Darhol xaritada ko‘rsatish": {
+    "en": "Show on the map immediately",
+    "ru": "Сразу показывать на карте",
+    "zh": "立即在地图上显示"
+  },
+  "Dastlabki 300 ta ko‘rsatilgan — qidiruvdan foydalaning.": {
+    "en": "The first 300 are shown — use search.",
+    "ru": "Показаны первые 300 — воспользуйтесь поиском.",
+    "zh": "仅显示前 300 条，请使用搜索。"
+  },
+  "Davom etish": {
+    "en": "Continue",
+    "ru": "Продолжить",
+    "zh": "继续"
+  },
+  "Davom ettirish": {
+    "en": "Continue",
+    "ru": "Продолжить",
+    "zh": "继续"
+  },
+  "Doira (stansiya belgisi) + nom yozuvi": {
+    "en": "Circle (station marker) + name label",
+    "ru": "Круг (знак станции) + подпись названия",
+    "zh": "圆点（站点标记）+ 名称标签"
+  },
+  "F.I.Sh.": {
+    "en": "Full name",
+    "ru": "Ф.И.О.",
+    "zh": "姓名"
+  },
+  "Fayl to‘g‘ri JSON emas": {
+    "en": "The file is not valid JSON",
+    "ru": "Файл не является корректным JSON",
+    "zh": "文件不是有效的 JSON"
+  },
+  "Fayllar material va sahifalarda ishlatiladi": {
+    "en": "Files are used in materials and pages",
+    "ru": "Файлы используются в материалах и на страницах",
+    "zh": "文件用于资料和页面"
+  },
+  "Faylni o‘qib bo‘lmadi": {
+    "en": "Could not read the file",
+    "ru": "Не удалось прочитать файл",
+    "zh": "无法读取文件"
+  },
+  "Faylni tanlang: hududlar xaritada ko‘rinadi va server tekshiradi.": {
+    "en": "Choose a file: the plots appear on the map and the server validates them.",
+    "ru": "Выберите файл: участки отобразятся на карте, сервер проверит их.",
+    "zh": "选择文件：地块将显示在地图上，服务器将进行校验。"
+  },
+  "Foydalanuvchi xaritaning o‘zida ham ikkalasini almashtira oladi; bu — boshlang‘ich holat.": {
+    "en": "Visitors can switch both on the map itself; this is the initial state.",
+    "ru": "Посетители могут переключать оба режима на самой карте; это начальное состояние.",
+    "zh": "访客可以在地图上自行切换这两种方式；此处为初始状态。"
+  },
+  "Foydalanuvchini login orqali qo‘shing, rol va ruxsatlarni belgilang. Hisob bloklansa, boshqaruvga kirish darhol to‘xtaydi.": {
+    "en": "Add a user by login and set their role and permissions. If the account is blocked or the password changes, all its sessions end.",
+    "ru": "Добавьте пользователя по логину и задайте роль и права. Если учётная запись заблокирована или пароль изменён, все её сессии завершаются.",
+    "zh": "通过登录名添加用户并设置角色和权限。账户被封锁或密码更改后，其所有会话将被终止。"
+  },
+  "Fuqarolar yuborgan murojaatlar. Ko‘rib chiqing, holatini o‘zgartiring va javob yozing.": {
+    "en": "Appeals submitted by citizens. Review them, change their status and write a reply.",
+    "ru": "Обращения граждан. Рассматривайте, меняйте статус и пишите ответ.",
+    "zh": "公民提交的申诉。请审阅、更改状态并撰写回复。"
+  },
+  "G‘olib (natija)": {
+    "en": "Winner (result)",
+    "ru": "Победитель (результат)",
+    "zh": "中标者（结果）"
+  },
+  "Generplan rasmini (JPG, PNG yoki PDF) xaritaga joylashtiring: 4 ta burchakni xaritadagi haqiqiy joyiga sudrab moslaysiz. Shundan keyin «Hududlar» bo‘limida shu rasm ustidan lotlarni chizasiz.": {
+    "en": "Place the master plan image (JPG, PNG or PDF) on the map: drag the 4 corners to its real position. Then draw plots on top of it in the “Plots” section.",
+    "ru": "Разместите изображение генплана (JPG, PNG или PDF) на карте: перетащите 4 угла на реальное место. Затем в разделе «Участки» рисуйте лоты поверх него.",
+    "zh": "将总体规划图（JPG、PNG 或 PDF）放到地图上：拖动 4 个角点对准实际位置，然后在“地块”栏目中在其上绘制地块。"
+  },
+  "GeoJSON fayl": {
+    "en": "GeoJSON file",
+    "ru": "Файл GeoJSON",
+    "zh": "GeoJSON 文件"
+  },
+  "GeoJSON FeatureCollection kerak": {
+    "en": "A GeoJSON FeatureCollection is required",
+    "ru": "Нужен GeoJSON FeatureCollection",
+    "zh": "需要 GeoJSON FeatureCollection"
+  },
+  "Geometriya GeoJSON orqali berilgan": {
+    "en": "Geometry was provided via GeoJSON",
+    "ru": "Геометрия задана через GeoJSON",
+    "zh": "几何图形来自 GeoJSON"
+  },
+  "Geometriya qabul qilindi. Saqlash tugmasini bosing.": {
+    "en": "Geometry accepted. Press the Save button.",
+    "ru": "Геометрия принята. Нажмите кнопку «Сохранить».",
+    "zh": "几何图形已接受。请点击“保存”按钮。"
+  },
+  "Guruhlash maydoni (masalan: yil)": {
+    "en": "Grouping field (e.g. year)",
+    "ru": "Поле группировки (например, год)",
+    "zh": "分组字段（例如：年份）"
+  },
+  "Hali hudud bo‘lmaganda xarita shu joyda ochiladi.": {
+    "en": "The map opens here while there are no plots.",
+    "ru": "Пока участков нет, карта открывается здесь.",
+    "zh": "尚无地块时，地图在此处打开。"
+  },
+  "Hali hudud yo‘q": {
+    "en": "No plots yet",
+    "ru": "Участков пока нет",
+    "zh": "暂无地块"
+  },
+  "Hali qatlam yo‘q.": {
+    "en": "No layers yet.",
+    "ru": "Слоёв пока нет.",
+    "zh": "暂无图层。"
+  },
+  "Hali qatlam yo‘q. «Qatlamlar» tabida yarating.": {
+    "en": "No layers yet. Create them in the “Layers” tab.",
+    "ru": "Слоёв пока нет. Создайте их на вкладке «Слои».",
+    "zh": "暂无图层。请在“图层”标签页中创建。"
+  },
+  "Hali reja rasmi yo‘q.": {
+    "en": "No master plan image yet.",
+    "ru": "Изображения генплана пока нет.",
+    "zh": "暂无总体规划图。"
+  },
+  "Hali toifa yo‘q. Quyidagi namunalardan tanlang yoki «Yangi toifa» ni bosing.": {
+    "en": "No categories yet. Pick from the examples below or press “New category”.",
+    "ru": "Категорий пока нет. Выберите из примеров ниже или нажмите «Новая категория».",
+    "zh": "暂无类别。请从下方示例中选择或点击“新建类别”。"
+  },
+  "Hamkor nomi": {
+    "en": "Partner name",
+    "ru": "Название партнёра",
+    "zh": "合作伙伴名称"
+  },
+  "Hammasi": {
+    "en": "All",
+    "ru": "Все",
+    "zh": "全部"
+  },
+  "Hammasini belgilash": {
+    "en": "Select all",
+    "ru": "Выбрать все",
+    "zh": "全选"
+  },
+  "Hammasini yuklab olish": {
+    "en": "Download all",
+    "ru": "Скачать все",
+    "zh": "全部下载"
+  },
+  "Har bir xarita alohida sahifa: o‘z nomi, o‘z qatlamlari va obyektlari bor. Saytda yuqorida almashtirgich chiqadi. Birinchi xarita — /map ning o‘zi.": {
+    "en": "Each map is a separate page with its own name, layers and objects. A switcher appears at the top of the site. The first map is /map itself.",
+    "ru": "Каждая карта — отдельная страница со своим названием, слоями и объектами. Вверху сайта появляется переключатель. Первая карта — это сам /map.",
+    "zh": "每张地图都是独立页面，有自己的名称、图层和对象。网站顶部会出现切换器。第一张地图即 /map 本身。"
+  },
+  "Havola (ixtiyoriy)": {
+    "en": "Link (optional)",
+    "ru": "Ссылка (необязательно)",
+    "zh": "链接（可选）"
+  },
+  "Havola manzili": {
+    "en": "Link address",
+    "ru": "Адрес ссылки",
+    "zh": "链接地址"
+  },
+  "Havola matni (ixtiyoriy)": {
+    "en": "Link text (optional)",
+    "ru": "Текст ссылки (необязательно)",
+    "zh": "链接文字（可选）"
+  },
+  "Havola qo‘shish (ixtiyoriy)": {
+    "en": "Add link (optional)",
+    "ru": "Добавить ссылку (необязательно)",
+    "zh": "添加链接（可选）"
+  },
+  "Hech narsa topilmadi": {
+    "en": "Nothing found",
+    "ru": "Ничего не найдено",
+    "zh": "未找到任何内容"
+  },
+  "Hisobot nomi": {
+    "en": "Report name",
+    "ru": "Название отчёта",
+    "zh": "报告名称"
+  },
+  "Holat — hudud hozir qanday: bo‘sh, kutishda, sotuvda, sotilgan… Xaritada shu rangda chiqadi. Tizim holatlari auksion bilan ishlaydi (nomi va rangini o‘zgartirish mumkin); o‘zingiz yangi holat ham qo‘shishingiz mumkin.": {
+    "en": "Status — the current state of a plot: free, waiting, on sale, sold… It appears on the map in this colour. System statuses work with the auction (you can rename them and change their colour); you can also add your own statuses.",
+    "ru": "Статус — текущее состояние участка: свободен, ожидание, в продаже, продан… На карте отображается этим цветом. Системные статусы связаны с аукционом (можно менять название и цвет); можно добавлять и свои статусы.",
+    "zh": "状态——地块当前情况：空闲、等待、在售、已售…地图上以该颜色显示。系统状态与拍卖挂钩（可改名称和颜色），也可添加自己的状态。"
+  },
+  "Holat bo‘yicha": {
+    "en": "By status",
+    "ru": "По статусу",
+    "zh": "按状态"
+  },
+  "Holat bo‘yicha (bo‘sh, sotuvda, sotilgan…)": {
+    "en": "By status (free, on sale, sold…)",
+    "ru": "По статусу (свободен, в продаже, продан…)",
+    "zh": "按状态（空闲、在售、已售…）"
+  },
+  "Holat nomi (masalan: Ijarada)": {
+    "en": "Status name (e.g. Leased)",
+    "ru": "Название статуса (например, В аренде)",
+    "zh": "状态名称（例如：已出租）"
+  },
+  "Holati": {
+    "en": "Status",
+    "ru": "Статус",
+    "zh": "状态"
+  },
+  "holatni o‘zgartirish": {
+    "en": "change status",
+    "ru": "изменить статус",
+    "zh": "更改状态"
+  },
+  "Holatni tanlang…": {
+    "en": "Choose a status…",
+    "ru": "Выберите статус…",
+    "zh": "选择状态…"
+  },
+  "Hozircha alohida xarita yaratilmagan: sayt hamma narsani bitta xaritada ko‘rsatadi. Boshlash uchun namunani tanlang:": {
+    "en": "No separate maps have been created yet: the site shows everything on a single map. Pick an example to start:",
+    "ru": "Отдельных карт пока нет: сайт показывает всё на одной карте. Выберите пример, чтобы начать:",
+    "zh": "尚未创建独立地图：网站在一张地图上显示全部内容。请选择一个示例开始："
+  },
+  "Hozircha nashr qilingan hududlar yo‘q": {
+    "en": "No published plots yet",
+    "ru": "Опубликованных участков пока нет",
+    "zh": "暂无已发布的地块"
+  },
+  "Hudud faqat «Xaritada ko‘rsatish» belgilanganda ommaga ko‘rinadi. Qoralamalar xaritada xira va chiziqli ko‘rinadi.": {
+    "en": "A plot is visible to the public only when “Show on the map” is ticked. Drafts appear faded and dashed on the map.",
+    "ru": "Участок виден публике только при включённой опции «Показывать на карте». Черновики на карте выглядят блёклыми и пунктирными.",
+    "zh": "仅勾选“在地图上显示”时，地块才对公众可见。草稿在地图上显示为淡色虚线。"
+  },
+  "Hudud holatlari": {
+    "en": "Plot statuses",
+    "ru": "Статусы участков",
+    "zh": "地块状态"
+  },
+  "Hudud holatlari (bo‘sh, kutishda, sotuvda, olingan…) va toifalari (turar-joy, noturar-joy, restoran, tashkilotlar…) ni o‘zingiz yarating, nomi va rangini o‘zgartiring.": {
+    "en": "Create your own plot statuses (free, waiting, on sale, taken…) and categories (residential, non-residential, restaurant, organisations…) and change their names and colours.",
+    "ru": "Создавайте собственные статусы участков (свободен, ожидание, в продаже, занят…) и категории (жилые, нежилые, ресторан, организации…), меняйте их названия и цвета.",
+    "zh": "创建自己的地块状态（空闲、等待、在售、已占用…）和类别（住宅、非住宅、餐厅、机构…），并更改名称和颜色。"
+  },
+  "Hudud holatlari (bo‘sh, kutishda, sotuvda…) va toifalari (turar-joy, noturar-joy…): nomi va rangi.": {
+    "en": "Plot statuses (free, waiting, on sale…) and categories (residential, non-residential…): names and colours.",
+    "ru": "Статусы участков (свободен, ожидание, в продаже…) и категории (жилые, нежилые…): названия и цвета.",
+    "zh": "地块状态（空闲、等待、在售…）和类别（住宅、非住宅…）：名称和颜色。"
+  },
+  "Hudud ma’lumotlari": {
+    "en": "Plot details",
+    "ru": "Данные участка",
+    "zh": "地块信息"
+  },
+  "Hudud raqami": {
+    "en": "Plot number",
+    "ru": "Номер участка",
+    "zh": "地块编号"
+  },
+  "Hudud tanlash": {
+    "en": "Choose plot",
+    "ru": "Выбрать участок",
+    "zh": "选择地块"
+  },
+  "Hududga": {
+    "en": "To the plot",
+    "ru": "К участку",
+    "zh": "前往地块"
+  },
+  "Hududlar (lotlar)": {
+    "en": "Plots (lots)",
+    "ru": "Участки (лоты)",
+    "zh": "地块（拍卖地块）"
+  },
+  "Hududlar (xaritadagi lotlar): chizing yoki import qiling, holati, toifasi, maydoni va auksionini kiriting.": {
+    "en": "Plots (lots on the map): draw them or import from a file, set status, category, area and auction.",
+    "ru": "Участки (лоты на карте): рисуйте или импортируйте из файла, задавайте статус, категорию, площадь и аукцион.",
+    "zh": "地块（地图上的地块）：绘制或从文件导入，设置状态、类别、面积和拍卖。"
+  },
+  "Hududlar (xaritadagi lotlar): xaritada chizing yoki fayldan import qiling, holati, toifasi, maydoni va auksionini kiriting.": {
+    "en": "Plots (lots on the map): draw on the map or import from a file, set status, category, area and auction.",
+    "ru": "Участки (лоты на карте): рисуйте на карте или импортируйте из файла, задавайте статус, категорию, площадь и аукцион.",
+    "zh": "地块（地图上的地块）：在地图上绘制或从文件导入，设置状态、类别、面积和拍卖。"
+  },
+  "hududlar bor": {
+    "en": "plots",
+    "ru": "участков",
+    "zh": "个地块"
+  },
+  "Hududlar ro‘yxatini yuklab bo‘lmadi": {
+    "en": "Could not load the plot list",
+    "ru": "Не удалось загрузить список участков",
+    "zh": "无法加载地块列表"
+  },
+  "Hududlar ro‘yxatini yuklab bo‘lmadi.": {
+    "en": "Could not load the plot list.",
+    "ru": "Не удалось загрузить список участков.",
+    "zh": "无法加载地块列表。"
+  },
+  "Hududlar xaritasi": {
+    "en": "Plot map",
+    "ru": "Карта участков",
+    "zh": "地块地图"
+  },
+  "Hududlar xaritasi (tahrirlash)": {
+    "en": "Plot map (editing)",
+    "ru": "Карта участков (редактирование)",
+    "zh": "地块地图（编辑）"
+  },
+  "Hududni o‘chirish?": {
+    "en": "Delete this plot?",
+    "ru": "Удалить участок?",
+    "zh": "删除该地块？"
+  },
+  "Hududni tahrirlash": {
+    "en": "Edit plot",
+    "ru": "Редактировать участок",
+    "zh": "编辑地块"
+  },
+  "Hududni tanlang": {
+    "en": "Select a plot",
+    "ru": "Выберите участок",
+    "zh": "选择地块"
+  },
+  "Hududni tanlang…": {
+    "en": "Select a plot…",
+    "ru": "Выберите участок…",
+    "zh": "选择地块…"
+  },
+  "Hududni xaritada ochish": {
+    "en": "Open the plot on the map",
+    "ru": "Открыть участок на карте",
+    "zh": "在地图上打开地块"
+  },
+  "Hududni xaritadan yoki ro‘yxatdan tanlang — o‘ng tomonda ma’lumotlari ochiladi.": {
+    "en": "Select a plot on the map or from the list — its details open on the right.",
+    "ru": "Выберите участок на карте или в списке — справа откроются его данные.",
+    "zh": "在地图上或列表中选择地块——右侧将显示其信息。"
+  },
+  "Hujjat nomi": {
+    "en": "Document name",
+    "ru": "Название документа",
+    "zh": "文件名称"
+  },
+  "Ichki statistika: materiallar, qurilish, investitsiya, murojaat va vazifalar bo‘yicha raqamlar.": {
+    "en": "Internal statistics: figures for materials, construction, investment, appeals and tasks.",
+    "ru": "Внутренняя статистика: цифры по материалам, строительству, инвестициям, обращениям и задачам.",
+    "zh": "内部统计：资料、建设、投资、申诉和任务的数据。"
+  },
+  "Ilg‘or: GeoJSON geometriyani qo‘lda kiritish": {
+    "en": "Advanced: enter GeoJSON geometry manually",
+    "ru": "Дополнительно: ввести геометрию GeoJSON вручную",
+    "zh": "高级：手动输入 GeoJSON 几何图形"
+  },
+  "Import / eksport": {
+    "en": "Import / export",
+    "ru": "Импорт / экспорт",
+    "zh": "导入 / 导出"
+  },
+  "Import qilish": {
+    "en": "Import",
+    "ru": "Импортировать",
+    "zh": "导入"
+  },
+  "Import tugadi": {
+    "en": "Import finished",
+    "ru": "Импорт завершён",
+    "zh": "导入完成"
+  },
+  "Investitsiya xaritasi": {
+    "en": "Investment map",
+    "ru": "Инвестиционная карта",
+    "zh": "投资地图"
+  },
+  "Investorlar va hamkorlar kartasi": {
+    "en": "Investors and partners card",
+    "ru": "Карточка «Инвесторы и партнёры»",
+    "zh": "投资者与合作伙伴卡片"
+  },
+  "Izoh": {
+    "en": "Note",
+    "ru": "Примечание",
+    "zh": "备注"
+  },
+  "Javob fuqaroning «Murojaatlarim» sahifasida ko‘rinadi": {
+    "en": "The reply appears on the citizen’s “My appeals” page",
+    "ru": "Ответ виден гражданину на странице «Мои обращения»",
+    "zh": "回复将显示在公民的“我的申诉”页面"
+  },
+  "Joyiga o‘tish": {
+    "en": "Go to",
+    "ru": "Перейти",
+    "zh": "前往"
+  },
+  "Joyini to‘g‘rilash": {
+    "en": "Adjust position",
+    "ru": "Скорректировать положение",
+    "zh": "调整位置"
+  },
+  "Joylashuvni belgilash uchun xaritani bosing": {
+    "en": "Click on the map to set the location",
+    "ru": "Нажмите на карту, чтобы отметить место",
+    "zh": "点击地图以标记位置"
+  },
+  "Joylashuvni olib tashlash": {
+    "en": "Remove location",
+    "ru": "Убрать местоположение",
+    "zh": "移除位置"
+  },
+  "JPG, PNG yoki PDF faylni tanlang": {
+    "en": "Choose a JPG, PNG or PDF file",
+    "ru": "Выберите файл JPG, PNG или PDF",
+    "zh": "请选择 JPG、PNG 或 PDF 文件"
+  },
+  "Kamera nomi": {
+    "en": "Camera name",
+    "ru": "Название камеры",
+    "zh": "摄像头名称"
+  },
+  "Kamida 3 ta nuqta kerak": {
+    "en": "At least 3 points are needed",
+    "ru": "Нужно минимум 3 точки",
+    "zh": "至少需要 3 个点"
+  },
+  "Kenglik (latitude)": {
+    "en": "Latitude",
+    "ru": "Широта",
+    "zh": "纬度"
+  },
+  "Kerakli hudud yo‘qmi?": {
+    "en": "Can’t find the plot you need?",
+    "ru": "Нужного участка нет?",
+    "zh": "找不到需要的地块？"
+  },
+  "Kerakli turni tanlang: material qo‘shiladi va saytda qaysi sahifada chiqishi ko‘rsatiladi.": {
+    "en": "Choose a type: the material is added and it shows which page of the site it will appear on.",
+    "ru": "Выберите тип: материал будет добавлен, и будет показано, на какой странице сайта он появится.",
+    "zh": "选择类型：资料将被添加，并显示它会出现在网站的哪个页面。"
+  },
+  "Keyingisi": {
+    "en": "Next",
+    "ru": "Следующий",
+    "zh": "下一个"
+  },
+  "Kim, qachon, nima qilgani: so‘nggi 100 ta amal.": {
+    "en": "Who did what and when: the last 100 actions.",
+    "ru": "Кто, когда и что сделал: последние 100 действий.",
+    "zh": "谁在何时做了什么：最近 100 项操作。"
+  },
+  "KMN (%)": {
+    "en": "Site coverage (%)",
+    "ru": "Плотность застройки (%)",
+    "zh": "建筑密度 (%)"
+  },
+  "Ko‘pi bilan 10 ta slayd": {
+    "en": "At most 10 slides",
+    "ru": "Не более 10 слайдов",
+    "zh": "最多 10 张幻灯片"
+  },
+  "Ko‘pi bilan 12 ta fayl biriktiriladi": {
+    "en": "At most 12 files can be attached",
+    "ru": "Можно прикрепить не более 12 файлов",
+    "zh": "最多可附加 12 个文件"
+  },
+  "Kompaniya (g‘olib / egasi)": {
+    "en": "Company (winner / owner)",
+    "ru": "Компания (победитель / владелец)",
+    "zh": "公司（中标者/所有者）"
+  },
+  "Kontent bo‘limlaridagi obyektlar, agar joylashuvi (nuqta), tayyor hududi yoki chegarasi belgilangan bo‘lsa, xaritada chiqadi. Qaysi turlar ko‘rinishi, nomi va rangini shu yerda sozlang.": {
+    "en": "Objects from the content sections appear on the map if they have a location (point), a ready plot or a boundary. Set which types are shown, and their names and colours, here.",
+    "ru": "Объекты из разделов контента отображаются на карте, если у них заданы местоположение (точка), готовый участок или граница. Какие типы показывать, их названия и цвета настраиваются здесь.",
+    "zh": "若内容栏目中的对象设置了位置（点）、现成地块或边界，就会显示在地图上。在此设置显示哪些类型及其名称和颜色。"
+  },
+  "Kontent obyektlari": {
+    "en": "Content objects",
+    "ru": "Объекты контента",
+    "zh": "内容对象"
+  },
+  "Lavozim nomi": {
+    "en": "Position title",
+    "ru": "Название должности",
+    "zh": "职位名称"
+  },
+  "Login": {
+    "en": "Login",
+    "ru": "Логин",
+    "zh": "登录名"
+  },
+  "Login va parolni foydalanuvchiga o‘zingiz yetkazing. Parol o‘zgartirilsa yoki hisob bloklansa, uning barcha sessiyalari tugatiladi.": {
+    "en": "Give the login and password to the user yourself. If the password changes or the account is blocked, all its sessions end.",
+    "ru": "Передайте логин и пароль пользователю лично. Если пароль изменён или учётная запись заблокирована, все её сессии завершаются.",
+    "zh": "请您亲自将登录名和密码告知用户。密码更改或账户被封锁后，其所有会话将终止。"
+  },
+  "Logotip, bosh sahifa slayderi (rasm, GIF, video), «haqida» va bosh reja rasmlari.": {
+    "en": "Logo, home page slider (image, GIF, video), “about” and master plan images.",
+    "ru": "Логотип, слайдер главной страницы (изображение, GIF, видео), изображения «О нас» и генплана.",
+    "zh": "徽标、首页轮播（图片、GIF、视频）、“关于”图片和总体规划图。"
+  },
+  "Lot": {
+    "en": "Lot",
+    "ru": "Лот",
+    "zh": "地块"
+  },
+  "Loyiha / material": {
+    "en": "Project / material",
+    "ru": "Проект / материал",
+    "zh": "项目 / 资料"
+  },
+  "Manzil (/map/…)": {
+    "en": "Address (/map/…)",
+    "ru": "Адрес (/map/…)",
+    "zh": "地址 (/map/…)"
+  },
+  "Masalan: / yoki /about": {
+    "en": "For example: / or /about",
+    "ru": "Например: / или /about",
+    "zh": "例如：/ 或 /about"
+  },
+  "Masalan: Butun yo‘nalish": {
+    "en": "For example: The whole route",
+    "ru": "Например: Весь маршрут",
+    "zh": "例如：完整线路"
+  },
+  "Masalan: Shirin massivi generplani": {
+    "en": "For example: Shirin master plan",
+    "ru": "Например: Генплан Ширин",
+    "zh": "例如：Shirin 总体规划"
+  },
+  "Masshtab (1–19)": {
+    "en": "Zoom (1–19)",
+    "ru": "Масштаб (1–19)",
+    "zh": "缩放级别 (1–19)"
+  },
+  "Materialni tanlang…": {
+    "en": "Choose a material…",
+    "ru": "Выберите материал…",
+    "zh": "选择资料…"
+  },
+  "Matn va manzil ikkalasi ham kiritilsa, yuqori o‘ng burchakda ko‘rinadi.": {
+    "en": "If both text and address are filled in, it appears in the top-right corner.",
+    "ru": "Если заполнены и текст, и адрес, он отображается в правом верхнем углу.",
+    "zh": "若同时填写文字和地址，则显示在右上角。"
+  },
+  "Mavjud barcha hududlar o‘chirilib, fayl bilan almashtiriladi. Davom etasizmi?": {
+    "en": "All existing plots will be deleted and replaced with the file. Continue?",
+    "ru": "Все существующие участки будут удалены и заменены файлом. Продолжить?",
+    "zh": "现有所有地块将被删除并由文件替换。是否继续？"
+  },
+  "Mavjud hududlarni almashtirish": {
+    "en": "Replace existing plots",
+    "ru": "Заменить существующие участки",
+    "zh": "替换现有地块"
+  },
+  "Maydon (gektar)": {
+    "en": "Area (hectares)",
+    "ru": "Площадь (га)",
+    "zh": "面积（公顷）"
+  },
+  "Maydonni hisoblash": {
+    "en": "Calculate area",
+    "ru": "Рассчитать площадь",
+    "zh": "计算面积"
+  },
+  "Metro, yo‘l va bekatlarni xaritada chizing, bekatlarga nom bering.": {
+    "en": "Draw the metro, roads and stations on the map and name the stations.",
+    "ru": "Нарисуйте метро, дороги и станции на карте и назовите станции.",
+    "zh": "在地图上绘制地铁、道路和站点并为站点命名。"
+  },
+  "Metro, yo‘l va bekatlarni xaritada o‘zingiz chizing: yo‘nalishni chizasiz, bekatlarni qo‘yasiz, nom va havola berasiz.": {
+    "en": "Draw the metro, roads and stations on the map yourself: draw the route, place the stations, give names and links.",
+    "ru": "Нарисуйте метро, дороги и станции на карте сами: проведите маршрут, поставьте станции, дайте названия и ссылки.",
+    "zh": "自行在地图上绘制地铁、道路和站点：画出线路、放置站点、设置名称和链接。"
+  },
+  "Metro, yo‘l yoki bekatlarni GeoJSON faylsiz, to‘g‘ridan-to‘g‘ri xaritada chizing: yo‘nalish chiziladi, bekatlar qo‘yiladi, har biriga nom va havola beriladi.": {
+    "en": "Draw the metro, roads or stations directly on the map, with no GeoJSON file: the route is drawn, stations are placed, each gets a name and a link.",
+    "ru": "Рисуйте метро, дороги или станции прямо на карте, без файла GeoJSON: маршрут рисуется, станции ставятся, у каждой есть название и ссылка.",
+    "zh": "无需 GeoJSON 文件，直接在地图上绘制地铁、道路或站点：画线路、放站点，并为每个设置名称和链接。"
+  },
+  "Metro, zona, yo‘l yoki generplan rasmi": {
+    "en": "Metro, zone, road or master plan image",
+    "ru": "Метро, зона, дорога или изображение генплана",
+    "zh": "地铁、区域、道路或总体规划图"
+  },
+  "Murakkab chegara (ko‘p qismli yoki teshikli)": {
+    "en": "Complex boundary (multi-part or with holes)",
+    "ru": "Сложная граница (из нескольких частей или с отверстиями)",
+    "zh": "复杂边界（多部分或带孔）"
+  },
+  "Murojaat yuborish va javoblarni kuzatish uchun hisobingiz bilan kiring yoki ro‘yxatdan o‘ting.": {
+    "en": "Sign in or register to submit an appeal and follow the replies.",
+    "ru": "Войдите или зарегистрируйтесь, чтобы отправить обращение и следить за ответами.",
+    "zh": "请登录或注册以提交申诉并查看回复。"
+  },
+  "Namuna fayl": {
+    "en": "Sample file",
+    "ru": "Образец файла",
+    "zh": "示例文件"
+  },
+  "Namuna faylni yuklab oling va o‘z ma’lumotingizni shu shaklda tayyorlang.": {
+    "en": "Download the sample file and prepare your data in this format.",
+    "ru": "Скачайте образец файла и подготовьте свои данные в таком же виде.",
+    "zh": "下载示例文件，并按此格式准备您的数据。"
+  },
+  "Namuna hududlar yuklash": {
+    "en": "Load sample plots",
+    "ru": "Загрузить образцы участков",
+    "zh": "加载示例地块"
+  },
+  "Natija hujjati": {
+    "en": "Result document",
+    "ru": "Документ с результатами",
+    "zh": "结果文件"
+  },
+  "Natija hujjati (https yoki /assets/…)": {
+    "en": "Result document (https or /assets/…)",
+    "ru": "Документ с результатами (https или /assets/…)",
+    "zh": "结果文件（https 或 /assets/…）"
+  },
+  "Natijadan mamnun bo‘lsangiz «Import qilish» ni bosing.": {
+    "en": "If you are happy with the result, press “Import”.",
+    "ru": "Если результат устраивает, нажмите «Импортировать».",
+    "zh": "如果结果满意，请点击“导入”。"
+  },
+  "Natijalar": {
+    "en": "Results",
+    "ru": "Результаты",
+    "zh": "结果"
+  },
+  "Nima qo‘shmoqchisiz?": {
+    "en": "What do you want to add?",
+    "ru": "Что вы хотите добавить?",
+    "zh": "您想添加什么？"
+  },
+  "Nimaga bog‘lash": {
+    "en": "What to link to",
+    "ru": "К чему привязать",
+    "zh": "关联到"
+  },
+  "Nom": {
+    "en": "Name",
+    "ru": "Название",
+    "zh": "名称"
+  },
+  "Nomli belgi-chip (≤150 nuqta, masalan metro bekatlari)": {
+    "en": "Named marker chip (≤150 points, e.g. metro stations)",
+    "ru": "Метка с названием (≤150 точек, например станции метро)",
+    "zh": "带名称的标签（≤150 个点，如地铁站）"
+  },
+  "Nuqtalar ko‘rinishi": {
+    "en": "Point style",
+    "ru": "Вид точек",
+    "zh": "点样式"
+  },
+  "O‘chirildi": {
+    "en": "Deleted",
+    "ru": "Удалено",
+    "zh": "已删除"
+  },
+  "O‘chirilgan holatdagi hududlar «Ma’lumot yo‘q» holatiga o‘tadi.": {
+    "en": "Plots with a deleted status will move to the “No data” status.",
+    "ru": "Участки с удалённым статусом перейдут в статус «Нет данных».",
+    "zh": "已删除状态下的地块将变为“暂无数据”状态。"
+  },
+  "Obyekt nomi": {
+    "en": "Object name",
+    "ru": "Название объекта",
+    "zh": "对象名称"
+  },
+  "Obyekt nomi qaysi maydondan olinsin": {
+    "en": "Which field should the object name come from",
+    "ru": "Из какого поля брать название объекта",
+    "zh": "对象名称取自哪个字段"
+  },
+  "Obyektlar": {
+    "en": "Objects",
+    "ru": "Объекты",
+    "zh": "对象"
+  },
+  "Obyektlar ro‘yxati": {
+    "en": "Objects list",
+    "ru": "Список объектов",
+    "zh": "对象列表"
+  },
+  "Ochiq maydon (m²)": {
+    "en": "Open area (m²)",
+    "ru": "Открытая площадь (м²)",
+    "zh": "开放面积 (m²)"
+  },
+  "Oldingisi": {
+    "en": "Previous",
+    "ru": "Предыдущий",
+    "zh": "上一个"
+  },
+  "Olib tashlash": {
+    "en": "Remove",
+    "ru": "Убрать",
+    "zh": "移除"
+  },
+  "Ommaga ko‘rsatish": {
+    "en": "Show to the public",
+    "ru": "Показывать публично",
+    "zh": "向公众显示"
+  },
+  "Ommaga ko‘rsatish (aks holda faqat adminlarga ko‘rinadi)": {
+    "en": "Show to the public (otherwise only admins see it)",
+    "ru": "Показывать публично (иначе видно только администраторам)",
+    "zh": "向公众显示（否则仅管理员可见）"
+  },
+  "Orqaga": {
+    "en": "Back",
+    "ru": "Назад",
+    "zh": "返回"
+  },
+  "Oxirgi nuqtani olib tashlash": {
+    "en": "Remove the last point",
+    "ru": "Убрать последнюю точку",
+    "zh": "移除最后一个点"
+  },
+  "Parol": {
+    "en": "Password",
+    "ru": "Пароль",
+    "zh": "密码"
+  },
+  "Parol kamida 8 belgidan iborat bo‘lsin.": {
+    "en": "The password must be at least 8 characters long.",
+    "ru": "Пароль должен содержать не менее 8 символов.",
+    "zh": "密码至少需 8 个字符。"
+  },
+  "PDF sahifasi": {
+    "en": "PDF page",
+    "ru": "Страница PDF",
+    "zh": "PDF 页码"
+  },
+  "Portalning bugungi holati: materiallar, murojaatlar, vazifalar. Bu yerdan tez qo‘shish mumkin.": {
+    "en": "The portal’s state today: materials, appeals, tasks. You can add things quickly from here.",
+    "ru": "Состояние портала сегодня: материалы, обращения, задачи. Отсюда можно быстро добавлять.",
+    "zh": "门户今日概况：资料、申诉、任务。可在此快速添加。"
+  },
+  "Qabul vaqti va aloqa": {
+    "en": "Reception hours and contact",
+    "ru": "Часы приёма и контакты",
+    "zh": "接待时间及联系方式"
+  },
+  "Qanday ishlaydi?": {
+    "en": "How does it work?",
+    "ru": "Как это работает?",
+    "zh": "如何使用？"
+  },
+  "Qatlam nimaga bog‘lansin? (kartadagi havola)": {
+    "en": "What should the layer be linked to? (link on the card)",
+    "ru": "К чему привязать слой? (ссылка на карточке)",
+    "zh": "图层关联到什么？（卡片上的链接）"
+  },
+  "Qatlam qidirish": {
+    "en": "Search layers",
+    "ru": "Поиск слоёв",
+    "zh": "搜索图层"
+  },
+  "Qatlam qidirish…": {
+    "en": "Search layers…",
+    "ru": "Поиск слоёв…",
+    "zh": "搜索图层…"
+  },
+  "Qatlamlar": {
+    "en": "Layers",
+    "ru": "Слои",
+    "zh": "图层"
+  },
+  "Qatlamlar (zona, metro, yo‘l, reja rasmi)": {
+    "en": "Layers (zone, metro, road, master plan image)",
+    "ru": "Слои (зона, метро, дорога, изображение генплана)",
+    "zh": "图层（区域、地铁、道路、总体规划图）"
+  },
+  "Qatlamni o‘chirish?": {
+    "en": "Delete the layer?",
+    "ru": "Удалить слой?",
+    "zh": "删除该图层？"
+  },
+  "Qavatlar (max)": {
+    "en": "Floors (max)",
+    "ru": "Этажи (макс.)",
+    "zh": "层数（最大）"
+  },
+  "Qavatlar (min)": {
+    "en": "Floors (min)",
+    "ru": "Этажи (мин.)",
+    "zh": "层数（最小）"
+  },
+  "Qayerda ko‘rinadi": {
+    "en": "Where it appears",
+    "ru": "Где отображается",
+    "zh": "显示位置"
+  },
+  "Qayerga nima qo‘shiladi?": {
+    "en": "What goes where?",
+    "ru": "Что куда добавляется?",
+    "zh": "什么添加到哪里？"
+  },
+  "Qayta chizish": {
+    "en": "Redraw",
+    "ru": "Перерисовать",
+    "zh": "重新绘制"
+  },
+  "Qidiruv tizimlari uchun sarlavha va tavsif, domen va integratsiyalar.": {
+    "en": "Title and description for search engines, domain and integrations.",
+    "ru": "Заголовок и описание для поисковых систем, домен и интеграции.",
+    "zh": "搜索引擎用的标题和描述、域名及集成。"
+  },
+  "Qidiruv va statistika": {
+    "en": "Search and statistics",
+    "ru": "Поиск и статистика",
+    "zh": "搜索与统计"
+  },
+  "Qisqa izoh": {
+    "en": "Short note",
+    "ru": "Краткое примечание",
+    "zh": "简短说明"
+  },
+  "Qisqa izoh (sarlavha ostida)": {
+    "en": "Short note (under the title)",
+    "ru": "Краткое примечание (под заголовком)",
+    "zh": "简短说明（标题下方）"
+  },
+  "Qisqa mazmun": {
+    "en": "Short summary",
+    "ru": "Краткое содержание",
+    "zh": "简要内容"
+  },
+  "Qisqa mazmun (ro‘yxatda ko‘rinadi)": {
+    "en": "Short summary (shown in lists)",
+    "ru": "Краткое содержание (показывается в списках)",
+    "zh": "简要内容（列表中显示）"
+  },
+  "Qisqa maʼlumot": {
+    "en": "Short information",
+    "ru": "Краткая информация",
+    "zh": "简要信息"
+  },
+  "Qisqa tavsif": {
+    "en": "Short description",
+    "ru": "Краткое описание",
+    "zh": "简短描述"
+  },
+  "Qo‘llash": {
+    "en": "Apply",
+    "ru": "Применить",
+    "zh": "应用"
+  },
+  "Qo‘shimcha ko‘rsatkichlar": {
+    "en": "Additional indicators",
+    "ru": "Дополнительные показатели",
+    "zh": "附加指标"
+  },
+  "Qo‘shimcha materiallar": {
+    "en": "Additional materials",
+    "ru": "Дополнительные материалы",
+    "zh": "附加资料"
+  },
+  "Qo‘shimcha qatlamlar yo‘q": {
+    "en": "No additional layers",
+    "ru": "Дополнительных слоёв нет",
+    "zh": "暂无附加图层"
+  },
+  "Qo‘shimcha vazifa": {
+    "en": "Secondary function",
+    "ru": "Дополнительная функция",
+    "zh": "次要功能"
+  },
+  "Qo‘shish": {
+    "en": "Add",
+    "ru": "Добавить",
+    "zh": "添加"
+  },
+  "Qurilish maydoni (m²)": {
+    "en": "Built-up area (m²)",
+    "ru": "Площадь застройки (м²)",
+    "zh": "建筑占地面积 (m²)"
+  },
+  "Rang": {
+    "en": "Colour",
+    "ru": "Цвет",
+    "zh": "颜色"
+  },
+  "Ranglash": {
+    "en": "Colour by",
+    "ru": "Раскраска",
+    "zh": "着色方式"
+  },
+  "Raqam yoki nom bo‘yicha qidiring": {
+    "en": "Search by number or name",
+    "ru": "Поиск по номеру или названию",
+    "zh": "按编号或名称搜索"
+  },
+  "Raqam, nom yoki kompaniya": {
+    "en": "Number, name or company",
+    "ru": "Номер, название или компания",
+    "zh": "编号、名称或公司"
+  },
+  "Raqam, nom, kompaniya yoki auksion lot raqami": {
+    "en": "Number, name, company or auction lot number",
+    "ru": "Номер, название, компания или номер лота аукциона",
+    "zh": "编号、名称、公司或拍卖地块编号"
+  },
+  "Rasm": {
+    "en": "Image",
+    "ru": "Изображение",
+    "zh": "图片"
+  },
+  "Rasm ham qatlam: qancha xohlasangiz qo‘shing. Har biri xaritada alohida yoqiladi/o‘chiriladi va shaffofligi sozlanadi.": {
+    "en": "An image is a layer too: add as many as you like. Each one is switched on/off separately on the map and its transparency is adjustable.",
+    "ru": "Изображение — тоже слой: добавляйте сколько угодно. Каждое включается и выключается на карте отдельно, прозрачность настраивается.",
+    "zh": "图片也是图层：可随意添加。每个图层可在地图上单独开关，透明度可调。"
+  },
+  "Rasm sarlavhasi": {
+    "en": "Image title",
+    "ru": "Заголовок изображения",
+    "zh": "图片标题"
+  },
+  "Rasmni almashtirish (ixtiyoriy)": {
+    "en": "Replace image (optional)",
+    "ru": "Заменить изображение (необязательно)",
+    "zh": "更换图片（可选）"
+  },
+  "Rasmni butunlay siljitish uchun sudrang": {
+    "en": "Drag to move the whole image",
+    "ru": "Перетащите, чтобы сдвинуть всё изображение",
+    "zh": "拖动以整体移动图片"
+  },
+  "Rasmni yuklab bo‘lmadi": {
+    "en": "Could not upload the image",
+    "ru": "Не удалось загрузить изображение",
+    "zh": "无法上传图片"
+  },
+  "Reja rasmi": {
+    "en": "Master plan image",
+    "ru": "Изображение генплана",
+    "zh": "总体规划图"
+  },
+  "Reja rasmi (generplan)": {
+    "en": "Master plan image (generplan)",
+    "ru": "Изображение генплана",
+    "zh": "总体规划图"
+  },
+  "Reja rasmi qo‘shish": {
+    "en": "Add master plan image",
+    "ru": "Добавить изображение генплана",
+    "zh": "添加总体规划图"
+  },
+  "Reja rasmini joylashtirish xaritasi": {
+    "en": "Map for placing the master plan image",
+    "ru": "Карта для размещения изображения генплана",
+    "zh": "放置总体规划图的地图"
+  },
+  "Reja rasmini ko‘rsatish": {
+    "en": "Show the master plan image",
+    "ru": "Показать изображение генплана",
+    "zh": "显示总体规划图"
+  },
+  "Reja rasmini xaritadan olib tashlash?": {
+    "en": "Remove the master plan image from the map?",
+    "ru": "Убрать изображение генплана с карты?",
+    "zh": "从地图上移除总体规划图？"
+  },
+  "Reja rasmlari (generplan, PDF/JPG/PNG)": {
+    "en": "Master plan images (generplan, PDF/JPG/PNG)",
+    "ru": "Изображения генплана (PDF/JPG/PNG)",
+    "zh": "总体规划图（PDF/JPG/PNG）"
+  },
+  "Ro‘yxat": {
+    "en": "List",
+    "ru": "Список",
+    "zh": "列表"
+  },
+  "Ro‘yxatdan o‘tish yoki kirish": {
+    "en": "Register or sign in",
+    "ru": "Регистрация или вход",
+    "zh": "注册或登录"
+  },
+  "Sahifa nomi": {
+    "en": "Page title",
+    "ru": "Название страницы",
+    "zh": "页面名称"
+  },
+  "Sahifani tanlang…": {
+    "en": "Choose a page…",
+    "ru": "Выберите страницу…",
+    "zh": "选择页面…"
+  },
+  "Sahifani yuklash": {
+    "en": "Load page",
+    "ru": "Загрузить страницу",
+    "zh": "加载页面"
+  },
+  "Saqlab, keyingi hududni darhol chizishga o‘tadi": {
+    "en": "Saves and immediately moves on to drawing the next plot",
+    "ru": "Сохраняет и сразу переходит к рисованию следующего участка",
+    "zh": "保存并立即转到绘制下一个地块"
+  },
+  "Saqlandi. «Hududlar» bo‘limida shu rasm ustidan lotlarni chizishingiz mumkin.": {
+    "en": "Saved. You can draw plots on top of this image in the “Plots” section.",
+    "ru": "Сохранено. В разделе «Участки» можно рисовать лоты поверх этого изображения.",
+    "zh": "已保存。您可以在“地块”栏目中在此图片上绘制地块。"
+  },
+  "Saqlandi. Keyingi hududni chizing.": {
+    "en": "Saved. Draw the next plot.",
+    "ru": "Сохранено. Рисуйте следующий участок.",
+    "zh": "已保存。请绘制下一个地块。"
+  },
+  "Saqlandi. Xarita ochiq sahifada bir necha soniyada yangilanadi.": {
+    "en": "Saved. The public map updates in a few seconds.",
+    "ru": "Сохранено. Публичная карта обновится через несколько секунд.",
+    "zh": "已保存。公开地图将在几秒内更新。"
+  },
+  "Saqlandi. Xaritada bir necha soniyada yangilanadi.": {
+    "en": "Saved. The map updates in a few seconds.",
+    "ru": "Сохранено. Карта обновится через несколько секунд.",
+    "zh": "已保存。地图将在几秒内更新。"
+  },
+  "Saqlanmagan o‘zgarish bor": {
+    "en": "There are unsaved changes",
+    "ru": "Есть несохранённые изменения",
+    "zh": "有未保存的更改"
+  },
+  "Saqlanmagan o‘zgarishlar bor. Davom etasizmi?": {
+    "en": "There are unsaved changes. Continue?",
+    "ru": "Есть несохранённые изменения. Продолжить?",
+    "zh": "有未保存的更改。是否继续？"
+  },
+  "Saqlash va keyingisini chizish": {
+    "en": "Save and draw the next",
+    "ru": "Сохранить и рисовать следующий",
+    "zh": "保存并绘制下一个"
+  },
+  "Savol": {
+    "en": "Question",
+    "ru": "Вопрос",
+    "zh": "问题"
+  },
+  "Sayt nomi, shior, telefon, email, manzil va «Shaharcha haqida» matni.": {
+    "en": "Site name, tagline, phone, email, address and the “About the city” text.",
+    "ru": "Название сайта, девиз, телефон, email, адрес и текст «О городе».",
+    "zh": "网站名称、口号、电话、电子邮箱、地址和“关于城市”文字。"
+  },
+  "Sayt sahifasiga": {
+    "en": "To a site page",
+    "ru": "На страницу сайта",
+    "zh": "网站页面"
+  },
+  "Saytda ko‘rinmaydi (ichki sahifa)": {
+    "en": "Not shown on the site (internal page)",
+    "ru": "Не отображается на сайте (внутренняя страница)",
+    "zh": "不在网站显示（内部页面）"
+  },
+  "Saytda ko‘rinmaydi: Google va ijtimoiy tarmoqlarda chiqadi": {
+    "en": "Not shown on the site: appears on Google and social networks",
+    "ru": "Не отображается на сайте: появляется в Google и соцсетях",
+    "zh": "不在网站显示：出现在 Google 和社交网络中"
+  },
+  "Saytda ko‘rish": {
+    "en": "View on the site",
+    "ru": "Посмотреть на сайте",
+    "zh": "在网站查看"
+  },
+  "Saytda ochish": {
+    "en": "Open on the site",
+    "ru": "Открыть на сайте",
+    "zh": "在网站打开"
+  },
+  "Saytda qayerda ko‘rinadi": {
+    "en": "Where it appears on the site",
+    "ru": "Где отображается на сайте",
+    "zh": "在网站的显示位置"
+  },
+  "Saytda:": {
+    "en": "On the site:",
+    "ru": "На сайте:",
+    "zh": "网站上："
+  },
+  "Saytda: «Rasmiy maʼlumot» va footer": {
+    "en": "On the site: “Official information” and the footer",
+    "ru": "На сайте: «Официальная информация» и футер",
+    "zh": "网站上：“官方信息”和页脚"
+  },
+  "Saytda: /map va /investment": {
+    "en": "On the site: /map and /investment",
+    "ru": "На сайте: /map и /investment",
+    "zh": "网站上：/map 和 /investment"
+  },
+  "Saytda: /map, /map/<nom>": {
+    "en": "On the site: /map, /map/<name>",
+    "ru": "На сайте: /map, /map/<имя>",
+    "zh": "网站上：/map、/map/<名称>"
+  },
+  "Saytda: barcha sahifalarda": {
+    "en": "On the site: on all pages",
+    "ru": "На сайте: на всех страницах",
+    "zh": "网站上：所有页面"
+  },
+  "Saytda: bosh sahifaning katta bloki va rasm bloklari": {
+    "en": "On the site: the big block of the home page and image blocks",
+    "ru": "На сайте: большой блок главной страницы и блоки с изображениями",
+    "zh": "网站上：首页大图区和图片区块"
+  },
+  "Saytda: har bir material o‘z bo‘limida chiqadi": {
+    "en": "On the site: each material appears in its own section",
+    "ru": "На сайте: каждый материал отображается в своём разделе",
+    "zh": "网站上：每份资料显示在各自栏目中"
+  },
+  "Saytda: har bir sahifaning tepasidagi menyu": {
+    "en": "On the site: the menu at the top of every page",
+    "ru": "На сайте: меню в верхней части каждой страницы",
+    "zh": "网站上：每个页面顶部的菜单"
+  },
+  "Saytda: sarlavha, footer, «Aloqa» va «Shaharcha haqida»": {
+    "en": "On the site: title, footer, “Contact” and “About the city”",
+    "ru": "На сайте: заголовок, футер, «Контакты» и «О городе»",
+    "zh": "网站上：标题、页脚、“联系”和“关于城市”"
+  },
+  "Saytda: til almashtirilganda": {
+    "en": "On the site: when the language is switched",
+    "ru": "На сайте: при переключении языка",
+    "zh": "网站上：切换语言时"
+  },
+  "Saytda: xarita sahifasining tepa qismi": {
+    "en": "On the site: the top part of the map page",
+    "ru": "На сайте: верхняя часть страницы карты",
+    "zh": "网站上：地图页面顶部"
+  },
+  "Saytda: xarita tepasidagi tugmalar": {
+    "en": "On the site: buttons at the top of the map",
+    "ru": "На сайте: кнопки в верхней части карты",
+    "zh": "网站上：地图顶部按钮"
+  },
+  "Saytda: xarita tepasidagi tugmalar va filtrlar": {
+    "en": "On the site: buttons and filters at the top of the map",
+    "ru": "На сайте: кнопки и фильтры в верхней части карты",
+    "zh": "网站上：地图顶部的按钮和筛选器"
+  },
+  "Saytda: xaritaning chap paneli": {
+    "en": "On the site: the left panel of the map",
+    "ru": "На сайте: левая панель карты",
+    "zh": "网站上：地图左侧面板"
+  },
+  "Saytda: xaritaning yuqori tugmalari": {
+    "en": "On the site: the top buttons of the map",
+    "ru": "На сайте: верхние кнопки карты",
+    "zh": "网站上：地图顶部按钮"
+  },
+  "Saytdagi matnlarning rus, ingliz va xitoy tarjimalarini qo‘lda yozish.": {
+    "en": "Write the Russian, English and Chinese translations of the site texts by hand.",
+    "ru": "Вручную напишите русские, английские и китайские переводы текстов сайта.",
+    "zh": "手动填写网站文字的俄语、英语和中文翻译。"
+  },
+  "Saytdagi tayyor yozuvlar (tugma, sarlavha, izoh) matnini o‘zgartirish.": {
+    "en": "Change the text of ready-made site labels (buttons, headings, notes).",
+    "ru": "Изменение текста готовых надписей сайта (кнопки, заголовки, пояснения).",
+    "zh": "修改网站现成文字（按钮、标题、说明）的内容。"
+  },
+  "Shaffoflik": {
+    "en": "Transparency",
+    "ru": "Прозрачность",
+    "zh": "透明度"
+  },
+  "Shaffoflik ommaviy xaritada ham shunday bo‘ladi": {
+    "en": "The transparency will be the same on the public map",
+    "ru": "Прозрачность на публичной карте будет такой же",
+    "zh": "公开地图上的透明度也将相同"
+  },
+  "Shaffoflik saqlandi": {
+    "en": "Transparency saved",
+    "ru": "Прозрачность сохранена",
+    "zh": "透明度已保存"
+  },
+  "Shartlar (qisqacha)": {
+    "en": "Terms (short)",
+    "ru": "Условия (кратко)",
+    "zh": "条件（简要）"
+  },
+  "Shu hudud haqida so‘rash": {
+    "en": "Ask about this plot",
+    "ru": "Спросить об этом участке",
+    "zh": "咨询此地块"
+  },
+  "Siz tizimga kirgansiz": {
+    "en": "You are signed in",
+    "ru": "Вы вошли в систему",
+    "zh": "您已登录"
+  },
+  "Slayd": {
+    "en": "Slide",
+    "ru": "Слайд",
+    "zh": "幻灯片"
+  },
+  "Slayder boshqaruvi": {
+    "en": "Slider controls",
+    "ru": "Управление слайдером",
+    "zh": "轮播控制"
+  },
+  "Standart rangga qaytarish": {
+    "en": "Restore the default colour",
+    "ru": "Вернуть цвет по умолчанию",
+    "zh": "恢复默认颜色"
+  },
+  "Sudrang; o‘chirish uchun ikki marta bosing": {
+    "en": "Drag; double-click to remove",
+    "ru": "Перетащите; двойной щелчок — удалить",
+    "zh": "拖动；双击删除"
+  },
+  "ta bekat/nuqta": {
+    "en": "stations/points",
+    "ru": "станций/точек",
+    "zh": "个站点/点"
+  },
+  "ta hudud": {
+    "en": "plots",
+    "ru": "участков",
+    "zh": "个地块"
+  },
+  "ta hudud butunlay o‘chiriladi. Davom etilsinmi?": {
+    "en": "plots will be permanently deleted. Continue?",
+    "ru": "участков будет удалено навсегда. Продолжить?",
+    "zh": "个地块将被永久删除。是否继续？"
+  },
+  "ta hudud o‘chirildi": {
+    "en": "plots deleted",
+    "ru": "участков удалено",
+    "zh": "个地块已删除"
+  },
+  "ta hudud yangilandi": {
+    "en": "plots updated",
+    "ru": "участков обновлено",
+    "zh": "个地块已更新"
+  },
+  "ta namuna hudud yuklandi": {
+    "en": "sample plots loaded",
+    "ru": "образцов участков загружено",
+    "zh": "个示例地块已加载"
+  },
+  "ta nashr qilingan": {
+    "en": "published",
+    "ru": "опубликовано",
+    "zh": "已发布"
+  },
+  "ta nuqta": {
+    "en": "points",
+    "ru": "точек",
+    "zh": "个点"
+  },
+  "ta o‘tkazib yuborildi": {
+    "en": "skipped",
+    "ru": "пропущено",
+    "zh": "已跳过"
+  },
+  "ta qatlam": {
+    "en": "layers",
+    "ru": "слоёв",
+    "zh": "个图层"
+  },
+  "ta qo‘shildi/yangilandi": {
+    "en": "added/updated",
+    "ru": "добавлено/обновлено",
+    "zh": "已添加/更新"
+  },
+  "ta tanlandi": {
+    "en": "selected",
+    "ru": "выбрано",
+    "zh": "已选择"
+  },
+  "ta to‘g‘ri": {
+    "en": "valid",
+    "ru": "корректных",
+    "zh": "个有效"
+  },
+  "ta xato (o‘tkazib yuboriladi)": {
+    "en": "errors (will be skipped)",
+    "ru": "ошибок (будут пропущены)",
+    "zh": "个错误（将被跳过）"
+  },
+  "ta yo‘nalish": {
+    "en": "routes",
+    "ru": "маршрутов",
+    "zh": "条线路"
+  },
+  "Tadbir nomi": {
+    "en": "Event name",
+    "ru": "Название мероприятия",
+    "zh": "活动名称"
+  },
+  "Talablar (qisqacha)": {
+    "en": "Requirements (short)",
+    "ru": "Требования (кратко)",
+    "zh": "要求（简要）"
+  },
+  "Tanlangan hudud": {
+    "en": "Selected plot",
+    "ru": "Выбранный участок",
+    "zh": "所选地块"
+  },
+  "Tanlangan hudud va statistika": {
+    "en": "Selected plot and statistics",
+    "ru": "Выбранный участок и статистика",
+    "zh": "所选地块与统计"
+  },
+  "Tanlansa, kartada shu qiymatlar bo‘yicha filtr tugmalari chiqadi.": {
+    "en": "If selected, filter buttons for these values appear on the card.",
+    "ru": "Если выбрано, на карточке появятся кнопки фильтра по этим значениям.",
+    "zh": "选择后，卡片上会出现这些值的筛选按钮。"
+  },
+  "Taqdimot yoki hujjatni biriktiring: foydalanuvchilar uni material sahifasidan yuklab oladi. Bitta fayl — 100 MB gacha.": {
+    "en": "Attach a presentation or document: users download it from the material page. One file — up to 100 MB.",
+    "ru": "Прикрепите презентацию или документ: пользователи скачают его со страницы материала. Один файл — до 100 МБ.",
+    "zh": "附加演示文稿或文档：用户可在资料页面下载。单个文件最大 100 MB。"
+  },
+  "Tashkilot nomi, ro‘yxatdan o‘tish maʼlumoti, ish vaqti, maxfiylik matni.": {
+    "en": "Organisation name, registration details, working hours, privacy text.",
+    "ru": "Название организации, регистрационные данные, часы работы, текст о конфиденциальности.",
+    "zh": "机构名称、注册信息、工作时间、隐私政策文字。"
+  },
+  "Tashqi havola": {
+    "en": "External link",
+    "ru": "Внешняя ссылка",
+    "zh": "外部链接"
+  },
+  "Tashrifchimisiz?": {
+    "en": "Are you a visitor?",
+    "ru": "Вы посетитель?",
+    "zh": "您是访客吗？"
+  },
+  "Tavsif": {
+    "en": "Description",
+    "ru": "Описание",
+    "zh": "描述"
+  },
+  "Tavsif (ko‘zi ojizlar uchun, ixtiyoriy)": {
+    "en": "Description (for the visually impaired, optional)",
+    "ru": "Описание (для слабовидящих, необязательно)",
+    "zh": "描述（供视障人士使用，可选）"
+  },
+  "Tayyorlanmoqda…": {
+    "en": "Preparing…",
+    "ru": "Подготовка…",
+    "zh": "准备中…"
+  },
+  "Tekshirilmoqda": {
+    "en": "Checking",
+    "ru": "Проверка",
+    "zh": "检查中"
+  },
+  "Tender nomi": {
+    "en": "Tender name",
+    "ru": "Название тендера",
+    "zh": "招标名称"
+  },
+  "Tez qo‘shish": {
+    "en": "Quick add",
+    "ru": "Быстро добавить",
+    "zh": "快速添加"
+  },
+  "To‘g‘ri JSON emas": {
+    "en": "Not valid JSON",
+    "ru": "Некорректный JSON",
+    "zh": "不是有效的 JSON"
+  },
+  "Toifa": {
+    "en": "Category",
+    "ru": "Категория",
+    "zh": "类别"
+  },
+  "Toifa — hudud nima uchun mo‘ljallangan: turar-joy, noturar-joy, restoran, tashkilotlar… Har bir hududga bir yoki bir nechta toifa beriladi (Hududlar sahifasida). Xaritada filtr va rang sifatida chiqadi.": {
+    "en": "Category — what a plot is intended for: residential, non-residential, restaurant, organisations… One or several categories can be given to each plot (on the Plots page). It appears on the map as a filter and as a colour.",
+    "ru": "Категория — для чего предназначен участок: жилой, нежилой, ресторан, организации… Каждому участку можно присвоить одну или несколько категорий (на странице «Участки»). На карте отображается как фильтр и цвет.",
+    "zh": "类别——地块的用途：住宅、非住宅、餐厅、机构…每个地块可设置一个或多个类别（在“地块”页面）。在地图上作为筛选项和颜色显示。"
+  },
+  "Toifa (turar-joy, noturar-joy, restoran…; bo‘sh qolsa vazifadan aniqlanadi)": {
+    "en": "Category (residential, non-residential, restaurant…; if left empty it is derived from the function)",
+    "ru": "Категория (жилой, нежилой, ресторан…; если пусто, определяется по функции)",
+    "zh": "类别（住宅、非住宅、餐厅…；留空则根据功能自动判断）"
+  },
+  "Toifa bo‘yicha": {
+    "en": "By category",
+    "ru": "По категории",
+    "zh": "按类别"
+  },
+  "Toifa bo‘yicha (turar-joy, noturar-joy…)": {
+    "en": "By category (residential, non-residential…)",
+    "ru": "По категории (жилые, нежилые…)",
+    "zh": "按类别（住宅、非住宅…）"
+  },
+  "Toifa nomi": {
+    "en": "Category name",
+    "ru": "Название категории",
+    "zh": "类别名称"
+  },
+  "Toifalar (hudud turi)": {
+    "en": "Categories (plot type)",
+    "ru": "Категории (тип участка)",
+    "zh": "类别（地块类型）"
+  },
+  "Transport va metro": {
+    "en": "Transport and metro",
+    "ru": "Транспорт и метро",
+    "zh": "交通与地铁"
+  },
+  "Tugma menyusi (ixtiyoriy)": {
+    "en": "Button menu (optional)",
+    "ru": "Меню кнопки (необязательно)",
+    "zh": "按钮菜单（可选）"
+  },
+  "tur obyekt": {
+    "en": "object types",
+    "ru": "типов объектов",
+    "zh": "类对象"
+  },
+  "Turi": {
+    "en": "Type",
+    "ru": "Тип",
+    "zh": "类型"
+  },
+  "Umumiy maydon (m²)": {
+    "en": "Total area (m²)",
+    "ru": "Общая площадь (м²)",
+    "zh": "总面积 (m²)"
+  },
+  "Uzunlik (longitude)": {
+    "en": "Longitude",
+    "ru": "Долгота",
+    "zh": "经度"
+  },
+  "Valyuta": {
+    "en": "Currency",
+    "ru": "Валюта",
+    "zh": "货币"
+  },
+  "Vazifa va o‘lchamlar": {
+    "en": "Function and dimensions",
+    "ru": "Функция и размеры",
+    "zh": "功能与尺寸"
+  },
+  "Video nomi": {
+    "en": "Video name",
+    "ru": "Название видео",
+    "zh": "视频名称"
+  },
+  "Video: MP4 yoki WEBM, 25 MB gacha, tovushsiz bo‘lishi ma’qul (ovozsiz o‘ynaydi). Rasm yoki GIF ham mumkin.": {
+    "en": "Video: MP4 or WEBM, up to 25 MB, preferably without sound (plays muted). An image or GIF works too.",
+    "ru": "Видео: MP4 или WEBM, до 25 МБ, лучше без звука (воспроизводится без звука). Подойдёт и изображение или GIF.",
+    "zh": "视频：MP4 或 WEBM，最大 25 MB，最好无声（静音播放）。图片或 GIF 也可以。"
+  },
+  "Xarita hududi": {
+    "en": "Map area",
+    "ru": "Область карты",
+    "zh": "地图区域"
+  },
+  "Xarita ma’lumotini yuklab bo‘lmadi.": {
+    "en": "Could not load the map data.",
+    "ru": "Не удалось загрузить данные карты.",
+    "zh": "无法加载地图数据。"
+  },
+  "Xarita ochilganda yoqilgan bo‘lsin": {
+    "en": "On by default when the map opens",
+    "ru": "Включён по умолчанию при открытии карты",
+    "zh": "地图打开时默认开启"
+  },
+  "Xarita qanday ranglansin?": {
+    "en": "How should the map be coloured?",
+    "ru": "Как раскрашивать карту?",
+    "zh": "地图如何着色？"
+  },
+  "Xarita qatlami / reja rasmi": {
+    "en": "Map layer / master plan image",
+    "ru": "Слой карты / изображение генплана",
+    "zh": "地图图层 / 总体规划图"
+  },
+  "Xarita qatlamlari": {
+    "en": "Map layers",
+    "ru": "Слои карты",
+    "zh": "地图图层"
+  },
+  "Xarita sarlavhasi, tugmalari, yo‘riqnomasi va boshlang‘ich joyi.": {
+    "en": "Map title, buttons, guide and initial position.",
+    "ru": "Заголовок карты, кнопки, подсказка и начальное положение.",
+    "zh": "地图标题、按钮、使用说明和初始位置。"
+  },
+  "Xarita sarlavhasi, tugmalari, yo‘riqnomasi, boshlang‘ich joyi va obyekt turlari ko‘rinishi.": {
+    "en": "Map title, buttons, guide, initial position and which object types are shown.",
+    "ru": "Заголовок карты, кнопки, подсказка, начальное положение и отображаемые типы объектов.",
+    "zh": "地图标题、按钮、使用说明、初始位置以及显示的对象类型。"
+  },
+  "Xarita va Investitsiya sahifasidagi hudud": {
+    "en": "Plot on the map and the Investment page",
+    "ru": "Участок на карте и странице «Инвестиции»",
+    "zh": "地图及“投资”页面上的地块"
+  },
+  "Xarita yuklanmoqda…": {
+    "en": "Loading the map…",
+    "ru": "Загрузка карты…",
+    "zh": "正在加载地图…"
+  },
+  "Xaritada hudud burchaklarini ketma-ket bosing, so‘ng «Chizishni tugatish» tugmasini bosing.": {
+    "en": "Click the corners of the plot on the map one after another, then press “Finish drawing”.",
+    "ru": "Последовательно щёлкайте по углам участка на карте, затем нажмите «Завершить рисование».",
+    "zh": "在地图上依次点击地块的各个角点，然后点击“完成绘制”。"
+  },
+  "Xaritada ko‘rish": {
+    "en": "View on the map",
+    "ru": "Показать на карте",
+    "zh": "在地图上查看"
+  },
+  "xaritada ko‘rsatish": {
+    "en": "show on the map",
+    "ru": "показывать на карте",
+    "zh": "在地图上显示"
+  },
+  "Xaritada ko‘rsatish (ommaga ochiq)": {
+    "en": "Show on the map (public)",
+    "ru": "Показывать на карте (публично)",
+    "zh": "在地图上显示（公开）"
+  },
+  "Xaritada ochish": {
+    "en": "Open on the map",
+    "ru": "Открыть на карте",
+    "zh": "在地图上打开"
+  },
+  "Xaritada yangisini chizing": {
+    "en": "Draw a new one on the map",
+    "ru": "Нарисуйте новую на карте",
+    "zh": "在地图上绘制新的"
+  },
+  "Xaritadagi 1–4 raqamli burchaklarni sudrab rasmni haqiqiy joyiga moslang (yo‘l, daryo, bino kabi aniq belgilar bo‘yicha). O‘rtadagi ✥ belgisi rasmni butunlay siljitadi. Aniqroq moslash uchun xaritani yaqinlashtiring.": {
+    "en": "Drag the numbered corners 1–4 on the map to align the image with its real position (use clear landmarks such as roads, rivers, buildings). The ✥ mark in the middle moves the whole image. Zoom in for more accurate alignment.",
+    "ru": "Перетащите угловые маркеры 1–4 на карте, чтобы совместить изображение с реальным положением (ориентируйтесь на чёткие объекты: дороги, реки, здания). Значок ✥ в центре сдвигает всё изображение. Для точной подгонки приблизьте карту.",
+    "zh": "在地图上拖动编号为 1–4 的角点，使图片对准实际位置（参照道路、河流、建筑等明显标志）。中间的 ✥ 可整体移动图片。放大地图可更精确对齐。"
+  },
+  "Xaritadagi hududni bosing — parametrlari shu yerda ochiladi.": {
+    "en": "Click a plot on the map — its details open here.",
+    "ru": "Нажмите на участок на карте — здесь откроются его данные.",
+    "zh": "点击地图上的地块——其信息将在此显示。"
+  },
+  "Xaritadagi joylashuv": {
+    "en": "Location on the map",
+    "ru": "Местоположение на карте",
+    "zh": "地图上的位置"
+  },
+  "Xaritadagi obyektlar (loyihalar, infratuzilma, hududlar)": {
+    "en": "Objects on the map (projects, infrastructure, zones)",
+    "ru": "Объекты на карте (проекты, инфраструктура, зоны)",
+    "zh": "地图上的对象（项目、基础设施、区域）"
+  },
+  "Xaritadan hudud tanlash": {
+    "en": "Choose a plot from the map",
+    "ru": "Выбрать участок на карте",
+    "zh": "从地图选择地块"
+  },
+  "Xaritalar": {
+    "en": "Maps",
+    "ru": "Карты",
+    "zh": "地图"
+  },
+  "Xaritani bosing — bekat (nuqta) qo‘yiladi. Nomini pastdagi ro‘yxatda yozing. Sudrab surish mumkin.": {
+    "en": "Click the map — a station (point) is placed. Write its name in the list below. You can drag it.",
+    "ru": "Нажмите на карту — будет поставлена станция (точка). Название впишите в списке ниже. Можно перетаскивать.",
+    "zh": "点击地图即可放置站点（点）。在下方列表中填写名称，可拖动调整。"
+  },
+  "Xaritani ketma-ket bosing — yo‘nalish nuqtalari qo‘shiladi. Tugagach «Yo‘nalishni tugatish» ni bosing. Nuqtani sudrab surish, o‘ng tugma bilan o‘chirish mumkin.": {
+    "en": "Click the map one after another — route points are added. Press “Finish route” when done. You can drag a point or right-click to delete it.",
+    "ru": "Последовательно щёлкайте по карте — добавляются точки маршрута. В конце нажмите «Завершить маршрут». Точку можно перетащить, правой кнопкой — удалить.",
+    "zh": "依次点击地图——会添加线路点。完成后点击“完成线路”。可拖动点，右键删除。"
+  },
+  "Xaritani o‘chirish?": {
+    "en": "Delete the map?",
+    "ru": "Удалить карту?",
+    "zh": "删除该地图？"
+  },
+  "Xavfsiz kirish uchun login va parolingizni kiriting.": {
+    "en": "Enter your login and password to sign in securely.",
+    "ru": "Введите логин и пароль для безопасного входа.",
+    "zh": "请输入登录名和密码以安全登录。"
+  },
+  "Xodimlar uchun ichki vazifalar: kim, qachongacha, qancha bajarildi.": {
+    "en": "Internal tasks for staff: who, by when, how much is done.",
+    "ru": "Внутренние задачи сотрудников: кто, к какому сроку, сколько выполнено.",
+    "zh": "员工内部任务：谁、截止时间、完成进度。"
+  },
+  "Yakuniy narx": {
+    "en": "Final price",
+    "ru": "Итоговая цена",
+    "zh": "最终价格"
+  },
+  "Yana ko‘rsatish": {
+    "en": "Show more",
+    "ru": "Показать ещё",
+    "zh": "显示更多"
+  },
+  "Yangi chegarani xaritada chizing.": {
+    "en": "Draw the new boundary on the map.",
+    "ru": "Нарисуйте новую границу на карте.",
+    "zh": "请在地图上绘制新边界。"
+  },
+  "Yangi holat": {
+    "en": "New status",
+    "ru": "Новый статус",
+    "zh": "新状态"
+  },
+  "Yangi hudud": {
+    "en": "New plot",
+    "ru": "Новый участок",
+    "zh": "新建地块"
+  },
+  "Yangi toifa": {
+    "en": "New category",
+    "ru": "Новая категория",
+    "zh": "新建类别"
+  },
+  "Yangi xarita": {
+    "en": "New map",
+    "ru": "Новая карта",
+    "zh": "新建地图"
+  },
+  "Yangilik sarlavhasi": {
+    "en": "News headline",
+    "ru": "Заголовок новости",
+    "zh": "新闻标题"
+  },
+  "Yashirish": {
+    "en": "Hide",
+    "ru": "Скрыть",
+    "zh": "隐藏"
+  },
+  "Yo‘nalish": {
+    "en": "Route",
+    "ru": "Маршрут",
+    "zh": "线路"
+  },
+  "Yo‘nalish chizish": {
+    "en": "Draw route",
+    "ru": "Рисовать маршрут",
+    "zh": "绘制线路"
+  },
+  "Yo‘nalish nomi": {
+    "en": "Route name",
+    "ru": "Название маршрута",
+    "zh": "线路名称"
+  },
+  "Yo‘nalishlar": {
+    "en": "Routes",
+    "ru": "Маршруты",
+    "zh": "线路"
+  },
+  "Yo‘nalishni tugatish": {
+    "en": "Finish route",
+    "ru": "Завершить маршрут",
+    "zh": "完成线路"
+  },
+  "Yo‘riqnoma": {
+    "en": "Guide",
+    "ru": "Подсказка",
+    "zh": "使用说明"
+  },
+  "Yoki xaritada o‘zingiz chizing": {
+    "en": "Or draw it on the map yourself",
+    "ru": "Или нарисуйте сами на карте",
+    "zh": "或在地图上自行绘制"
+  },
+  "Yordam oynasi": {
+    "en": "Help window",
+    "ru": "Окно подсказки",
+    "zh": "帮助窗口"
+  },
+  "Yuklab olish": {
+    "en": "Download",
+    "ru": "Скачать",
+    "zh": "下载"
+  },
+  "Yuklangan barcha rasm, video va hujjatlar kutubxonasi. Ishlatilmayotganini o‘chirish mumkin.": {
+    "en": "Library of all uploaded images, videos and documents. Unused files can be deleted.",
+    "ru": "Библиотека всех загруженных изображений, видео и документов. Неиспользуемые файлы можно удалить.",
+    "zh": "所有已上传图片、视频和文档的库。未使用的文件可以删除。"
+  },
+  "Yuklanmoqda…": {
+    "en": "Loading…",
+    "ru": "Загрузка…",
+    "zh": "加载中…"
+  },
+  "Yuqoridagi asosiy menyu: bandlarni yashirish, nomini o‘zgartirish.": {
+    "en": "The main menu at the top: hide items or rename them.",
+    "ru": "Главное меню вверху: скрывайте пункты или переименовывайте их.",
+    "zh": "顶部主菜单：隐藏或重命名菜单项。"
+  },
+  "Yuqoridagi tugma (ixtiyoriy)": {
+    "en": "Button at the top (optional)",
+    "ru": "Кнопка вверху (необязательно)",
+    "zh": "顶部按钮（可选）"
+  },
+  "Yuqoridagi yoqish/o‘chirish tugmasi": {
+    "en": "Toggle button at the top",
+    "ru": "Кнопка-переключатель вверху",
+    "zh": "顶部开关按钮"
+  },
+  "Zona (maydon) qatlamlari va reja rasmlari (generplan). Qatlam xaritada yoqiladi/o‘chiriladi.": {
+    "en": "Zone (area) layers and master plan images. A layer is switched on/off on the map.",
+    "ru": "Слои зон (площадей) и изображения генплана. Слой включается и выключается на карте.",
+    "zh": "区域（面）图层和总体规划图。图层可在地图上开关。"
+  },
+  "Zona nomi": {
+    "en": "Zone name",
+    "ru": "Название зоны",
+    "zh": "区域名称"
+  },
+  "Zona qatlamlari va reja rasmlari (generplan): xaritada yoqiladi/o‘chiriladi.": {
+    "en": "Zone layers and master plan images: switched on/off on the map.",
+    "ru": "Слои зон и изображения генплана: включаются и выключаются на карте.",
+    "zh": "区域图层和总体规划图：可在地图上开关。"
+  }
+}

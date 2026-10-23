@@ -1,0 +1,24 @@
+{
+  "name": "shirin-backend",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "dev": "tsx watch --env-file=.env src/server.ts",
+    "start": "tsx --env-file=.env src/server.ts",
+    "typecheck": "tsc --noEmit",
+    "check": "tsx scripts/security-check.mjs",
+    "seed:mock": "tsx --env-file=.env scripts/seed-mock.ts",
+    "import:shirin": "tsx --env-file=.env scripts/import-shirin.ts"
+  },
+  "dependencies": {
+    "mongodb": "^6.17.0",
+    "tsx": "^4.20.3"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.19",
+    "mongodb-memory-server": "^10.1.4",
+    "typescript": "5.9.3"
+  }
+}

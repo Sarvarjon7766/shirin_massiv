@@ -1,0 +1,1182 @@
+{
+  "&loading=async&callback=__shirinGoogleReady&v=weekly": {
+    "en": "&loading=async&callback=__shirinGoogleReady&v=weekly",
+    "ru": "&loading=async&callback=__shirinGoogleReady&v=weekly",
+    "zh": "&loading=async&callback=__shirinGoogleReady&v=weekly"
+  },
+  ". Holati va javobini shaxsiy sahifada kuzating.": {
+    "en": ". Track its status and response on your personal page.",
+    "ru": ". Следите за статусом и ответом в личном кабинете.",
+    "zh": "。请在个人中心查看状态和回复。"
+  },
+  "01 / SHAHARCHA HAQIDA": {
+    "en": "01 / ABOUT THE TOWN",
+    "ru": "01 / О ГОРОДКЕ",
+    "zh": "01 / 关于城镇"
+  },
+  "01 — SHIRIN SHAHARCHASI": {
+    "en": "01 — SHIRIN TOWN",
+    "ru": "01 — ГОРОДОК SHIRIN",
+    "zh": "01 — SHIRIN 城镇"
+  },
+  "02 / ASOSIY LOYIHALAR": {
+    "en": "02 / KEY PROJECTS",
+    "ru": "02 / ОСНОВНЫЕ ПРОЕКТЫ",
+    "zh": "02 / 重点项目"
+  },
+  "03 / SHAHARNING YANGI QIYOFASI": {
+    "en": "03 / A NEW FACE OF THE CITY",
+    "ru": "03 / НОВЫЙ ОБЛИК ГОРОДА",
+    "zh": "03 / 城市新貌"
+  },
+  "04 / INVESTITSIYA": {
+    "en": "04 / INVESTMENT",
+    "ru": "04 / ИНВЕСТИЦИИ",
+    "zh": "04 / 投资"
+  },
+  "05 / SHAHAR KUNDALIGI": {
+    "en": "05 / CITY JOURNAL",
+    "ru": "05 / ГОРОДСКОЙ ДНЕВНИК",
+    "zh": "05 / 城市日志"
+  },
+  "Aloqa": {
+    "en": "Contact",
+    "ru": "Контакты",
+    "zh": "联系"
+  },
+  "Aloqa va raqamli shahar xizmatlari.": {
+    "en": "Communications and digital city services.",
+    "ru": "Связь и цифровые городские услуги.",
+    "zh": "通信与数字城市服务。"
+  },
+  "Amal": {
+    "en": "Action",
+    "ru": "Действие",
+    "zh": "操作"
+  },
+  "Amallar jurnali": {
+    "en": "Activity log",
+    "ru": "Журнал действий",
+    "zh": "操作日志"
+  },
+  "Asosiy mazmunga o‘tish": {
+    "en": "Skip to main content",
+    "ru": "Перейти к основному содержанию",
+    "zh": "跳转到主要内容"
+  },
+  "Asosiy ma’lumot": {
+    "en": "Basic information",
+    "ru": "Основная информация",
+    "zh": "基本信息"
+  },
+  "Asosiy rasm": {
+    "en": "Main image",
+    "ru": "Основное изображение",
+    "zh": "主图"
+  },
+  "Axborot": {
+    "en": "Information",
+    "ru": "Информация",
+    "zh": "信息"
+  },
+  "Axborot markazi": {
+    "en": "Information center",
+    "ru": "Информационный центр",
+    "zh": "信息中心"
+  },
+  "Axborot sahifalari": {
+    "en": "Information pages",
+    "ru": "Информационные страницы",
+    "zh": "信息页面"
+  },
+  "Axborot sahifalari.": {
+    "en": "Information pages.",
+    "ru": "Информационные страницы.",
+    "zh": "信息页面。"
+  },
+  "Axborot uchun mas’ul": {
+    "en": "Information officer",
+    "ru": "Ответственный за информацию",
+    "zh": "信息负责人"
+  },
+  "Axborot uchun mas’ul shaxs": {
+    "en": "Person responsible for information",
+    "ru": "Лицо, ответственное за информацию",
+    "zh": "信息负责人"
+  },
+  "BIR MARTALIK SOZLASH": {
+    "en": "ONE-TIME SETUP",
+    "ru": "ПЕРВОНАЧАЛЬНАЯ НАСТРОЙКА",
+    "zh": "首次设置"
+  },
+  "BOSHQARUV MARKAZI": {
+    "en": "MANAGEMENT CENTER",
+    "ru": "ЦЕНТР УПРАВЛЕНИЯ",
+    "zh": "管理中心"
+  },
+  "Bajarilish": {
+    "en": "Progress",
+    "ru": "Выполнение",
+    "zh": "进度"
+  },
+  "Bajarilish (%)": {
+    "en": "Progress (%)",
+    "ru": "Выполнение (%)",
+    "zh": "进度 (%)"
+  },
+  "Bajarilish darajasi": {
+    "en": "Completion rate",
+    "ru": "Степень выполнения",
+    "zh": "完成度"
+  },
+  "Bajarish muddati": {
+    "en": "Deadline",
+    "ru": "Срок выполнения",
+    "zh": "截止日期"
+  },
+  "Band qilingan": {
+    "en": "Reserved",
+    "ru": "Зарезервирован",
+    "zh": "已预订"
+  },
+  "Barcha bo‘limlar": {
+    "en": "All sections",
+    "ru": "Все разделы",
+    "zh": "所有栏目"
+  },
+  "Barcha holatlar": {
+    "en": "All statuses",
+    "ru": "Все статусы",
+    "zh": "所有状态"
+  },
+  "Barcha imkoniyatlar": {
+    "en": "All opportunities",
+    "ru": "Все возможности",
+    "zh": "所有机会"
+  },
+  "Barcha kategoriyalar": {
+    "en": "All categories",
+    "ru": "Все категории",
+    "zh": "所有分类"
+  },
+  "Barcha loyihalar": {
+    "en": "All projects",
+    "ru": "Все проекты",
+    "zh": "所有项目"
+  },
+  "Barcha materiallar ko‘rib chiqilgan.": {
+    "en": "All materials have been reviewed.",
+    "ru": "Все материалы рассмотрены.",
+    "zh": "所有内容均已审核。"
+  },
+  "Barcha matnlar": {
+    "en": "All texts",
+    "ru": "Все тексты",
+    "zh": "所有文本"
+  },
+  "Barcha o‘zgarishlar saqlandi": {
+    "en": "All changes saved",
+    "ru": "Все изменения сохранены",
+    "zh": "所有更改已保存"
+  },
+  "Barcha uchastkalar": {
+    "en": "All plots",
+    "ru": "Все участки",
+    "zh": "所有地块"
+  },
+  "Barcha yangiliklar": {
+    "en": "All news",
+    "ru": "Все новости",
+    "zh": "所有新闻"
+  },
+  "Barcha yo‘nalishlar bo‘yicha": {
+    "en": "Across all areas",
+    "ru": "По всем направлениям",
+    "zh": "所有领域"
+  },
+  "Barchasi": {
+    "en": "All",
+    "ru": "Все",
+    "zh": "全部"
+  },
+  "Barqaror elektr va issiqlik ta’minoti konsepsiyasi.": {
+    "en": "A concept for reliable electricity and heat supply.",
+    "ru": "Концепция стабильного электро- и теплоснабжения.",
+    "zh": "稳定电力与供热方案。"
+  },
+  "Bekor qilish": {
+    "en": "Cancel",
+    "ru": "Отмена",
+    "zh": "取消"
+  },
+  "Biriktirilgan hujjat": {
+    "en": "Attached document",
+    "ru": "Прикреплённый документ",
+    "zh": "附件文档"
+  },
+  "Birinchi kirish kutilmoqda": {
+    "en": "Awaiting first sign-in",
+    "ru": "Ожидается первый вход",
+    "zh": "等待首次登录"
+  },
+  "Biz bilan bog‘laning": {
+    "en": "Contact us",
+    "ru": "Свяжитесь с нами",
+    "zh": "联系我们"
+  },
+  "Biznes": {
+    "en": "Business",
+    "ru": "Бизнес",
+    "zh": "商业"
+  },
+  "Biznes mavzesi": {
+    "en": "Business district",
+    "ru": "Деловой квартал",
+    "zh": "商务区"
+  },
+  "Biznes park": {
+    "en": "Business park",
+    "ru": "Бизнес-парк",
+    "zh": "商务园区"
+  },
+  "Biznes park uchastkasi": {
+    "en": "Business park plot",
+    "ru": "Участок бизнес-парка",
+    "zh": "商务园区地块"
+  },
+  "Bloklangan": {
+    "en": "Blocked",
+    "ru": "Заблокирован",
+    "zh": "已封禁"
+  },
+  "Bog‘lanish": {
+    "en": "Get in touch",
+    "ru": "Связаться",
+    "zh": "联系"
+  },
+  "Bosh reja": {
+    "en": "Master plan",
+    "ru": "Генеральный план",
+    "zh": "总体规划"
+  },
+  "Bosh reja rasmi": {
+    "en": "Master plan image",
+    "ru": "Изображение генерального плана",
+    "zh": "总体规划图"
+  },
+  "Bosh rejani ochish": {
+    "en": "Open master plan",
+    "ru": "Открыть генеральный план",
+    "zh": "打开总体规划"
+  },
+  "Bosh sahifa": {
+    "en": "Home",
+    "ru": "Главная",
+    "zh": "首页"
+  },
+  "Bosh sahifa katta rasmi": {
+    "en": "Homepage hero image",
+    "ru": "Главное изображение на главной странице",
+    "zh": "首页主视觉图"
+  },
+  "Bosh sahifaga qaytish": {
+    "en": "Back to home",
+    "ru": "Вернуться на главную",
+    "zh": "返回首页"
+  },
+  "Boshqaruv": {
+    "en": "Management",
+    "ru": "Управление",
+    "zh": "管理"
+  },
+  "Boshqaruv markazi": {
+    "en": "Management center",
+    "ru": "Центр управления",
+    "zh": "管理中心"
+  },
+  "Boshqaruv paneli": {
+    "en": "Dashboard",
+    "ru": "Панель управления",
+    "zh": "管理面板"
+  },
+  "Bo‘lim": {
+    "en": "Section",
+    "ru": "Раздел",
+    "zh": "栏目"
+  },
+  "Bo‘limlar bo‘yicha hisobot": {
+    "en": "Report by section",
+    "ru": "Отчёт по разделам",
+    "zh": "栏目报告"
+  },
+  "Bo‘sh ish o‘rinlari": {
+    "en": "Vacancies",
+    "ru": "Вакансии",
+    "zh": "招聘职位"
+  },
+  "Bo‘sh uchastka": {
+    "en": "Available plot",
+    "ru": "Свободный участок",
+    "zh": "可用地块"
+  },
+  "Bu bosqichda vazifa yo‘q": {
+    "en": "No tasks at this stage",
+    "ru": "На этом этапе задач нет",
+    "zh": "此阶段暂无任务"
+  },
+  "Bu brauzer HLS efirini qo‘llamaydi": {
+    "en": "This browser does not support HLS streaming",
+    "ru": "Этот браузер не поддерживает трансляции HLS",
+    "zh": "此浏览器不支持 HLS 流媒体"
+  },
+  "Bu maydonlar rasmiy axborotni joylashtirish uchun. Tashkilotning huquqiy turi, vakolati va tasdiqlangan hujjatlari kiritilmaguncha sayt rasmiy muvofiqlikdan o‘tgan deb hisoblanmaydi.": {
+    "en": "These fields are for official information. The site cannot be considered officially compliant until the organization’s legal form, authority and approved documents are provided.",
+    "ru": "Эти поля предназначены для официальной информации. До указания правовой формы, полномочий и утверждённых документов организации сайт нельзя считать прошедшим официальную проверку соответствия.",
+    "zh": "这些字段用于发布官方信息。在提供机构法律形式、职权和批准文件之前，不得认定网站已通过官方合规审核。"
+  },
+  "Bu obyektning geografik joylashuvi hali kiritilmagan.": {
+    "en": "This property's geographic location has not been entered yet.",
+    "ru": "Географическое расположение этого объекта ещё не указано.",
+    "zh": "尚未填写此项目的地理位置。"
+  },
+  "Bugun tasavvur qiling.": {
+    "en": "Imagine today.",
+    "ru": "Представьте сегодня.",
+    "zh": "今日畅想。"
+  },
+  "Bugun va kelajak bir nigohda.": {
+    "en": "Today and the future at a glance.",
+    "ru": "Сегодня и будущее — в одном взгляде.",
+    "zh": "一览现在与未来。"
+  },
+  "CSV yuklash": {
+    "en": "Download CSV",
+    "ru": "Скачать CSV",
+    "zh": "下载 CSV"
+  },
+  "Content-Type": {
+    "en": "Content-Type",
+    "ru": "Content-Type",
+    "zh": "Content-Type"
+  },
+  "DELETE": {
+    "en": "DELETE",
+    "ru": "DELETE",
+    "zh": "DELETE"
+  },
+  "Domen maydoni domenni sotib olmaydi yoki DNS’ni ulamaydi. Domen tanlanib, DNS sozlangach bu yerga yakuniy manzil yoziladi. Google indekslash muddati kafolatlanmaydi.": {
+    "en": "The domain field does not purchase a domain or connect DNS. Enter the final address here after choosing a domain and configuring DNS. Google indexing times are not guaranteed.",
+    "ru": "Это поле не покупает домен и не подключает DNS. После выбора домена и настройки DNS укажите здесь окончательный адрес. Сроки индексации Google не гарантируются.",
+    "zh": "此字段不会购买域名或配置 DNS。选择域名并设置 DNS 后，请在此填写最终网址。无法保证 Google 收录时间。"
+  },
+  "Efir ijro etilmoqda": {
+    "en": "Stream playing",
+    "ru": "Трансляция воспроизводится",
+    "zh": "直播播放中"
+  },
+  "Efir manzili (HTTPS)": {
+    "en": "Stream URL (HTTPS)",
+    "ru": "Адрес трансляции (HTTPS)",
+    "zh": "直播地址 (HTTPS)"
+  },
+  "Efir manzili hali kiritilmagan": {
+    "en": "Stream URL has not been entered yet",
+    "ru": "Адрес трансляции ещё не указан",
+    "zh": "尚未填写直播地址"
+  },
+  "Efirga ulanish imkoni bo‘lmadi. Manzil, CORS yoki kamera holatini tekshiring.": {
+    "en": "Unable to connect to the stream. Check the URL, CORS or camera status.",
+    "ru": "Не удалось подключиться к трансляции. Проверьте адрес, CORS или состояние камеры.",
+    "zh": "无法连接直播。请检查地址、CORS 或摄像头状态。"
+  },
+  "Efirning ishlashi kamera va internet aloqasiga bog‘liq. Kechikish bo‘lishi mumkin.": {
+    "en": "Streaming depends on the camera and internet connection. There may be a delay.",
+    "ru": "Работа трансляции зависит от камеры и интернет-соединения. Возможна задержка.",
+    "zh": "直播取决于摄像头和网络连接，可能存在延迟。"
+  },
+  "Ekologiya": {
+    "en": "Environment",
+    "ru": "Экология",
+    "zh": "生态"
+  },
+  "Eksport": {
+    "en": "Export",
+    "ru": "Экспорт",
+    "zh": "导出"
+  },
+  "Email": {
+    "en": "Email",
+    "ru": "Электронная почта",
+    "zh": "电子邮箱"
+  },
+  "Email taklif xati yuborilmaydi. Foydalanuvchi shu email bilan kirganda rol bog‘lanadi.": {
+    "en": "No invitation email will be sent. The role is linked when the user signs in with this email.",
+    "ru": "Приглашение по электронной почте не отправляется. Роль будет привязана, когда пользователь войдёт с этим адресом.",
+    "zh": "不会发送邀请邮件。用户使用此邮箱登录时，将关联相应角色。"
+  },
+  "Energiya ta’minoti": {
+    "en": "Energy supply",
+    "ru": "Энергоснабжение",
+    "zh": "能源供应"
+  },
+  "Ertaga yashang.": {
+    "en": "Live tomorrow.",
+    "ru": "Живите завтра.",
+    "zh": "明日乐居。"
+  },
+  "Escape": {
+    "en": "Escape",
+    "ru": "Escape",
+    "zh": "Escape"
+  },
+  "FOTOGALEREYA": {
+    "en": "PHOTO GALLERY",
+    "ru": "ФОТОГАЛЕРЕЯ",
+    "zh": "图片库"
+  },
+  "Faol": {
+    "en": "Active",
+    "ru": "Активен",
+    "zh": "启用"
+  },
+  "Faqat koordinatasi yoki GeoJSON chegarasi kiritilgan obyektlar ko‘rsatiladi.": {
+    "en": "Only properties with coordinates or GeoJSON boundaries are displayed.",
+    "ru": "Отображаются только объекты с указанными координатами или границами GeoJSON.",
+    "zh": "仅显示已填写坐标或 GeoJSON 边界的项目。"
+  },
+  "Fayl": {
+    "en": "File",
+    "ru": "Файл",
+    "zh": "文件"
+  },
+  "Fayl o‘chirilsinmi?": {
+    "en": "Delete this file?",
+    "ru": "Удалить файл?",
+    "zh": "删除此文件？"
+  },
+  "Faylni o‘chirish": {
+    "en": "Delete file",
+    "ru": "Удалить файл",
+    "zh": "删除文件"
+  },
+  "Filtrlar va ro‘yxat": {
+    "en": "Filters and list",
+    "ru": "Фильтры и список",
+    "zh": "筛选与列表"
+  },
+  "Filtrlarga mos obyekt topilmadi.": {
+    "en": "No properties match the filters.",
+    "ru": "По выбранным фильтрам объектов не найдено.",
+    "zh": "没有符合筛选条件的项目。"
+  },
+  "Filtrlarni tiklash": {
+    "en": "Reset filters",
+    "ru": "Сбросить фильтры",
+    "zh": "重置筛选"
+  },
+  "Filtrlarni tozalash": {
+    "en": "Clear filters",
+    "ru": "Очистить фильтры",
+    "zh": "清除筛选"
+  },
+  "Filtrlarni yopish": {
+    "en": "Close filters",
+    "ru": "Закрыть фильтры",
+    "zh": "关闭筛选"
+  },
+  "Fotogalereya": {
+    "en": "Photo gallery",
+    "ru": "Фотогалерея",
+    "zh": "图片库"
+  },
+  "Foydalanuvchi": {
+    "en": "User",
+    "ru": "Пользователь",
+    "zh": "用户"
+  },
+  "Foydalanuvchi huquqlari": {
+    "en": "User permissions",
+    "ru": "Права пользователя",
+    "zh": "用户权限"
+  },
+  "Foydalanuvchi qo‘shish": {
+    "en": "Add user",
+    "ru": "Добавить пользователя",
+    "zh": "添加用户"
+  },
+  "Foydalanuvchilar": {
+    "en": "Users",
+    "ru": "Пользователи",
+    "zh": "用户"
+  },
+  "Foydalanuvchilar, sozlamalar, barcha materiallar va amallar jurnali.": {
+    "en": "Users, settings, all materials and the activity log.",
+    "ru": "Пользователи, настройки, все материалы и журнал действий.",
+    "zh": "用户、设置、所有内容和操作日志。"
+  },
+  "Foydalanuvchini tahrirlash": {
+    "en": "Edit user",
+    "ru": "Редактировать пользователя",
+    "zh": "编辑用户"
+  },
+  "GET": {
+    "en": "GET",
+    "ru": "GET",
+    "zh": "GET"
+  },
+  "GOOGLE MAPS / INVESTITSIYA UCHASTKALARI": {
+    "en": "GOOGLE MAPS / INVESTMENT PLOTS",
+    "ru": "GOOGLE MAPS / ИНВЕСТИЦИОННЫЕ УЧАСТКИ",
+    "zh": "GOOGLE MAPS / 投资地块"
+  },
+  "GeoJSON Polygon chegarasi (ixtiyoriy)": {
+    "en": "GeoJSON Polygon boundary (optional)",
+    "ru": "Граница GeoJSON Polygon (необязательно)",
+    "zh": "GeoJSON Polygon 边界（可选）"
+  },
+  "Geografik latitude (kenglik)": {
+    "en": "Geographic latitude",
+    "ru": "Географическая широта",
+    "zh": "地理纬度"
+  },
+  "Geografik longitude (uzunlik)": {
+    "en": "Geographic longitude",
+    "ru": "Географическая долгота",
+    "zh": "地理经度"
+  },
+  "Geografik xarita tayyor. Admin panelida latitude/longitude yoki GeoJSON chegaralari qo‘shilgach, obyektlar shu yerda chiqadi.": {
+    "en": "The geographic map is ready. Properties will appear here once latitude/longitude or GeoJSON boundaries are added in the admin panel.",
+    "ru": "Географическая карта готова. Объекты появятся здесь после добавления широты/долготы или границ GeoJSON в панели администратора.",
+    "zh": "地理地图已就绪。在管理面板添加经纬度或 GeoJSON 边界后，项目将在此显示。"
+  },
+  "Geografik xarita uchun haqiqiy koordinatalarni kiriting. X/Y qiymatlari esa rasm ustidagi foizli joylashuvdir. GeoJSON tartibi: longitude, latitude; kontur yopiq bo‘lishi kerak.": {
+    "en": "Enter actual coordinates for the geographic map. X/Y values are percentage positions on the image. GeoJSON order: longitude, latitude; the outline must be closed.",
+    "ru": "Введите реальные координаты для географической карты. Значения X/Y задают положение на изображении в процентах. Порядок GeoJSON: долгота, широта; контур должен быть замкнут.",
+    "zh": "请为地理地图填写真实坐标。X/Y 值是图像上的百分比位置。GeoJSON 顺序为经度、纬度；轮廓必须闭合。"
+  },
+  "Google Maps": {
+    "en": "Google Maps",
+    "ru": "Google Maps",
+    "zh": "Google 地图"
+  },
+  "Google Maps API kaliti hali ulanmagan. Superadmin → Sayt boshqaruvi → SEO va integratsiyalar bo‘limida kalitni kiriting.": {
+    "en": "The Google Maps API key has not been connected yet. Enter it under Superadmin → Site management → SEO and integrations.",
+    "ru": "Ключ API Google Maps ещё не подключён. Укажите его в разделе Суперадминистратор → Управление сайтом → SEO и интеграции.",
+    "zh": "尚未配置 Google Maps API 密钥。请前往超级管理员 → 网站管理 → SEO 与集成填写密钥。"
+  },
+  "Google Maps brauzer API kaliti": {
+    "en": "Google Maps browser API key",
+    "ru": "Браузерный ключ API Google Maps",
+    "zh": "Google Maps 浏览器 API 密钥"
+  },
+  "Google Maps integratsiyasi tayyor": {
+    "en": "Google Maps integration is ready",
+    "ru": "Интеграция Google Maps готова",
+    "zh": "Google Maps 集成已就绪"
+  },
+  "Google Maps javob bermadi": {
+    "en": "Google Maps did not respond",
+    "ru": "Google Maps не ответил",
+    "zh": "Google Maps 无响应"
+  },
+  "Google Maps kaliti brauzerga yuboriladi. Uni Google Cloud’da sayt domenlari va faqat Maps JavaScript API bilan cheklang; ishlab chiqarish uchun billing kerak.": {
+    "en": "The Google Maps key is sent to the browser. Restrict it in Google Cloud to the site domains and Maps JavaScript API only; billing is required for production.",
+    "ru": "Ключ Google Maps передаётся в браузер. Ограничьте его в Google Cloud доменами сайта и только Maps JavaScript API; для рабочего сайта требуется подключение оплаты.",
+    "zh": "Google Maps 密钥会发送到浏览器。请在 Google Cloud 中将其限制为本站域名和 Maps JavaScript API；正式使用需要启用结算。"
+  },
+  "Google Maps kaliti yoki domen ruxsati noto‘g‘ri": {
+    "en": "Invalid Google Maps key or domain permission",
+    "ru": "Неверный ключ Google Maps или разрешение для домена",
+    "zh": "Google Maps 密钥或域名权限无效"
+  },
+  "Google Maps yuklanmadi": {
+    "en": "Google Maps failed to load",
+    "ru": "Не удалось загрузить Google Maps",
+    "zh": "Google Maps 加载失败"
+  },
+  "Google Maps yuklanmoqda...": {
+    "en": "Loading Google Maps...",
+    "ru": "Загрузка Google Maps...",
+    "zh": "正在加载 Google Maps..."
+  },
+  "Google Maps’da ochish": {
+    "en": "Open in Google Maps",
+    "ru": "Открыть в Google Maps",
+    "zh": "在 Google 地图中打开"
+  },
+  "Google Search Console tasdiqlash kodi": {
+    "en": "Google Search Console verification code",
+    "ru": "Код подтверждения Google Search Console",
+    "zh": "Google Search Console 验证码"
+  },
+  "Google va brauzerdagi sayt sarlavhasi": {
+    "en": "Site title in Google and the browser",
+    "ru": "Заголовок сайта в Google и браузере",
+    "zh": "Google 和浏览器中的网站标题"
+  },
+  "HLS jonli efir (.m3u8)": {
+    "en": "HLS live stream (.m3u8)",
+    "ru": "Прямая трансляция HLS (.m3u8)",
+    "zh": "HLS 直播 (.m3u8)"
+  },
+  "HOZIR VA KELAJAK": {
+    "en": "PRESENT AND FUTURE",
+    "ru": "НАСТОЯЩЕЕ И БУДУЩЕЕ",
+    "zh": "现在与未来"
+  },
+  "HTTPS manzil yoki kutubxonadan fayl": {
+    "en": "HTTPS URL or a file from the library",
+    "ru": "HTTPS-адрес или файл из библиотеки",
+    "zh": "HTTPS 地址或媒体库文件"
+  },
+  "Hali amallar bajarilmagan": {
+    "en": "No actions yet",
+    "ru": "Действий пока нет",
+    "zh": "暂无操作"
+  },
+  "Hali fayl yuklanmagan": {
+    "en": "No files uploaded yet",
+    "ru": "Файлы ещё не загружены",
+    "zh": "尚未上传文件"
+  },
+  "Hali material joylashtirilmagan": {
+    "en": "No materials added yet",
+    "ru": "Материалы ещё не добавлены",
+    "zh": "尚未添加内容"
+  },
+  "Hali murojaat yubormagansiz": {
+    "en": "You have not submitted an appeal yet",
+    "ru": "Вы ещё не отправляли обращений",
+    "zh": "您尚未提交诉求"
+  },
+  "Hamkor bo‘lishni istaysizmi?": {
+    "en": "Would you like to become a partner?",
+    "ru": "Хотите стать партнёром?",
+    "zh": "希望成为合作伙伴？"
+  },
+  "Hamkorlar": {
+    "en": "Partners",
+    "ru": "Партнёры",
+    "zh": "合作伙伴"
+  },
+  "Hamkorlik": {
+    "en": "Partnership",
+    "ru": "Сотрудничество",
+    "zh": "合作"
+  },
+  "Hamkorlik uchun ochiq platforma": {
+    "en": "An open platform for partnership",
+    "ru": "Открытая платформа для сотрудничества",
+    "zh": "开放的合作平台"
+  },
+  "Hamkorlik va investitsiya": {
+    "en": "Partnership and investment",
+    "ru": "Сотрудничество и инвестиции",
+    "zh": "合作与投资"
+  },
+  "Hamkorlik yo‘nalishlari va e’lon qilingan hamkorlar.": {
+    "en": "Partnership areas and announced partners.",
+    "ru": "Направления сотрудничества и опубликованные партнёры.",
+    "zh": "合作领域与已公布的合作伙伴。"
+  },
+  "Haqiqiy chegara uchun quyida GeoJSON Polygon yoki latitude/longitude kiriting. Google Maps’da uchastka holatiga qarab ranglanadi.": {
+    "en": "Enter a GeoJSON Polygon or latitude/longitude below for the actual boundary. Google Maps colors plots according to their status.",
+    "ru": "Для реальных границ укажите ниже GeoJSON Polygon или широту/долготу. На Google Maps участки окрашиваются в соответствии со статусом.",
+    "zh": "请在下方填写 GeoJSON Polygon 或经纬度以标示真实位置。Google Maps 将按地块状态着色。"
+  },
+  "Haqiqiy uchastka chegaralari kiritilmagan": {
+    "en": "Actual plot boundaries have not been entered",
+    "ru": "Реальные границы участков не указаны",
+    "zh": "尚未填写真实地块边界"
+  },
+  "Har bir kadrda — yangi hayot.": {
+    "en": "New life in every frame.",
+    "ru": "Новая жизнь в каждом кадре.",
+    "zh": "每一帧，都是新生活。"
+  },
+  "Har bir loyiha — yangi imkoniyat.": {
+    "en": "Every project is a new opportunity.",
+    "ru": "Каждый проект — новая возможность.",
+    "zh": "每个项目，都是新机遇。"
+  },
+  "Har bir qaror — yangi natija.": {
+    "en": "Every decision brings a new result.",
+    "ru": "Каждое решение — новый результат.",
+    "zh": "每个决策，带来新成果。"
+  },
+  "Havola": {
+    "en": "Link",
+    "ru": "Ссылка",
+    "zh": "链接"
+  },
+  "Havolani nusxalash imkoni bo‘lmadi": {
+    "en": "Unable to copy the link",
+    "ru": "Не удалось скопировать ссылку",
+    "zh": "无法复制链接"
+  },
+  "Hayot tarzi.": {
+    "en": "A way of life.",
+    "ru": "Образ жизни.",
+    "zh": "生活方式。"
+  },
+  "Hayot uchun yangi makon.": {
+    "en": "A new place to live.",
+    "ru": "Новое пространство для жизни.",
+    "zh": "宜居新空间。"
+  },
+  "Hisob bog‘langan": {
+    "en": "Account linked",
+    "ru": "Учётная запись привязана",
+    "zh": "账号已关联"
+  },
+  "Hisob faol": {
+    "en": "Account active",
+    "ru": "Учётная запись активна",
+    "zh": "账号已启用"
+  },
+  "Hisob holati": {
+    "en": "Account status",
+    "ru": "Статус учётной записи",
+    "zh": "账号状态"
+  },
+  "Hisobdan chiqish": {
+    "en": "Sign out",
+    "ru": "Выйти",
+    "zh": "退出登录"
+  },
+  "Hisobga kirish": {
+    "en": "Sign in",
+    "ru": "Войти",
+    "zh": "登录"
+  },
+  "Hisobotlar": {
+    "en": "Reports",
+    "ru": "Отчёты",
+    "zh": "报告"
+  },
+  "Hisobotlar bazadagi haqiqiy yozuvlardan hisoblanadi. Sayt tashriflari analitikasi hali ulanmagan.": {
+    "en": "Reports are calculated from actual database records. Site traffic analytics has not been connected yet.",
+    "ru": "Отчёты рассчитываются на основе реальных записей базы данных. Аналитика посещаемости сайта ещё не подключена.",
+    "zh": "报告根据数据库中的实际记录计算。尚未接入网站访问分析。"
+  },
+  "Hisobotlar, kontent tasdig‘i, murojaatlar va vazifalar nazorati.": {
+    "en": "Reports, content approval, appeals and task oversight.",
+    "ru": "Отчёты, утверждение контента, контроль обращений и задач.",
+    "zh": "报告、内容审批、诉求与任务监督。"
+  },
+  "Holat": {
+    "en": "Status",
+    "ru": "Статус",
+    "zh": "状态"
+  },
+  "Hozir va kelajak": {
+    "en": "Present and future",
+    "ru": "Настоящее и будущее",
+    "zh": "现在与未来"
+  },
+  "Hozircha ma’lumot yo‘q": {
+    "en": "No information yet",
+    "ru": "Пока нет информации",
+    "zh": "暂无信息"
+  },
+  "Hozircha nashr qilingan material yo‘q": {
+    "en": "No published materials yet",
+    "ru": "Пока нет опубликованных материалов",
+    "zh": "暂无已发布内容"
+  },
+  "Hudud": {
+    "en": "Area",
+    "ru": "Территория",
+    "zh": "区域"
+  },
+  "Hududlar": {
+    "en": "Areas",
+    "ru": "Территории",
+    "zh": "区域"
+  },
+  "Hududlar va xarita": {
+    "en": "Areas and map",
+    "ru": "Территории и карта",
+    "zh": "区域与地图"
+  },
+  "Hujjat URL manzili": {
+    "en": "Document URL",
+    "ru": "URL документа",
+    "zh": "文档 URL"
+  },
+  "Hujjatlar": {
+    "en": "Documents",
+    "ru": "Документы",
+    "zh": "文档"
+  },
+  "Hujjatni ochish": {
+    "en": "Open document",
+    "ru": "Открыть документ",
+    "zh": "打开文档"
+  },
+  "Huquqiy turi": {
+    "en": "Legal form",
+    "ru": "Правовая форма",
+    "zh": "法律形式"
+  },
+  "IJRO VA NATIJA": {
+    "en": "EXECUTION AND RESULTS",
+    "ru": "ИСПОЛНЕНИЕ И РЕЗУЛЬТАТЫ",
+    "zh": "执行与成果"
+  },
+  "INSON UCHUN YARATILGAN MAKON": {
+    "en": "A PLACE CREATED FOR PEOPLE",
+    "ru": "ПРОСТРАНСТВО ДЛЯ ЛЮДЕЙ",
+    "zh": "以人为本的空间"
+  },
+  "INSON · TABIAT · KELAJAK": {
+    "en": "PEOPLE · NATURE · FUTURE",
+    "ru": "ЧЕЛОВЕК · ПРИРОДА · БУДУЩЕЕ",
+    "zh": "人 · 自然 · 未来"
+  },
+  "Ijro nazorati": {
+    "en": "Execution monitoring",
+    "ru": "Контроль исполнения",
+    "zh": "执行监督"
+  },
+  "Ijro nazoratida": {
+    "en": "Under execution monitoring",
+    "ru": "На контроле исполнения",
+    "zh": "执行监督中"
+  },
+  "Ijtimoiy xizmatlar": {
+    "en": "Social services",
+    "ru": "Социальные услуги",
+    "zh": "社会服务"
+  },
+  "Illyustrativ bosh reja": {
+    "en": "Illustrative master plan",
+    "ru": "Иллюстративный генеральный план",
+    "zh": "示意性总体规划"
+  },
+  "Illyustrativ vizualizatsiya · New Tashkent": {
+    "en": "Illustrative visualization · New Tashkent",
+    "ru": "Иллюстративная визуализация · New Tashkent",
+    "zh": "示意效果图 · New Tashkent"
+  },
+  "Illyustratsiyalar:": {
+    "en": "Illustrations:",
+    "ru": "Иллюстрации:",
+    "zh": "示意图："
+  },
+  "Imkoniyatga sarmoya kiriting.": {
+    "en": "Invest in opportunity.",
+    "ru": "Инвестируйте в возможности.",
+    "zh": "投资机遇。"
+  },
+  "Imkoniyatlar": {
+    "en": "Opportunities",
+    "ru": "Возможности",
+    "zh": "机遇"
+  },
+  "Imkoniyatlar xaritasi": {
+    "en": "Opportunity map",
+    "ru": "Карта возможностей",
+    "zh": "机遇地图"
+  },
+  "Infratuzilma": {
+    "en": "Infrastructure",
+    "ru": "Инфраструктура",
+    "zh": "基础设施"
+  },
+  "Inson markazda": {
+    "en": "People at the center",
+    "ru": "Человек в центре внимания",
+    "zh": "以人为本"
+  },
+  "Interaktiv bosh reja": {
+    "en": "Interactive master plan",
+    "ru": "Интерактивный генеральный план",
+    "zh": "交互式总体规划"
+  },
+  "Investitsiya": {
+    "en": "Investment",
+    "ru": "Инвестиции",
+    "zh": "投资"
+  },
+  "Investitsiya shartlari tasdiqlangach, hujjat biriktiriladi.": {
+    "en": "A document will be attached once the investment terms are approved.",
+    "ru": "Документ будет прикреплён после утверждения условий инвестирования.",
+    "zh": "投资条款获批后将附上相关文件。"
+  },
+  "Investitsiya uchastkalari": {
+    "en": "Investment plots",
+    "ru": "Инвестиционные участки",
+    "zh": "投资地块"
+  },
+  "Investitsiya yo‘nalishlari va uchastkalar katalogi. Namuna lotlar amaldagi auksion taklifi emas.": {
+    "en": "Investment areas and plot catalog. Sample lots are not current auction offers.",
+    "ru": "Направления инвестирования и каталог участков. Примерные лоты не являются действующими аукционными предложениями.",
+    "zh": "投资领域与地块目录。示例地块并非实际拍卖标的。"
+  },
+  "Investor": {
+    "en": "Investor",
+    "ru": "Инвестор",
+    "zh": "投资者"
+  },
+  "Investor / kompaniya nomi": {
+    "en": "Investor / company name",
+    "ru": "Имя инвестора / название компании",
+    "zh": "投资者／公司名称"
+  },
+  "Investor nomini ochiq saytda ko‘rsatish": {
+    "en": "Show investor name on the public site",
+    "ru": "Показывать имя инвестора на открытом сайте",
+    "zh": "在公开网站显示投资者名称"
+  },
+  "Investor uchastkasi": {
+    "en": "Investor plot",
+    "ru": "Участок инвестора",
+    "zh": "投资者地块"
+  },
+  "Investor, uchastka yoki kod...": {
+    "en": "Investor, plot or code...",
+    "ru": "Инвестор, участок или код...",
+    "zh": "投资者、地块或编号..."
+  },
+  "Investorga biriktirilgan": {
+    "en": "Assigned to an investor",
+    "ru": "Закреплён за инвестором",
+    "zh": "已分配给投资者"
+  },
+  "Investoringizning aniq manzili.": {
+    "en": "Your investor's exact location.",
+    "ru": "Точное расположение вашего инвестора.",
+    "zh": "投资者的准确位置。"
+  },
+  "Investorlar uchun qo‘llanma": {
+    "en": "Investor guide",
+    "ru": "Руководство для инвесторов",
+    "zh": "投资者指南"
+  },
+  "Investorlar va loyiha hamkorlari uchun portal imkoniyatlari.": {
+    "en": "Portal features for investors and project partners.",
+    "ru": "Возможности портала для инвесторов и партнёров проекта.",
+    "zh": "面向投资者与项目合作伙伴的门户功能。"
+  },
+  "Investorning sotib olgan yeri faqat tasdiqlangan koordinata yoki GeoJSON kiritilgach belgilanadi.": {
+    "en": "An investor's purchased land is marked only after verified coordinates or GeoJSON are entered.",
+    "ru": "Купленный инвестором участок отмечается только после ввода подтверждённых координат или GeoJSON.",
+    "zh": "仅在填写经核实的坐标或 GeoJSON 后，才会标示投资者已购土地。"
+  },
+  "Ish vaqti": {
+    "en": "Working hours",
+    "ru": "Время работы",
+    "zh": "办公时间"
+  },
+  "Ishni davom ettirish": {
+    "en": "Continue working",
+    "ru": "Продолжить работу",
+    "zh": "继续工作"
+  },
+  "Ism va familiya": {
+    "en": "First and last name",
+    "ru": "Имя и фамилия",
+    "zh": "姓名"
+  },
+  "Ism yoki mavzu...": {
+    "en": "Name or subject...",
+    "ru": "Имя или тема...",
+    "zh": "姓名或主题..."
+  },
+  "Ismingiz": {
+    "en": "Your name",
+    "ru": "Ваше имя",
+    "zh": "您的姓名"
+  },
+  "Izoh (qaytarish sababi)": {
+    "en": "Comment (reason for returning)",
+    "ru": "Комментарий (причина возврата)",
+    "zh": "备注（退回原因）"
+  },
+  "Jami": {
+    "en": "Total",
+    "ru": "Всего",
+    "zh": "总计"
+  },
+  "Jami materiallar": {
+    "en": "Total materials",
+    "ru": "Всего материалов",
+    "zh": "内容总数"
+  },
+  "Jami materiallarga nisbatan": {
+    "en": "As a share of all materials",
+    "ru": "От общего количества материалов",
+    "zh": "占全部内容的比例"
+  },
+  "Jami vazifalar": {
+    "en": "Total tasks",
+    "ru": "Всего задач",
+    "zh": "任务总数"
+  },
+  "Jamoamizga qo‘shiling.": {
+    "en": "Join our team.",
+    "ru": "Присоединяйтесь к нашей команде.",
+    "zh": "加入我们的团队。"
+  },
+  "Jamoamizga yuborilgan murojaat boshqaruv panelida ko‘rib chiqiladi. Javobni “Murojaatlarim” bo‘limida olasiz.": {
+    "en": "Appeals sent to our team are reviewed in the dashboard. You will receive a response in My appeals.",
+    "ru": "Обращения, отправленные нашей команде, рассматриваются в панели управления. Ответ появится в разделе «Мои обращения».",
+    "zh": "向我们团队提交的诉求将在管理面板处理。您可在“我的诉求”中查看回复。"
+  },
+  "Jamoat": {
+    "en": "Public",
+    "ru": "Общественный",
+    "zh": "公共"
+  },
+  "Jarayonda": {
+    "en": "In progress",
+    "ru": "В процессе",
+    "zh": "进行中"
+  },
+  "Javob": {
+    "en": "Response",
+    "ru": "Ответ",
+    "zh": "回复"
+  },
+  "Javob berilgan": {
+    "en": "Answered",
+    "ru": "Ответ дан",
+    "zh": "已回复"
+  },
+  "Javob murojaatchining shaxsiy sahifasida ko‘rinadi.": {
+    "en": "The response appears on the applicant's personal page.",
+    "ru": "Ответ отображается в личном кабинете заявителя.",
+    "zh": "回复将显示在申请人的个人中心。"
+  },
+  "Javob ushbu portalda saqlanadi. SMS yoki email xabarnomasi yuborilmaydi.": {
+    "en": "The response is saved in this portal. No SMS or email notification will be sent.",
+    "ru": "Ответ сохраняется на портале. Уведомления по SMS или электронной почте не отправляются.",
+    "zh": "回复保存在本门户中，不会发送短信或邮件通知。"
+  },
+  "Javobni saqlash": {
+    "en": "Save response",
+    "ru": "Сохранить ответ",
+    "zh": "保存回复"
+  },
+  "Jonli efir": {
+    "en": "Live stream",
+    "ru": "Прямой эфир",
+    "zh": "直播"
+  },
+  "Jonli efir manbasi": {
+    "en": "Live stream source",
+    "ru": "Источник прямого эфира",
+    "zh": "直播来源"
+  },
+  "Jonli kameralar": {
+    "en": "Live cameras",
+    "ru": "Онлайн-камеры",
+    "zh": "实时摄像头"
+  },
+  "Joriy holat": {
+    "en": "Current state",
+    "ru": "Текущее состояние",
+    "zh": "当前状态"
+  },
+  "Joriy holat surati": {
+    "en": "Current state photo",
+    "ru": "Фото текущего состояния",
+    "zh": "现状照片"
+  },
+  "Joriy surat izohi": {
+    "en": "Current photo caption",
+    "ru": "Подпись к текущему фото",
+    "zh": "现状照片说明"
+  },
+  "Joriy surat va loyiha vizualizatsiyasini slayder yordamida taqqoslang.": {
+    "en": "Compare the current photo and project visualization using the slider.",
+    "ru": "Сравните текущее фото и визуализацию проекта с помощью ползунка.",
+    "zh": "使用滑块对比现状照片与项目效果图。"
+  },
+  "Joriy surat:": {
+    "en": "Current photo:",
+    "ru": "Текущее фото:",
+    "zh": "现状照片："
+  },
+  "Joriy va kelajak ko‘rinishlari chegarasini surish": {
+    "en": "Move the boundary between current and future views",
+    "ru": "Переместить границу между текущим и будущим видом",
+    "zh": "移动现状与未来效果之间的分界线"
+  },
+  "Jurnal": {
+    "en": "Log",
+    "ru": "Журнал",
+    "zh": "日志"
+  },
+  "KELAJAK BUGUNDAN BOSHLANADI": {
+    "en": "THE FUTURE STARTS TODAY",
+    "ru": "БУДУЩЕЕ НАЧИНАЕТСЯ СЕГОДНЯ",
+    "zh": "未来始于今日"
+  },
+  "Kamera joylashuvi": {
+    "en": "Camera location",
+    "ru": "Расположение камеры",
+    "zh": "摄像头位置"
+  },
+  "Kamera ulangach, shu yerda ko‘rishingiz mumkin.": {
+    "en": "You can watch here once a camera is connected.",
+    "ru": "После подключения камеры трансляция появится здесь.",
+    "zh": "连接摄像头后即可在此观看。"
+  },
+  "Kameralar": {
+    "en": "Cameras",
+    "ru": "Камеры",
+    "zh": "摄像头"
+  },
+  "Kategoriya": {
+    "en": "Category",
+    "ru": "Категория",
+    "zh": "分类"
+  },
+  "Katta g‘oyangiz uchun": {
+    "en": "For your big idea",
+    "ru": "Для вашей большой идеи",
+    "zh": "为您的宏伟构想"
+  },
+  "Katta shrift": {
+    "en": "Large text",
+    "ru": "Крупный шрифт",
+    "zh": "大字体"
+  },
+  "Kattalashtirish": {
+    "en": "Zoom in",
+    "ru": "Увеличить",
+    "zh": "放大"
+  },
+  "Kelajak haqida gaplashamizmi?": {
+    "en": "Shall we talk about the future?",
+    "ru": "Поговорим о будущем?",
+    "zh": "让我们畅谈未来？"
+  },
+  "Kelajak ko‘rinishi": {
+    "en": "Future view",
+    "ru": "Будущий облик",
+    "zh": "未来效果"
+  },
+  "Kelajak loyihasi": {
+    "en": "Future project",
+    "ru": "Будущий проект",
+    "zh": "未来规划"
+  },
+  "Kelajak mahallasi qanday bo‘ladi?": {
+    "en": "What will the neighborhood of the future look like?",
+    "ru": "Каким будет квартал будущего?",
+    "zh": "未来社区将是什么样？"
+  },
+  "Kelajak rasmi izohi": {
+    "en": "Future image caption",
+    "ru": "Подпись к изображению будущего",
+    "zh": "未来效果图说明"
+  },
+  "Kelajak uchun.": {
+    "en": "For the future.",
+    "ru": "Ради будущего.",
+    "zh": "为了未来。"
+  }
+}

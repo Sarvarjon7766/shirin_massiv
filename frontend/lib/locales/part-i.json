@@ -1,0 +1,97 @@
+{
+  "Avval xaritada yo‘nalish chizing": {
+    "en": "First draw a route on the map",
+    "ru": "Сначала нарисуйте маршрут на карте",
+    "zh": "请先在地图上绘制线路"
+  },
+  "chap karta": {
+    "en": "left card",
+    "ru": "карточка слева",
+    "zh": "左侧卡片"
+  },
+  "Chizish orqali tahrirlash": {
+    "en": "Edit by drawing",
+    "ru": "Править рисованием",
+    "zh": "通过绘制编辑"
+  },
+  "Chizishni boshlash": {
+    "en": "Start drawing",
+    "ru": "Начать рисование",
+    "zh": "开始绘制"
+  },
+  "Fayl qo‘shish (PPTX, PDF, DOCX, XLSX)": {
+    "en": "Add a file (PPTX, PDF, DOCX, XLSX)",
+    "ru": "Добавить файл (PPTX, PDF, DOCX, XLSX)",
+    "zh": "添加文件（PPTX、PDF、DOCX、XLSX）"
+  },
+  "GeoJSON faylni tanlang": {
+    "en": "Choose a GeoJSON file",
+    "ru": "Выберите файл GeoJSON",
+    "zh": "请选择 GeoJSON 文件"
+  },
+  "Havola nusxalandi": {
+    "en": "Link copied",
+    "ru": "Ссылка скопирована",
+    "zh": "链接已复制"
+  },
+  "Havolani nusxalash": {
+    "en": "Copy link",
+    "ru": "Скопировать ссылку",
+    "zh": "复制链接"
+  },
+  "Obyektlarni almashtirish uchun yangi fayl tanlang; tanlamasangiz o‘zgarmaydi.": {
+    "en": "Choose a new file to replace the objects; if you do not, nothing changes.",
+    "ru": "Выберите новый файл, чтобы заменить объекты; если не выбрать, ничего не изменится.",
+    "zh": "选择新文件以替换对象；不选择则保持不变。"
+  },
+  "Parol yo‘q": {
+    "en": "No password",
+    "ru": "Пароль не задан",
+    "zh": "未设置密码"
+  },
+  "Polygon/MultiPolygon (zonalar), LineString (yo‘l, metro) yoki Point (obyektlar). Koordinatalar: longitude, latitude.": {
+    "en": "Polygon/MultiPolygon (zones), LineString (road, metro) or Point (objects). Coordinates: longitude, latitude.",
+    "ru": "Polygon/MultiPolygon (зоны), LineString (дорога, метро) или Point (объекты). Координаты: долгота, широта.",
+    "zh": "Polygon/MultiPolygon（区域）、LineString（道路、地铁）或 Point（对象）。坐标：经度，纬度。"
+  },
+  "Qatlamni tahrirlash": {
+    "en": "Edit layer",
+    "ru": "Править слой",
+    "zh": "编辑图层"
+  },
+  "Reja rasmini sozlash": {
+    "en": "Adjust the master plan image",
+    "ru": "Настроить изображение генплана",
+    "zh": "调整总体规划图"
+  },
+  "To‘xtatish": {
+    "en": "Pause",
+    "ru": "Пауза",
+    "zh": "暂停"
+  },
+  "Xaritada bor": {
+    "en": "On the map",
+    "ru": "На карте",
+    "zh": "已在地图上"
+  },
+  "Xaritada yo‘q": {
+    "en": "Not on the map",
+    "ru": "Нет на карте",
+    "zh": "不在地图上"
+  },
+  "Xaritani tahrirlash": {
+    "en": "Edit map",
+    "ru": "Править карту",
+    "zh": "编辑地图"
+  },
+  "Yangi qatlam": {
+    "en": "New layer",
+    "ru": "Новый слой",
+    "zh": "新建图层"
+  },
+  "Yangi reja rasmi": {
+    "en": "New master plan image",
+    "ru": "Новое изображение генплана",
+    "zh": "新建总体规划图"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "Auksion havolasi HTTPS bo‘lishi kerak": {
+    "en": "The auction link must be HTTPS",
+    "ru": "Ссылка на аукцион должна быть HTTPS",
+    "zh": "拍卖链接必须是 HTTPS"
+  },
+  "Auksion lot raqami noto‘g‘ri": {
+    "en": "The auction lot number is invalid",
+    "ru": "Номер лота аукциона указан неверно",
+    "zh": "拍卖地块编号无效"
+  },
+  "Auksion ma’lumoti noto‘g‘ri": {
+    "en": "The auction information is invalid",
+    "ru": "Информация об аукционе указана неверно",
+    "zh": "拍卖信息无效"
+  },
+  "Auksion sanasi noto‘g‘ri": {
+    "en": "The auction date is invalid",
+    "ru": "Дата аукциона указана неверно",
+    "zh": "拍卖日期无效"
+  },
+  "Bir so‘rovda 1 dan 1000 gacha obyekt yuboring": {
+    "en": "Send between 1 and 1000 objects per request",
+    "ru": "Отправляйте от 1 до 1000 объектов за один запрос",
+    "zh": "每次请求请发送 1 至 1000 个对象"
+  },
+  "Boshlang‘ich narx noto‘g‘ri": {
+    "en": "The starting price is invalid",
+    "ru": "Начальная цена указана неверно",
+    "zh": "起拍价无效"
+  },
+  "Bu login band. Boshqa login tanlang yoki kiring.": {
+    "en": "This login is taken. Choose another login or sign in.",
+    "ru": "Этот логин занят. Выберите другой логин или войдите.",
+    "zh": "该登录名已被占用。请另选登录名或直接登录。"
+  },
+  "Bu manzil (slug) band": {
+    "en": "This address (slug) is taken",
+    "ru": "Этот адрес (slug) уже занят",
+    "zh": "该地址（slug）已被占用"
+  },
+  "Bu raqamli hudud allaqachon mavjud": {
+    "en": "A plot with this number already exists",
+    "ru": "Участок с таким номером уже существует",
+    "zh": "该编号的地块已存在"
+  },
+  "Burchak koordinatalari noto‘g‘ri": {
+    "en": "The corner coordinates are invalid",
+    "ru": "Координаты углов указаны неверно",
+    "zh": "角点坐标无效"
+  },
+  "Fayl tanlang": {
+    "en": "Choose a file",
+    "ru": "Выберите файл",
+    "zh": "请选择文件"
+  },
+  "GeoJSON da obyekt yo‘q": {
+    "en": "There are no objects in the GeoJSON",
+    "ru": "В GeoJSON нет объектов",
+    "zh": "GeoJSON 中没有对象"
+  },
+  "GeoJSON fayl kerak": {
+    "en": "A GeoJSON file is required",
+    "ru": "Нужен файл GeoJSON",
+    "zh": "需要 GeoJSON 文件"
+  },
+  "Geometriya yopiq Polygon yoki MultiPolygon bo‘lishi kerak (longitude, latitude)": {
+    "en": "The geometry must be a closed Polygon or MultiPolygon (longitude, latitude)",
+    "ru": "Геометрия должна быть замкнутым Polygon или MultiPolygon (долгота, широта)",
+    "zh": "几何图形必须是闭合的 Polygon 或 MultiPolygon（经度，纬度）"
+  },
+  "Hisob bloklangan. Administratorga murojaat qiling.": {
+    "en": "The account is blocked. Contact the administrator.",
+    "ru": "Учётная запись заблокирована. Обратитесь к администратору.",
+    "zh": "账户已被封锁。请联系管理员。"
+  },
+  "Hudud geometriyasi kerak": {
+    "en": "The plot geometry is required",
+    "ru": "Требуется геометрия участка",
+    "zh": "需要地块几何图形"
+  },
+  "Hudud ma’lumoti noto‘g‘ri": {
+    "en": "The plot data is invalid",
+    "ru": "Данные участка указаны неверно",
+    "zh": "地块数据无效"
+  },
+  "Hudud nomi yoki vazifasini kiriting": {
+    "en": "Enter the plot name or function",
+    "ru": "Укажите название или функцию участка",
+    "zh": "请输入地块名称或功能"
+  },
+  "Hududlar allaqachon mavjud": {
+    "en": "Plots already exist",
+    "ru": "Участки уже существуют",
+    "zh": "地块已存在"
+  },
+  "Hududlarni tanlang": {
+    "en": "Select plots",
+    "ru": "Выберите участки",
+    "zh": "请选择地块"
+  },
+  "Ism va rolni tekshiring": {
+    "en": "Check the name and role",
+    "ru": "Проверьте имя и роль",
+    "zh": "请检查姓名和角色"
+  },
+  "Ismni kiriting": {
+    "en": "Enter a name",
+    "ru": "Введите имя",
+    "zh": "请输入姓名"
+  },
+  "JPG, PNG, WEBP, GIF, MP4, WEBM, PDF, PPTX, DOCX yoki XLSX yuklang": {
+    "en": "Upload a JPG, PNG, WEBP, GIF, MP4, WEBM, PDF, PPTX, DOCX or XLSX file",
+    "ru": "Загрузите файл JPG, PNG, WEBP, GIF, MP4, WEBM, PDF, PPTX, DOCX или XLSX",
+    "zh": "请上传 JPG、PNG、WEBP、GIF、MP4、WEBM、PDF、PPTX、DOCX 或 XLSX 文件"
+  },
+  "JSON noto‘g‘ri": {
+    "en": "Invalid JSON",
+    "ru": "Некорректный JSON",
+    "zh": "JSON 无效"
+  },
+  "Joriy parol noto‘g‘ri": {
+    "en": "The current password is incorrect",
+    "ru": "Текущий пароль указан неверно",
+    "zh": "当前密码不正确"
+  },
+  "Joylashuv noto‘g‘ri": {
+    "en": "The location is invalid",
+    "ru": "Местоположение указано неверно",
+    "zh": "位置无效"
+  },
+  "Juda ko‘p noto‘g‘ri urinish. 15 daqiqadan keyin qayta urinib ko‘ring.": {
+    "en": "Too many incorrect attempts. Try again in 15 minutes.",
+    "ru": "Слишком много неверных попыток. Повторите через 15 минут.",
+    "zh": "错误尝试次数过多。请 15 分钟后再试。"
+  },
+  "Login 3–64 belgidan iborat bo‘lsin: harf, raqam va . _ - @ belgilari": {
+    "en": "The login must be 3–64 characters: letters, digits and the characters . _ - @",
+    "ru": "Логин должен содержать 3–64 символа: буквы, цифры и знаки . _ - @",
+    "zh": "登录名需 3–64 个字符：字母、数字及 . _ - @ 符号"
+  },
+  "Login va parolni kiriting": {
+    "en": "Enter your login and password",
+    "ru": "Введите логин и пароль",
+    "zh": "请输入登录名和密码"
+  },
+  "Login yoki parol noto‘g‘ri": {
+    "en": "Incorrect login or password",
+    "ru": "Неверный логин или пароль",
+    "zh": "登录名或密码不正确"
+  },
+  "Manzil (slug) faqat kichik lotin harflari, raqam va chiziqchadan iborat bo‘lsin": {
+    "en": "The address (slug) may only contain lowercase Latin letters, digits and hyphens",
+    "ru": "Адрес (slug) может содержать только строчные латинские буквы, цифры и дефис",
+    "zh": "地址（slug）只能包含小写拉丁字母、数字和连字符"
+  },
+  "Mavjud foydalanuvchi logini o‘zgartirilmaydi": {
+    "en": "The login of an existing user cannot be changed",
+    "ru": "Логин существующего пользователя изменить нельзя",
+    "zh": "现有用户的登录名不可更改"
+  },
+  "Maydon nomi noto‘g‘ri (harf, raqam, bo‘shliq, . _ -)": {
+    "en": "The field name is invalid (letters, digits, space, . _ -)",
+    "ru": "Название поля указано неверно (буквы, цифры, пробел, . _ -)",
+    "zh": "字段名称无效（字母、数字、空格、. _ -）"
+  },
+  "Natija hujjati havolasi noto‘g‘ri": {
+    "en": "The result document link is invalid",
+    "ru": "Ссылка на документ с результатами указана неверно",
+    "zh": "结果文件链接无效"
+  },
+  "Natija uchun g‘olib nomini kiriting": {
+    "en": "Enter the winner’s name for the result",
+    "ru": "Укажите имя победителя для результата",
+    "zh": "请输入结果中的中标者名称"
+  },
+  "Nuqta ko‘rinishi noto‘g‘ri": {
+    "en": "The point style is invalid",
+    "ru": "Вид точек указан неверно",
+    "zh": "点样式无效"
+  },
+  "O‘zgartirish tanlanmagan": {
+    "en": "No change was selected",
+    "ru": "Изменение не выбрано",
+    "zh": "未选择任何更改"
+  },
+  "Qatlam hajmi juda katta (6 MB dan oshmasin)": {
+    "en": "The layer is too large (must not exceed 6 MB)",
+    "ru": "Слой слишком большой (не более 6 МБ)",
+    "zh": "图层过大（不得超过 6 MB）"
+  },
+  "Qatlam juda murakkab (nuqtalar soni oshib ketdi)": {
+    "en": "The layer is too complex (too many points)",
+    "ru": "Слой слишком сложный (слишком много точек)",
+    "zh": "图层过于复杂（点数过多）"
+  },
+  "Qatlam ma’lumoti noto‘g‘ri": {
+    "en": "The layer data is invalid",
+    "ru": "Данные слоя указаны неверно",
+    "zh": "图层数据无效"
+  },
+  "Qatlam nomini kiriting": {
+    "en": "Enter the layer name",
+    "ru": "Введите название слоя",
+    "zh": "请输入图层名称"
+  },
+  "Qatlam topilmadi": {
+    "en": "Layer not found",
+    "ru": "Слой не найден",
+    "zh": "未找到图层"
+  },
+  "Qatlam turi noto‘g‘ri": {
+    "en": "The layer type is invalid",
+    "ru": "Тип слоя указан неверно",
+    "zh": "图层类型无效"
+  },
+  "Qavatlar oralig‘i noto‘g‘ri": {
+    "en": "The floor range is invalid",
+    "ru": "Диапазон этажей указан неверно",
+    "zh": "层数范围无效"
+  },
+  "Rasm havolasi noto‘g‘ri (avval faylni yuklang)": {
+    "en": "The image link is invalid (upload the file first)",
+    "ru": "Ссылка на изображение указана неверно (сначала загрузите файл)",
+    "zh": "图片链接无效（请先上传文件）"
+  },
+  "Rasmning 4 ta burchagi kerak": {
+    "en": "The image needs 4 corners",
+    "ru": "Нужны 4 угла изображения",
+    "zh": "图片需要 4 个角点"
+  },
+  "Ro‘yxatdan o‘tish vaqtincha cheklangan. Keyinroq urinib ko‘ring.": {
+    "en": "Registration is temporarily limited. Try again later.",
+    "ru": "Регистрация временно ограничена. Повторите попытку позже.",
+    "zh": "注册暂时受限。请稍后再试。"
+  },
+  "Topilmadi": {
+    "en": "Not found",
+    "ru": "Не найдено",
+    "zh": "未找到"
+  },
+  "Xarita ma’lumoti noto‘g‘ri": {
+    "en": "The map data is invalid",
+    "ru": "Данные карты указаны неверно",
+    "zh": "地图数据无效"
+  },
+  "Xarita nomini kiriting": {
+    "en": "Enter the map name",
+    "ru": "Введите название карты",
+    "zh": "请输入地图名称"
+  },
+  "Yakuniy narx noto‘g‘ri": {
+    "en": "The final price is invalid",
+    "ru": "Итоговая цена указана неверно",
+    "zh": "最终价格无效"
+  },
+  "Yangi superadmin qo‘shib bo‘lmaydi": {
+    "en": "A new superadmin cannot be added",
+    "ru": "Нового суперадминистратора добавить нельзя",
+    "zh": "无法添加新的超级管理员"
+  },
+  "«main» manzili band": {
+    "en": "The address “main” is taken",
+    "ru": "Адрес «main» занят",
+    "zh": "地址“main”已被占用"
+  }
+}

@@ -1,0 +1,1187 @@
+{
+  "Kelajakka": {
+    "en": "Toward the future",
+    "ru": "Навстречу будущему",
+    "zh": "迈向未来"
+  },
+  "Kelajakni birga quramiz.": {
+    "en": "Building the future together.",
+    "ru": "Строим будущее вместе.",
+    "zh": "携手共建未来。"
+  },
+  "Kerakli ma’lumotni toping.": {
+    "en": "Find the information you need.",
+    "ru": "Найдите нужную информацию.",
+    "zh": "查找所需信息。"
+  },
+  "Kichik oynaga qaytish": {
+    "en": "Exit full screen",
+    "ru": "Выйти из полноэкранного режима",
+    "zh": "退出全屏"
+  },
+  "Kichraytirish": {
+    "en": "Zoom out",
+    "ru": "Уменьшить",
+    "zh": "缩小"
+  },
+  "Kirish": {
+    "en": "Sign in",
+    "ru": "Войти",
+    "zh": "登录"
+  },
+  "Kirish huquqi berilmagan.": {
+    "en": "Access denied.",
+    "ru": "Доступ запрещён.",
+    "zh": "访问被拒绝。"
+  },
+  "Kirish va murojaat yuborish": {
+    "en": "Sign in and submit an appeal",
+    "ru": "Войти и отправить обращение",
+    "zh": "登录并提交诉求"
+  },
+  "Kiritilmagan": {
+    "en": "Not entered",
+    "ru": "Не указано",
+    "zh": "未填写"
+  },
+  "Kod": {
+    "en": "Code",
+    "ru": "Код",
+    "zh": "代码"
+  },
+  "Kompyuterdan yuklash": {
+    "en": "Upload from computer",
+    "ru": "Загрузить с компьютера",
+    "zh": "从电脑上传"
+  },
+  "Kontent bazasida": {
+    "en": "In the content database",
+    "ru": "В базе контента",
+    "zh": "内容库中"
+  },
+  "Kontent boshqaruvi": {
+    "en": "Content management",
+    "ru": "Управление контентом",
+    "zh": "内容管理"
+  },
+  "Kontent menejeri": {
+    "en": "Content manager",
+    "ru": "Контент-менеджер",
+    "zh": "内容管理员"
+  },
+  "Kontent taqsimoti": {
+    "en": "Content distribution",
+    "ru": "Распределение контента",
+    "zh": "内容分布"
+  },
+  "Kontent yaratish, tahrirlash va tasdiqlashga yuborish.": {
+    "en": "Create, edit and submit content for approval.",
+    "ru": "Создание, редактирование и отправка контента на согласование.",
+    "zh": "创建、编辑内容并提交审核。"
+  },
+  "Ko‘rib chiqilishi kerak": {
+    "en": "Needs review",
+    "ru": "Требует рассмотрения",
+    "zh": "待审核"
+  },
+  "Ko‘rib chiqilmoqda": {
+    "en": "Under review",
+    "ru": "На рассмотрении",
+    "zh": "审核中"
+  },
+  "Ko‘rib chiqish": {
+    "en": "Review",
+    "ru": "Рассмотрение",
+    "zh": "审核"
+  },
+  "Ko‘rib chiqish uchun tayyor": {
+    "en": "Ready for review",
+    "ru": "Готово к рассмотрению",
+    "zh": "已准备好审核"
+  },
+  "Ko‘rsatish": {
+    "en": "Show",
+    "ru": "Показать",
+    "zh": "显示"
+  },
+  "Kundalik ehtiyojlar bir muhitda": {
+    "en": "Everyday needs in one place",
+    "ru": "Повседневные потребности в одном пространстве",
+    "zh": "日常所需，一应俱全"
+  },
+  "Kutubxonadan tanlash": {
+    "en": "Choose from library",
+    "ru": "Выбрать из библиотеки",
+    "zh": "从媒体库选择"
+  },
+  "Leader": {
+    "en": "Leader",
+    "ru": "Руководитель",
+    "zh": "负责人"
+  },
+  "Leader paneli": {
+    "en": "Leader dashboard",
+    "ru": "Панель руководителя",
+    "zh": "负责人面板"
+  },
+  "Logotip": {
+    "en": "Logo",
+    "ru": "Логотип",
+    "zh": "标志"
+  },
+  "Loyiha": {
+    "en": "Project",
+    "ru": "Проект",
+    "zh": "项目"
+  },
+  "Loyiha bilan tanishing": {
+    "en": "Explore the project",
+    "ru": "Ознакомиться с проектом",
+    "zh": "了解项目"
+  },
+  "Loyiha haqida": {
+    "en": "About the project",
+    "ru": "О проекте",
+    "zh": "关于项目"
+  },
+  "Loyiha haqida batafsil": {
+    "en": "Project details",
+    "ru": "Подробнее о проекте",
+    "zh": "项目详情"
+  },
+  "Loyiha holati": {
+    "en": "Project status",
+    "ru": "Статус проекта",
+    "zh": "项目状态"
+  },
+  "Loyiha hujjatlari, taqdimotlar va investorlar uchun materiallar.": {
+    "en": "Project documents, presentations and investor materials.",
+    "ru": "Документы проекта, презентации и материалы для инвесторов.",
+    "zh": "项目文件、演示文稿及投资者资料。"
+  },
+  "Loyiha konsepsiyasi": {
+    "en": "Project concept",
+    "ru": "Концепция проекта",
+    "zh": "项目概念"
+  },
+  "Loyiha ma’lumotlari": {
+    "en": "Project information",
+    "ru": "Информация о проекте",
+    "zh": "项目信息"
+  },
+  "Loyiha nomi": {
+    "en": "Project name",
+    "ru": "Название проекта",
+    "zh": "项目名称"
+  },
+  "Loyiha taqdimoti": {
+    "en": "Project presentation",
+    "ru": "Презентация проекта",
+    "zh": "项目介绍"
+  },
+  "Loyiha, yangilik yoki hujjat nomi...": {
+    "en": "Project, news or document title...",
+    "ru": "Название проекта, новости или документа...",
+    "zh": "项目、新闻或文件名称…"
+  },
+  "Loyihalar": {
+    "en": "Projects",
+    "ru": "Проекты",
+    "zh": "项目"
+  },
+  "Loyihalarning joriy holati va bajarilish darajasi. Namuna ma’lumotlar haqiqiy qurilish holatini bildirmaydi.": {
+    "en": "Current project status and completion progress. Sample data does not reflect actual construction progress.",
+    "ru": "Текущее состояние проектов и степень выполнения. Демонстрационные данные не отражают реальный ход строительства.",
+    "zh": "项目当前状态及完成进度。示例数据不代表实际施工情况。"
+  },
+  "MB ·": {
+    "en": "MB ·",
+    "ru": "МБ ·",
+    "zh": "MB ·"
+  },
+  "MP4 / WEBM fayl": {
+    "en": "MP4 / WEBM file",
+    "ru": "Файл MP4 / WEBM",
+    "zh": "MP4 / WEBM 文件"
+  },
+  "Madaniyat, uchrashuv va shahar hayoti uchun ochiq jamoat makoni.": {
+    "en": "An open public space for culture, gatherings and city life.",
+    "ru": "Открытое общественное пространство для культуры, встреч и городской жизни.",
+    "zh": "供文化活动、聚会与城市生活使用的开放公共空间。"
+  },
+  "Maksimal 25 MB. Nashr qilinmaguncha faqat boshqaruv xodimlari ko‘radi.": {
+    "en": "Maximum 25 MB. Only management staff can view it until published.",
+    "ru": "Максимум 25 МБ. До публикации доступно только сотрудникам управления.",
+    "zh": "最大 25 MB。发布前仅管理人员可查看。"
+  },
+  "Maktab va bolalar bog‘chasini birlashtiruvchi qulay ta’lim muhiti.": {
+    "en": "A welcoming educational environment combining a school and kindergarten.",
+    "ru": "Комфортная образовательная среда, объединяющая школу и детский сад.",
+    "zh": "融合学校与幼儿园的舒适教育环境。"
+  },
+  "Manzil": {
+    "en": "Address",
+    "ru": "Адрес",
+    "zh": "地址"
+  },
+  "Manzili": {
+    "en": "Address",
+    "ru": "Адрес",
+    "zh": "地址"
+  },
+  "Markaziy hudud": {
+    "en": "Central area",
+    "ru": "Центральная зона",
+    "zh": "中心区域"
+  },
+  "Markaziy maydon": {
+    "en": "Central square",
+    "ru": "Центральная площадь",
+    "zh": "中心广场"
+  },
+  "Masalan: SH-001 yoki biznes": {
+    "en": "For example: SH-001 or business",
+    "ru": "Например: SH-001 или бизнес",
+    "zh": "例如：SH-001 或商务"
+  },
+  "Mas’ul belgilanmagan": {
+    "en": "No assignee",
+    "ru": "Ответственный не назначен",
+    "zh": "未指定负责人"
+  },
+  "Mas’ul xodim": {
+    "en": "Responsible staff member",
+    "ru": "Ответственный сотрудник",
+    "zh": "负责人员"
+  },
+  "Material": {
+    "en": "Content item",
+    "ru": "Материал",
+    "zh": "内容"
+  },
+  "Material nashr qilindi": {
+    "en": "Content published",
+    "ru": "Материал опубликован",
+    "zh": "内容已发布"
+  },
+  "Material o‘chirildi": {
+    "en": "Content deleted",
+    "ru": "Материал удалён",
+    "zh": "内容已删除"
+  },
+  "Material o‘chirilsinmi?": {
+    "en": "Delete this content?",
+    "ru": "Удалить материал?",
+    "zh": "删除此内容？"
+  },
+  "Material qaytarildi": {
+    "en": "Content returned",
+    "ru": "Материал возвращён",
+    "zh": "内容已退回"
+  },
+  "Material topilmadi yoki hali nashr qilinmagan": {
+    "en": "Content not found or not yet published",
+    "ru": "Материал не найден или ещё не опубликован",
+    "zh": "内容不存在或尚未发布"
+  },
+  "Materiallar topilmadi": {
+    "en": "No content found",
+    "ru": "Материалы не найдены",
+    "zh": "未找到内容"
+  },
+  "Materiallardan foydalanish": {
+    "en": "Use of materials",
+    "ru": "Использование материалов",
+    "zh": "资料使用"
+  },
+  "Materiallardan foydalanish shartlari": {
+    "en": "Terms of use for materials",
+    "ru": "Условия использования материалов",
+    "zh": "资料使用条款"
+  },
+  "Materiallarni tayyorlang, ko‘rib chiqing va nashr qiling.": {
+    "en": "Prepare, review and publish content.",
+    "ru": "Готовьте, проверяйте и публикуйте материалы.",
+    "zh": "准备、审核并发布内容。"
+  },
+  "Materialni tahrirlash": {
+    "en": "Edit content",
+    "ru": "Редактировать материал",
+    "zh": "编辑内容"
+  },
+  "Matnni o‘qish": {
+    "en": "Read text aloud",
+    "ru": "Читать текст вслух",
+    "zh": "朗读文本"
+  },
+  "Mavjud faylni tanlash": {
+    "en": "Choose an existing file",
+    "ru": "Выбрать существующий файл",
+    "zh": "选择现有文件"
+  },
+  "Mavzu": {
+    "en": "Subject",
+    "ru": "Тема",
+    "zh": "主题"
+  },
+  "Maxfiylik siyosati": {
+    "en": "Privacy policy",
+    "ru": "Политика конфиденциальности",
+    "zh": "隐私政策"
+  },
+  "Maxfiylik va shaxsiy ma’lumotlar siyosati": {
+    "en": "Privacy and personal data policy",
+    "ru": "Политика конфиденциальности и обработки персональных данных",
+    "zh": "隐私与个人信息政策"
+  },
+  "Maxsus imkoniyatlar": {
+    "en": "Accessibility",
+    "ru": "Специальные возможности",
+    "zh": "无障碍功能"
+  },
+  "Maydon": {
+    "en": "Area",
+    "ru": "Площадь",
+    "zh": "面积"
+  },
+  "Maydon (ga)": {
+    "en": "Area (ha)",
+    "ru": "Площадь (га)",
+    "zh": "面积（公顷）"
+  },
+  "Ma’lumot kiritilmagan": {
+    "en": "No information entered",
+    "ru": "Информация не указана",
+    "zh": "未填写信息"
+  },
+  "Ma’lumot so‘rash": {
+    "en": "Request information",
+    "ru": "Запросить информацию",
+    "zh": "索取资料"
+  },
+  "Ma’lumotlarni boshqarish": {
+    "en": "Data management",
+    "ru": "Управление данными",
+    "zh": "数据管理"
+  },
+  "Ma’lumotlarni kuzatish va boshqarish.": {
+    "en": "Monitor and manage data.",
+    "ru": "Отслеживание и управление данными.",
+    "zh": "跟踪与管理数据。"
+  },
+  "Media kutubxonasi": {
+    "en": "Media library",
+    "ru": "Медиатека",
+    "zh": "媒体库"
+  },
+  "Menyu": {
+    "en": "Menu",
+    "ru": "Меню",
+    "zh": "菜单"
+  },
+  "Menyu bandi": {
+    "en": "Menu item",
+    "ru": "Пункт меню",
+    "zh": "菜单项"
+  },
+  "Menyu bandini o‘chirish": {
+    "en": "Delete menu item",
+    "ru": "Удалить пункт меню",
+    "zh": "删除菜单项"
+  },
+  "Menyu bandlarini nomlash, tartiblash va yashirish mumkin. Ichki manzil / bilan boshlanadi.": {
+    "en": "Rename, reorder and hide menu items. Internal paths begin with /.",
+    "ru": "Пункты меню можно переименовывать, упорядочивать и скрывать. Внутренний адрес начинается с /.",
+    "zh": "可重命名、排序和隐藏菜单项。内部路径以 / 开头。"
+  },
+  "Muddati o‘tgan": {
+    "en": "Overdue",
+    "ru": "Просрочено",
+    "zh": "已逾期"
+  },
+  "Muloqotga": {
+    "en": "Let's connect",
+    "ru": "К диалогу",
+    "zh": "交流沟通"
+  },
+  "Murojaat holati": {
+    "en": "Appeal status",
+    "ru": "Статус обращения",
+    "zh": "诉求状态"
+  },
+  "Murojaat holati yangilandi": {
+    "en": "Appeal status updated",
+    "ru": "Статус обращения обновлён",
+    "zh": "诉求状态已更新"
+  },
+  "Murojaat qabul qilindi.": {
+    "en": "Appeal received.",
+    "ru": "Обращение принято.",
+    "zh": "诉求已受理。"
+  },
+  "Murojaat raqami:": {
+    "en": "Appeal number:",
+    "ru": "Номер обращения:",
+    "zh": "诉求编号："
+  },
+  "Murojaat yuborish": {
+    "en": "Submit an appeal",
+    "ru": "Отправить обращение",
+    "zh": "提交诉求"
+  },
+  "Murojaatchi": {
+    "en": "Applicant",
+    "ru": "Заявитель",
+    "zh": "申请人"
+  },
+  "Murojaatchiga javob": {
+    "en": "Reply to applicant",
+    "ru": "Ответ заявителю",
+    "zh": "回复申请人"
+  },
+  "Murojaatingiz qabul qilindi": {
+    "en": "Your appeal has been received",
+    "ru": "Ваше обращение принято",
+    "zh": "您的诉求已受理"
+  },
+  "Murojaatingizni batafsil yozing...": {
+    "en": "Describe your appeal in detail...",
+    "ru": "Подробно изложите ваше обращение...",
+    "zh": "请详细描述您的诉求…"
+  },
+  "Murojaatlar": {
+    "en": "Appeals",
+    "ru": "Обращения",
+    "zh": "诉求"
+  },
+  "Murojaatlarim": {
+    "en": "My appeals",
+    "ru": "Мои обращения",
+    "zh": "我的诉求"
+  },
+  "Murojaatlarim.": {
+    "en": "My appeals.",
+    "ru": "Мои обращения.",
+    "zh": "我的诉求。"
+  },
+  "Murojaatni ko‘rib chiqish uchun ma’lumotlarimdan foydalanishga roziman.": {
+    "en": "I consent to the use of my data to review this appeal.",
+    "ru": "Я согласен на использование моих данных для рассмотрения обращения.",
+    "zh": "我同意使用我的个人信息处理此诉求。"
+  },
+  "Murojaatni yuborish": {
+    "en": "Submit appeal",
+    "ru": "Отправить обращение",
+    "zh": "提交诉求"
+  },
+  "Namuna": {
+    "en": "Sample",
+    "ru": "Образец",
+    "zh": "示例"
+  },
+  "Namuna konsepsiya": {
+    "en": "Sample concept",
+    "ru": "Демонстрационная концепция",
+    "zh": "示例概念"
+  },
+  "Namuna kontent bazaga yuklandi": {
+    "en": "Sample content loaded into the database",
+    "ru": "Демонстрационный контент загружен в базу",
+    "zh": "示例内容已导入数据库"
+  },
+  "Namuna kontent yuklash": {
+    "en": "Load sample content",
+    "ru": "Загрузить демонстрационный контент",
+    "zh": "加载示例内容"
+  },
+  "Namuna konturlar — illyustrativ joylashuv. Kadastr chegaralarini bildirmaydi.": {
+    "en": "Sample outlines are illustrative only. They do not represent cadastral boundaries.",
+    "ru": "Демонстрационные контуры показывают условное расположение и не являются кадастровыми границами.",
+    "zh": "示例轮廓仅用于示意，不代表地籍边界。"
+  },
+  "Namuna loyiha": {
+    "en": "Sample project",
+    "ru": "Демонстрационный проект",
+    "zh": "示例项目"
+  },
+  "Namuna loyihalar, yangiliklar va hududlarni yuklang yoki yangi material yarating.": {
+    "en": "Load sample projects, news and areas, or create new content.",
+    "ru": "Загрузите демонстрационные проекты, новости и территории либо создайте новый материал.",
+    "zh": "加载示例项目、新闻和区域，或创建新内容。"
+  },
+  "Namuna ma’lumot sifatida belgilash": {
+    "en": "Mark as sample data",
+    "ru": "Отметить как демонстрационные данные",
+    "zh": "标记为示例数据"
+  },
+  "Namuna ma’lumot. Rasmiy taklif emas.": {
+    "en": "Sample data. Not an official offer.",
+    "ru": "Демонстрационные данные. Не является официальным предложением.",
+    "zh": "示例数据，非正式要约。"
+  },
+  "Namunaviy bosh rejani ko‘rish →": {
+    "en": "View sample master plan →",
+    "ru": "Посмотреть демонстрационный генплан →",
+    "zh": "查看示例总体规划 →"
+  },
+  "Nashr holati": {
+    "en": "Publication status",
+    "ru": "Статус публикации",
+    "zh": "发布状态"
+  },
+  "Nashr qilingan": {
+    "en": "Published",
+    "ru": "Опубликовано",
+    "zh": "已发布"
+  },
+  "Nashr qilish": {
+    "en": "Publish",
+    "ru": "Опубликовать",
+    "zh": "发布"
+  },
+  "Nashr ulushi": {
+    "en": "Publication share",
+    "ru": "Доля опубликованных материалов",
+    "zh": "已发布占比"
+  },
+  "New Tashkent ↗": {
+    "en": "New Tashkent ↗",
+    "ru": "New Tashkent ↗",
+    "zh": "New Tashkent ↗"
+  },
+  "Nomi": {
+    "en": "Name",
+    "ru": "Название",
+    "zh": "名称"
+  },
+  "Normativ hujjatlar": {
+    "en": "Regulatory documents",
+    "ru": "Нормативные документы",
+    "zh": "规范性文件"
+  },
+  "OCHIQ AXBOROT": {
+    "en": "PUBLIC INFORMATION",
+    "ru": "ОТКРЫТАЯ ИНФОРМАЦИЯ",
+    "zh": "公开信息"
+  },
+  "Obyekt": {
+    "en": "Site",
+    "ru": "Объект",
+    "zh": "设施"
+  },
+  "Obyekt nomlari": {
+    "en": "Site names",
+    "ru": "Названия объектов",
+    "zh": "设施名称"
+  },
+  "Obyekt sahifasini ochish": {
+    "en": "Open site details",
+    "ru": "Открыть страницу объекта",
+    "zh": "打开设施详情"
+  },
+  "Ochiq axborot": {
+    "en": "Public information",
+    "ru": "Открытая информация",
+    "zh": "公开信息"
+  },
+  "Ochiq e’lon qilinmagan": {
+    "en": "Not publicly disclosed",
+    "ru": "Публично не раскрыто",
+    "zh": "未公开"
+  },
+  "Ochiq hisobotlar": {
+    "en": "Public reports",
+    "ru": "Открытые отчёты",
+    "zh": "公开报告"
+  },
+  "Ochiq hisobotlar.": {
+    "en": "Public reports.",
+    "ru": "Открытые отчёты.",
+    "zh": "公开报告。"
+  },
+  "Ochiq murojaatlar": {
+    "en": "Open appeals",
+    "ru": "Открытые обращения",
+    "zh": "未结诉求"
+  },
+  "Ochiqlik va aniq ma’lumot.": {
+    "en": "Transparency and accurate information.",
+    "ru": "Открытость и точная информация.",
+    "zh": "透明公开，信息准确。"
+  },
+  "Ochish": {
+    "en": "Open",
+    "ru": "Открыть",
+    "zh": "打开"
+  },
+  "Ochish ↗": {
+    "en": "Open ↗",
+    "ru": "Открыть ↗",
+    "zh": "打开 ↗"
+  },
+  "Ofis va biznes xizmatlari uchun namunaviy uchastka.": {
+    "en": "Sample plot for offices and business services.",
+    "ru": "Демонстрационный участок для офисов и деловых услуг.",
+    "zh": "用于办公和商务服务的示例地块。"
+  },
+  "Ofislar va savdo majmualari uchun hudud.": {
+    "en": "Area for offices and retail complexes.",
+    "ru": "Территория для офисов и торговых комплексов.",
+    "zh": "办公与商业综合体用地。"
+  },
+  "OpenStreetMap": {
+    "en": "OpenStreetMap",
+    "ru": "OpenStreetMap",
+    "zh": "OpenStreetMap"
+  },
+  "Oxirgi faoliyat": {
+    "en": "Recent activity",
+    "ru": "Последние действия",
+    "zh": "近期活动"
+  },
+  "O‘chirish": {
+    "en": "Delete",
+    "ru": "Удалить",
+    "zh": "删除"
+  },
+  "O‘qishni to‘xtatish": {
+    "en": "Stop reading",
+    "ru": "Остановить чтение",
+    "zh": "停止朗读"
+  },
+  "O‘zgarishlar nashr qilingan saytga tatbiq etiladi.": {
+    "en": "Changes will apply to the published website.",
+    "ru": "Изменения будут применены к опубликованному сайту.",
+    "zh": "更改将应用于已发布的网站。"
+  },
+  "O‘zgarishlarni saqlash": {
+    "en": "Save changes",
+    "ru": "Сохранить изменения",
+    "zh": "保存更改"
+  },
+  "PATCH": {
+    "en": "PATCH",
+    "ru": "PATCH",
+    "zh": "PATCH"
+  },
+  "POST": {
+    "en": "POST",
+    "ru": "POST",
+    "zh": "POST"
+  },
+  "Panel yuklanmoqda...": {
+    "en": "Loading dashboard...",
+    "ru": "Загрузка панели...",
+    "zh": "正在加载面板…"
+  },
+  "Panelni yuklab bo‘lmadi": {
+    "en": "Could not load dashboard",
+    "ru": "Не удалось загрузить панель",
+    "zh": "无法加载面板"
+  },
+  "Park va dam olish": {
+    "en": "Parks and recreation",
+    "ru": "Парки и отдых",
+    "zh": "公园与休闲"
+  },
+  "Parklar, sayr yo‘laklari va ekologik muhit.": {
+    "en": "Parks, walking paths and a green environment.",
+    "ru": "Парки, прогулочные дорожки и экологичная среда.",
+    "zh": "公园、步行道与绿色环境。"
+  },
+  "Pastga": {
+    "en": "Move down",
+    "ru": "Вниз",
+    "zh": "下移"
+  },
+  "Piyoda sayr, sport va oilaviy dam olishga mo‘ljallangan hudud.": {
+    "en": "An area for walking, sport and family recreation.",
+    "ru": "Территория для прогулок, спорта и семейного отдыха.",
+    "zh": "供步行、运动及家庭休闲使用的区域。"
+  },
+  "Portal boshqaruvini boshlang.": {
+    "en": "Start managing the portal.",
+    "ru": "Начните управление порталом.",
+    "zh": "开始管理门户。"
+  },
+  "Portal ma’lumotlari": {
+    "en": "Portal information",
+    "ru": "Информация о портале",
+    "zh": "门户信息"
+  },
+  "Portal sozlamalari saqlandi": {
+    "en": "Portal settings saved",
+    "ru": "Настройки портала сохранены",
+    "zh": "门户设置已保存"
+  },
+  "Portal yuklanmoqda...": {
+    "en": "Loading portal...",
+    "ru": "Загрузка портала...",
+    "zh": "正在加载门户…"
+  },
+  "Portalni kontent bilan to‘ldiring": {
+    "en": "Add content to the portal",
+    "ru": "Наполните портал контентом",
+    "zh": "为门户添加内容"
+  },
+  "Portalning boshlang‘ich materiallari namuna hisoblanadi. Tasdiqlangan hujjat va loyiha parametrlari boshqaruv paneli orqali kiritiladi.": {
+    "en": "The portal's initial materials are samples. Approved documents and project parameters are entered through the dashboard.",
+    "ru": "Начальные материалы портала являются демонстрационными. Утверждённые документы и параметры проектов вводятся через панель управления.",
+    "zh": "门户初始资料为示例。已批准的文件和项目参数通过管理面板录入。"
+  },
+  "Portalning bugungi holati va asosiy ko‘rsatkichlari.": {
+    "en": "The portal's current status and key indicators.",
+    "ru": "Текущее состояние портала и основные показатели.",
+    "zh": "门户当前状态及关键指标。"
+  },
+  "QURILISH / ONLAYN VIDEO": {
+    "en": "CONSTRUCTION / LIVE VIDEO",
+    "ru": "СТРОИТЕЛЬСТВО / ОНЛАЙН-ВИДЕО",
+    "zh": "施工 / 在线视频"
+  },
+  "Qabul tartibi": {
+    "en": "Reception procedure",
+    "ru": "Порядок приёма",
+    "zh": "接待流程"
+  },
+  "Qarorlar, ijro nazorati va loyiha holatlari bir joyda.": {
+    "en": "Decisions, execution monitoring and project statuses in one place.",
+    "ru": "Решения, контроль исполнения и статусы проектов в одном месте.",
+    "zh": "集中查看决策、执行监督及项目状态。"
+  },
+  "Qavatlar": {
+    "en": "Floors",
+    "ru": "Этажи",
+    "zh": "楼层"
+  },
+  "Qayta urinish": {
+    "en": "Try again",
+    "ru": "Повторить",
+    "zh": "重试"
+  },
+  "Qaytarilgan": {
+    "en": "Returned",
+    "ru": "Возвращено",
+    "zh": "已退回"
+  },
+  "Qaytarish": {
+    "en": "Return",
+    "ru": "Вернуть",
+    "zh": "退回"
+  },
+  "Qaytarish izohi:": {
+    "en": "Reason for return:",
+    "ru": "Причина возврата:",
+    "zh": "退回原因："
+  },
+  "Qidirish": {
+    "en": "Search",
+    "ru": "Искать",
+    "zh": "搜索"
+  },
+  "Qidirish...": {
+    "en": "Search...",
+    "ru": "Поиск...",
+    "zh": "搜索…"
+  },
+  "Qidiruv": {
+    "en": "Search",
+    "ru": "Поиск",
+    "zh": "搜索"
+  },
+  "Qidiruv bo‘yicha natija topilmadi": {
+    "en": "No search results found",
+    "ru": "По вашему запросу ничего не найдено",
+    "zh": "未找到搜索结果"
+  },
+  "Qidiruv bo‘yicha natija topilmadi.": {
+    "en": "No search results found.",
+    "ru": "По вашему запросу ничего не найдено.",
+    "zh": "未找到搜索结果。"
+  },
+  "Qidiruv natijasi uchun tavsif": {
+    "en": "Search result description",
+    "ru": "Описание для поисковой выдачи",
+    "zh": "搜索结果描述"
+  },
+  "Qidiruv tizimlariga indekslashga ruxsat berish": {
+    "en": "Allow search engine indexing",
+    "ru": "Разрешить индексацию поисковыми системами",
+    "zh": "允许搜索引擎索引"
+  },
+  "Qidiruv va filtrlar": {
+    "en": "Search and filters",
+    "ru": "Поиск и фильтры",
+    "zh": "搜索与筛选"
+  },
+  "Qisqacha mazmun": {
+    "en": "Summary",
+    "ru": "Краткое содержание",
+    "zh": "摘要"
+  },
+  "Qoralama": {
+    "en": "Draft",
+    "ru": "Черновик",
+    "zh": "草稿"
+  },
+  "Qoralama / qaytarilgan": {
+    "en": "Draft / returned",
+    "ru": "Черновик / возвращено",
+    "zh": "草稿 / 已退回"
+  },
+  "Qoralamalar": {
+    "en": "Drafts",
+    "ru": "Черновики",
+    "zh": "草稿"
+  },
+  "Qo‘shimcha loyiha parametrlari": {
+    "en": "Additional project parameters",
+    "ru": "Дополнительные параметры проекта",
+    "zh": "其他项目参数"
+  },
+  "Qulay harakatlanish": {
+    "en": "Convenient mobility",
+    "ru": "Удобное передвижение",
+    "zh": "便捷出行"
+  },
+  "Qulay harakatlanish va hududlararo bog‘lanish.": {
+    "en": "Convenient mobility and connections between areas.",
+    "ru": "Удобное передвижение и связь между территориями.",
+    "zh": "便捷出行与区域互联。"
+  },
+  "Qulay hayotning mustahkam asosi.": {
+    "en": "A solid foundation for comfortable living.",
+    "ru": "Надёжная основа комфортной жизни.",
+    "zh": "舒适生活的坚实基础。"
+  },
+  "Qulay shahar": {
+    "en": "A comfortable city",
+    "ru": "Комфортный город",
+    "zh": "宜居城市"
+  },
+  "Qurilish holati": {
+    "en": "Construction status",
+    "ru": "Состояние строительства",
+    "zh": "施工状态"
+  },
+  "Qurilish jarayoni": {
+    "en": "Construction progress",
+    "ru": "Ход строительства",
+    "zh": "施工进展"
+  },
+  "Qurilish jarayoni, voqealar va shaharcha hayotidan fotolavhalar.": {
+    "en": "Photos of construction, events and life in the town.",
+    "ru": "Фотографии строительства, событий и жизни городка.",
+    "zh": "施工进展、活动及城镇生活照片。"
+  },
+  "Qurilish maydonidagi kameralar orqali jarayon bilan tanishing.": {
+    "en": "Follow progress through cameras at the construction site.",
+    "ru": "Следите за ходом работ через камеры на строительной площадке.",
+    "zh": "通过施工现场摄像头了解工程进展。"
+  },
+  "Qurilishni onlayn kuzating.": {
+    "en": "Watch construction online.",
+    "ru": "Наблюдайте за строительством онлайн.",
+    "zh": "在线查看施工进展。"
+  },
+  "Qurilmoqda": {
+    "en": "Under construction",
+    "ru": "Строится",
+    "zh": "建设中"
+  },
+  "RAQAMLI BOSHQARUV": {
+    "en": "DIGITAL MANAGEMENT",
+    "ru": "ЦИФРОВОЕ УПРАВЛЕНИЕ",
+    "zh": "数字化管理"
+  },
+  "RSS yangiliklar": {
+    "en": "RSS news",
+    "ru": "Новости RSS",
+    "zh": "RSS 新闻"
+  },
+  "RTSP kamera manzili to‘g‘ridan-to‘g‘ri brauzerda ochilmaydi. HLS yoki YouTube efir manzilini kiriting. Kamera login/parolini bu yerga yozmang.": {
+    "en": "RTSP camera addresses cannot play directly in a browser. Enter an HLS or YouTube stream URL. Do not enter camera credentials here.",
+    "ru": "RTSP-адрес камеры нельзя открыть напрямую в браузере. Укажите ссылку на HLS- или YouTube-трансляцию. Не вводите здесь логин и пароль камеры.",
+    "zh": "浏览器无法直接播放 RTSP 摄像头地址。请输入 HLS 或 YouTube 直播地址。请勿在此填写摄像头账号或密码。"
+  },
+  "Rahbariyat": {
+    "en": "Leadership",
+    "ru": "Руководство",
+    "zh": "领导团队"
+  },
+  "Rahbariyat, hujjatlar, tenderlar, vakansiyalar va hisobotlarni “Kontent boshqaruvi” orqali alohida material sifatida qo‘shing.": {
+    "en": "Add leadership, documents, tenders, vacancies and reports as separate items through Content management.",
+    "ru": "Добавляйте сведения о руководстве, документы, тендеры, вакансии и отчёты отдельными материалами через «Управление контентом».",
+    "zh": "通过“内容管理”分别添加领导团队、文件、招标、职位和报告。"
+  },
+  "Rahbariyat.": {
+    "en": "Leadership.",
+    "ru": "Руководство.",
+    "zh": "领导团队。"
+  },
+  "Raqamli imkoniyatlar": {
+    "en": "Digital capabilities",
+    "ru": "Цифровые возможности",
+    "zh": "数字化能力"
+  },
+  "Raqamli infratuzilma": {
+    "en": "Digital infrastructure",
+    "ru": "Цифровая инфраструктура",
+    "zh": "数字基础设施"
+  },
+  "Rasmiy ma’lumot": {
+    "en": "Official information",
+    "ru": "Официальная информация",
+    "zh": "官方信息"
+  },
+  "Rasmlar": {
+    "en": "Images",
+    "ru": "Изображения",
+    "zh": "图片"
+  },
+  "Rejadan — natijaga.": {
+    "en": "From plan to results.",
+    "ru": "От плана — к результату.",
+    "zh": "从规划到成果。"
+  },
+  "Rejalashtirilgan": {
+    "en": "Planned",
+    "ru": "Запланировано",
+    "zh": "已规划"
+  },
+  "Robots.txt": {
+    "en": "Robots.txt",
+    "ru": "Robots.txt",
+    "zh": "Robots.txt"
+  },
+  "Rol": {
+    "en": "Role",
+    "ru": "Роль",
+    "zh": "角色"
+  },
+  "Rollar serverda tekshiriladi. Foydalanuvchini email orqali qo‘shing. U shu emailga bog‘langan ChatGPT hisobi bilan kirganda rol faollashadi. Saytning tashrifchi ruxsatini ham alohida berish kerak.": {
+    "en": "Roles are verified on the server. Add a user by email. Their role activates when they sign in with the ChatGPT account linked to that email. Website visitor access must also be granted separately.",
+    "ru": "Роли проверяются на сервере. Добавьте пользователя по email. Роль активируется при входе через аккаунт ChatGPT с этим email. Доступ к посещению сайта также необходимо предоставить отдельно.",
+    "zh": "角色由服务器验证。通过邮箱添加用户，用户使用关联该邮箱的 ChatGPT 账号登录后角色即生效。还需单独授予网站访问权限。"
+  },
+  "Ro‘yxatdan o‘tish": {
+    "en": "Registration",
+    "ru": "Регистрация",
+    "zh": "注册"
+  },
+  "Ro‘yxatdan o‘tish ma’lumotlari": {
+    "en": "Registration information",
+    "ru": "Регистрационные сведения",
+    "zh": "注册信息"
+  },
+  "Ro‘yxatga qaytish": {
+    "en": "Back to list",
+    "ru": "Вернуться к списку",
+    "zh": "返回列表"
+  },
+  "SAYT BO‘YICHA QIDIRUV": {
+    "en": "SITE SEARCH",
+    "ru": "ПОИСК ПО САЙТУ",
+    "zh": "站内搜索"
+  },
+  "SAYTNI KODSIZ BOSHQARISH": {
+    "en": "MANAGE YOUR SITE WITHOUT CODE",
+    "ru": "УПРАВЛЕНИЕ САЙТОМ БЕЗ КОДА",
+    "zh": "无需编程即可管理网站"
+  },
+  "SEO va integratsiyalar": {
+    "en": "SEO and integrations",
+    "ru": "SEO и интеграции",
+    "zh": "SEO 与集成"
+  },
+  "SH": {
+    "en": "SH",
+    "ru": "SH",
+    "zh": "SH"
+  },
+  "SH-001": {
+    "en": "SH-001",
+    "ru": "SH-001",
+    "zh": "SH-001"
+  },
+  "SH-002": {
+    "en": "SH-002",
+    "ru": "SH-002",
+    "zh": "SH-002"
+  },
+  "SH-003": {
+    "en": "SH-003",
+    "ru": "SH-003",
+    "zh": "SH-003"
+  },
+  "SHIRIN /": {
+    "en": "SHIRIN /",
+    "ru": "SHIRIN /",
+    "zh": "SHIRIN /"
+  },
+  "SHIRIN / AXBOROT": {
+    "en": "SHIRIN / INFORMATION",
+    "ru": "SHIRIN / ИНФОРМАЦИЯ",
+    "zh": "SHIRIN / 信息"
+  },
+  "SHIRIN / BOSHQARUV": {
+    "en": "SHIRIN / MANAGEMENT",
+    "ru": "SHIRIN / УПРАВЛЕНИЕ",
+    "zh": "SHIRIN / 管理"
+  },
+  "SHIRIN / INTERAKTIV XARITA": {
+    "en": "SHIRIN / INTERACTIVE MAP",
+    "ru": "SHIRIN / ИНТЕРАКТИВНАЯ КАРТА",
+    "zh": "SHIRIN / 交互地图"
+  },
+  "SHIRIN DIGITAL PLATFORM": {
+    "en": "SHIRIN DIGITAL PLATFORM",
+    "ru": "ЦИФРОВАЯ ПЛАТФОРМА SHIRIN",
+    "zh": "SHIRIN 数字平台"
+  },
+  "SHIRIN KONSEPSIYASI": {
+    "en": "SHIRIN CONCEPT",
+    "ru": "КОНЦЕПЦИЯ SHIRIN",
+    "zh": "SHIRIN 概念"
+  },
+  "Sahifa topilmadi.": {
+    "en": "Page not found.",
+    "ru": "Страница не найдена.",
+    "zh": "页面不存在。"
+  },
+  "Sana": {
+    "en": "Date",
+    "ru": "Дата",
+    "zh": "日期"
+  },
+  "Saqlandi": {
+    "en": "Saved",
+    "ru": "Сохранено",
+    "zh": "已保存"
+  },
+  "Saqlanmoqda...": {
+    "en": "Saving...",
+    "ru": "Сохранение...",
+    "zh": "正在保存…"
+  },
+  "Saqlash": {
+    "en": "Save",
+    "ru": "Сохранить",
+    "zh": "保存"
+  },
+  "Sarlavha": {
+    "en": "Title",
+    "ru": "Заголовок",
+    "zh": "标题"
+  },
+  "Sarlavha bo‘yicha qidirish...": {
+    "en": "Search by title...",
+    "ru": "Поиск по заголовку...",
+    "zh": "按标题搜索…"
+  },
+  "Savdo": {
+    "en": "Retail",
+    "ru": "Торговля",
+    "zh": "商业"
+  },
+  "Savdo markazi uchastkasi": {
+    "en": "Shopping centre plot",
+    "ru": "Участок для торгового центра",
+    "zh": "购物中心地块"
+  },
+  "Savdo va xizmat ko‘rsatish loyihasi uchun namunaviy uchastka.": {
+    "en": "Sample plot for a retail and services project.",
+    "ru": "Демонстрационный участок для проекта торговли и услуг.",
+    "zh": "用于商业与服务项目的示例地块。"
+  },
+  "Savol, taklif yoki hamkorlik murojaatingizni yuboring. Holatini shaxsiy murojaatlar sahifasida kuzating.": {
+    "en": "Send your question, suggestion or cooperation request. Track its status on your personal appeals page.",
+    "ru": "Отправьте вопрос, предложение или запрос на сотрудничество. Отслеживайте статус на странице ваших обращений.",
+    "zh": "提交问题、建议或合作诉求，并在“我的诉求”页面跟踪状态。"
+  },
+  "Savol-javob": {
+    "en": "FAQ",
+    "ru": "Вопросы и ответы",
+    "zh": "常见问题"
+  },
+  "Savollaringizga javoblar.": {
+    "en": "Answers to your questions.",
+    "ru": "Ответы на ваши вопросы.",
+    "zh": "为您答疑。"
+  },
+  "Sayt boshqaruvi": {
+    "en": "Site management",
+    "ru": "Управление сайтом",
+    "zh": "网站管理"
+  },
+  "Sayt xaritasi": {
+    "en": "Sitemap",
+    "ru": "Карта сайта",
+    "zh": "网站地图"
+  },
+  "Sayt xaritasi.": {
+    "en": "Sitemap.",
+    "ru": "Карта сайта.",
+    "zh": "网站地图。"
+  },
+  "Saytda ko‘rinadigan materiallar": {
+    "en": "Content visible on the site",
+    "ru": "Материалы, видимые на сайте",
+    "zh": "网站可见内容"
+  },
+  "Saytdagi matnni qidiring...": {
+    "en": "Search site text...",
+    "ru": "Найти текст на сайте...",
+    "zh": "搜索网站文字…"
+  },
+  "Saytdagi sarlavha, tugma va izohlarni shu yerdan o‘zgartiring. Asl holatiga qaytarish uchun o‘zgartirilgan matnni tozalang.": {
+    "en": "Change site headings, buttons and descriptions here. Clear the edited text to restore the original.",
+    "ru": "Изменяйте здесь заголовки, кнопки и пояснения сайта. Чтобы восстановить исходный текст, очистите изменённое поле.",
+    "zh": "在此更改网站标题、按钮和说明。清空修改后的文字可恢复原文。"
+  },
+  "Saytga qaytish": {
+    "en": "Back to site",
+    "ru": "Вернуться на сайт",
+    "zh": "返回网站"
+  },
+  "Saytni ko‘rish": {
+    "en": "View site",
+    "ru": "Посмотреть сайт",
+    "zh": "查看网站"
+  },
+  "Serverda saqlanadi · Rol:": {
+    "en": "Stored on server · Role:",
+    "ru": "Хранится на сервере · Роль:",
+    "zh": "保存在服务器 · 角色："
+  },
+  "Shahar arxitekturasi konsepsiyasi": {
+    "en": "City architecture concept",
+    "ru": "Концепция городской архитектуры",
+    "zh": "城市建筑概念"
+  },
+  "Shahar bosh rejasi illyustratsiyasi": {
+    "en": "Illustration of the city master plan",
+    "ru": "Иллюстрация генерального плана города",
+    "zh": "城市总体规划示意图"
+  },
+  "Shahar hayoti": {
+    "en": "City life",
+    "ru": "Городская жизнь",
+    "zh": "城市生活"
+  },
+  "Shahar konsepsiyasining ustuvor yo‘nalishi.": {
+    "en": "A priority area of the city concept.",
+    "ru": "Приоритетное направление концепции города.",
+    "zh": "城市概念规划的优先方向。"
+  },
+  "Shahar kundaligi.": {
+    "en": "City diary.",
+    "ru": "Городской дневник.",
+    "zh": "城市日记。"
+  },
+  "Shahar qiyofasini yaratuvchi loyihalar.": {
+    "en": "Projects shaping the city.",
+    "ru": "Проекты, формирующие облик города.",
+    "zh": "塑造城市面貌的项目。"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "Til": {
+    "en": "Language",
+    "ru": "Язык",
+    "zh": "语言"
+  },
+  "Yorug‘": {
+    "en": "Light",
+    "ru": "Светлая",
+    "zh": "浅色"
+  },
+  "Tungi": {
+    "en": "Dark",
+    "ru": "Тёмная",
+    "zh": "深色"
+  },
+  "Tizim": {
+    "en": "System",
+    "ru": "Системная",
+    "zh": "跟随系统"
+  },
+  "Rasm tavsifi": {
+    "en": "Image description",
+    "ru": "Описание изображения",
+    "zh": "图片描述"
+  },
+  "Kontent tarjimalari": {
+    "en": "Content translations",
+    "ru": "Переводы контента",
+    "zh": "内容翻译"
+  },
+  "Asosiy matn — o‘zbek lotin. Bo‘sh tarjima maydonida asosiy matn ko‘rsatiladi.": {
+    "en": "The source text is in Latin Uzbek. Empty translation fields display the source text.",
+    "ru": "Исходный текст — на узбекском языке (латиница). Если поле перевода пустое, отображается исходный текст.",
+    "zh": "原文为乌兹别克语拉丁字母。翻译字段为空时显示原文。"
+  },
+  "Lotindan kirillga o‘girish": {
+    "en": "Convert Latin to Cyrillic",
+    "ru": "Преобразовать латиницу в кириллицу",
+    "zh": "将拉丁字母转换为西里尔字母"
+  },
+  "5 TIL / YAGONA BOSHQARUV": {
+    "en": "5 LANGUAGES / ONE MANAGEMENT HUB",
+    "ru": "5 ЯЗЫКОВ / ЕДИНОЕ УПРАВЛЕНИЕ",
+    "zh": "5 种语言／统一管理"
+  },
+  "Tillar va tarjimalar": {
+    "en": "Languages and translations",
+    "ru": "Языки и переводы",
+    "zh": "语言与翻译"
+  },
+  "Interfeys, menyu va sayt ma’lumotlarini har bir tilda boshqaring.": {
+    "en": "Manage the interface, menus and site information in each language.",
+    "ru": "Управляйте интерфейсом, меню и информацией сайта на каждом языке.",
+    "zh": "以各语言管理界面、菜单和网站信息。"
+  },
+  "Sayt ma’lumotlari": {
+    "en": "Site information",
+    "ru": "Информация сайта",
+    "zh": "网站信息"
+  },
+  "Boshlang‘ich sozlamalar": {
+    "en": "Default settings",
+    "ru": "Настройки по умолчанию",
+    "zh": "默认设置"
+  },
+  "Matnni qidirish...": {
+    "en": "Search text...",
+    "ru": "Поиск текста...",
+    "zh": "搜索文本..."
+  },
+  "Bo‘sh qiymat standart tarjimadan foydalanadi. Kontent tarjimalari materialning o‘zida tahrirlanadi.": {
+    "en": "Empty values use the default translation. Content translations are edited within each material.",
+    "ru": "Пустые значения используют перевод по умолчанию. Переводы контента редактируются в самом материале.",
+    "zh": "留空时使用默认翻译。内容翻译请在各内容条目中编辑。"
+  },
+  "SEO sarlavhasi": {
+    "en": "SEO title",
+    "ru": "SEO-заголовок",
+    "zh": "SEO 标题"
+  },
+  "SEO tavsifi": {
+    "en": "SEO description",
+    "ru": "SEO-описание",
+    "zh": "SEO 描述"
+  },
+  "Standart til": {
+    "en": "Default language",
+    "ru": "Язык по умолчанию",
+    "zh": "默认语言"
+  },
+  "Standart mavzu": {
+    "en": "Default theme",
+    "ru": "Тема по умолчанию",
+    "zh": "默认主题"
+  },
+  "(prefers-color-scheme: dark)": {
+    "en": "(prefers-color-scheme: dark)",
+    "ru": "(prefers-color-scheme: dark)",
+    "zh": "(prefers-color-scheme: dark)"
+  },
+  "So‘rov hajmi juda katta": {
+    "en": "Request is too large",
+    "ru": "Слишком большой запрос",
+    "zh": "请求体过大"
+  },
+  "So‘rov manbasi mos emas": {
+    "en": "Request origin does not match",
+    "ru": "Источник запроса не совпадает",
+    "zh": "请求来源不匹配"
+  },
+  "JSON kerak": {
+    "en": "JSON required",
+    "ru": "Требуется JSON",
+    "zh": "需要 JSON 格式"
+  },
+  "Fayl topilmadi": {
+    "en": "File not found",
+    "ru": "Файл не найден",
+    "zh": "未找到文件"
+  },
+  "Fayl nashr qilinmagan": {
+    "en": "File is not published",
+    "ru": "Файл не опубликован",
+    "zh": "文件尚未发布"
+  },
+  "private, no-store": {
+    "en": "private, no-store",
+    "ru": "private, no-store",
+    "zh": "private, no-store"
+  },
+  "public, max-age=300": {
+    "en": "public, max-age=300",
+    "ru": "public, max-age=300",
+    "zh": "public, max-age=300"
+  },
+  "bytes */": {
+    "en": "bytes */",
+    "ru": "bytes */",
+    "zh": "bytes */"
+  },
+  "Kirish talab etiladi": {
+    "en": "Sign-in required",
+    "ru": "Необходимо войти",
+    "zh": "请先登录"
+  },
+  "Ruxsat yo‘q": {
+    "en": "Access denied",
+    "ru": "Доступ запрещён",
+    "zh": "无访问权限"
+  },
+  "Ism, telefon va kamida 10 belgili xabarni kiriting": {
+    "en": "Enter your name, phone number and a message of at least 10 characters",
+    "ru": "Укажите имя, телефон и сообщение длиной не менее 10 символов",
+    "zh": "请填写姓名、电话和至少 10 个字符的留言"
+  },
+  "Bir soatda 5 ta murojaat chegarasi": {
+    "en": "Limit of 5 appeals per hour",
+    "ru": "Не более 5 обращений в час",
+    "zh": "每小时最多提交 5 条诉求"
+  },
+  "Boshqaruv paneliga ruxsat berilmagan": {
+    "en": "Dashboard access denied",
+    "ru": "Доступ к панели управления запрещён",
+    "zh": "无权访问管理面板"
+  },
+  "Fayl yuklash huquqi yo‘q": {
+    "en": "You do not have permission to upload files",
+    "ru": "Нет права загружать файлы",
+    "zh": "您无权上传文件"
+  },
+  "Fayl tanlang. Maksimal hajm 25 MB": {
+    "en": "Select a file. Maximum size: 25 MB",
+    "ru": "Выберите файл. Максимальный размер — 25 МБ",
+    "zh": "请选择文件，最大 25 MB"
+  },
+  "JPG, PNG, WEBP, GIF, MP4, WEBM yoki PDF yuklang": {
+    "en": "Upload a JPG, PNG, WEBP, GIF, MP4, WEBM or PDF file",
+    "ru": "Загрузите файл JPG, PNG, WEBP, GIF, MP4, WEBM или PDF",
+    "zh": "请上传 JPG、PNG、WEBP、GIF、MP4、WEBM 或 PDF 文件"
+  },
+  "Fayl turi va tarkibi mos emas": {
+    "en": "File type does not match its contents",
+    "ru": "Тип файла не соответствует содержимому",
+    "zh": "文件类型与内容不匹配"
+  },
+  "Fayl yuklandi": {
+    "en": "File uploaded",
+    "ru": "Файл загружен",
+    "zh": "文件已上传"
+  },
+  "Faqat superadmin faylni o‘chiradi": {
+    "en": "Only a superadmin can delete files",
+    "ru": "Удалять файлы может только суперадминистратор",
+    "zh": "仅超级管理员可删除文件"
+  },
+  "Fayl materialda ishlatilmoqda. Avval havolasini olib tashlang.": {
+    "en": "This file is used in a material. Remove its link first.",
+    "ru": "Файл используется в материале. Сначала удалите ссылку на него.",
+    "zh": "此文件正在内容中使用，请先移除引用链接。"
+  },
+  "Fayl o‘chirildi": {
+    "en": "File deleted",
+    "ru": "Файл удалён",
+    "zh": "文件已删除"
+  },
+  "Namuna ma’lumotlar avval yuklangan": {
+    "en": "Sample data has already been loaded",
+    "ru": "Примерные данные уже загружены",
+    "zh": "示例数据已加载"
+  },
+  "Namuna kontent yuklandi": {
+    "en": "Sample content loaded",
+    "ru": "Примерный контент загружен",
+    "zh": "示例内容已加载"
+  },
+  "Faqat superadmin o‘chira oladi": {
+    "en": "Only a superadmin can delete",
+    "ru": "Удалять может только суперадминистратор",
+    "zh": "仅超级管理员可删除"
+  },
+  "Tasdiqlash huquqi yo‘q": {
+    "en": "You do not have permission to approve",
+    "ru": "Нет права утверждать",
+    "zh": "您无审批权限"
+  },
+  "Noto‘g‘ri holat": {
+    "en": "Invalid status",
+    "ru": "Недопустимый статус",
+    "zh": "状态无效"
+  },
+  "Material tasdiqlandi": {
+    "en": "Material approved",
+    "ru": "Материал утверждён",
+    "zh": "内容已批准"
+  },
+  "Tahrirlash huquqi yo‘q": {
+    "en": "You do not have permission to edit",
+    "ru": "Нет права редактировать",
+    "zh": "您无编辑权限"
+  },
+  "Usul qo‘llanmaydi": {
+    "en": "Method not allowed",
+    "ru": "Метод не поддерживается",
+    "zh": "不支持此方法"
+  },
+  "Sarlavha, tur yoki nashr holati noto‘g‘ri": {
+    "en": "Invalid title, type or publication status",
+    "ru": "Неверный заголовок, тип или статус публикации",
+    "zh": "标题、类型或发布状态无效"
+  },
+  "Ma’lumot juda katta": {
+    "en": "Data is too large",
+    "ru": "Слишком большой объём данных",
+    "zh": "数据量过大"
+  },
+  "GeoJSON yopiq Polygon bo‘lishi kerak (longitude, latitude)": {
+    "en": "GeoJSON must be a closed Polygon (longitude, latitude)",
+    "ru": "GeoJSON должен быть замкнутым Polygon (долгота, широта)",
+    "zh": "GeoJSON 必须为闭合 Polygon（经度、纬度）"
+  },
+  "Latitude va longitude qiymatlarini tekshiring": {
+    "en": "Check the latitude and longitude values",
+    "ru": "Проверьте значения широты и долготы",
+    "zh": "请检查经纬度值"
+  },
+  "Media havolasi HTTPS bo‘lishi va parol saqlamasligi kerak": {
+    "en": "Media URLs must use HTTPS and contain no password",
+    "ru": "Медиассылка должна использовать HTTPS и не содержать пароль",
+    "zh": "媒体链接须使用 HTTPS，且不得包含密码"
+  },
+  "YouTube video yoki jonli efir manzilini kiriting": {
+    "en": "Enter a YouTube video or live stream URL",
+    "ru": "Укажите адрес видео или прямой трансляции YouTube",
+    "zh": "请输入 YouTube 视频或直播地址"
+  },
+  "Hudud holati noto‘g‘ri": {
+    "en": "Invalid plot status",
+    "ru": "Неверный статус участка",
+    "zh": "地块状态无效"
+  },
+  "Material tahrirlandi": {
+    "en": "Material updated",
+    "ru": "Материал отредактирован",
+    "zh": "内容已更新"
+  },
+  "Material yaratildi": {
+    "en": "Material created",
+    "ru": "Материал создан",
+    "zh": "内容已创建"
+  },
+  "Holat noto‘g‘ri": {
+    "en": "Invalid status",
+    "ru": "Неверный статус",
+    "zh": "状态无效"
+  },
+  "Yakunlash uchun javob yozing": {
+    "en": "Write a response before closing",
+    "ru": "Для завершения напишите ответ",
+    "zh": "请先填写回复再结案"
+  },
+  "Murojaat yangilandi": {
+    "en": "Appeal updated",
+    "ru": "Обращение обновлено",
+    "zh": "诉求已更新"
+  },
+  "Vazifa, muddat va holatni tekshiring": {
+    "en": "Check the task, deadline and status",
+    "ru": "Проверьте задачу, срок и статус",
+    "zh": "请检查任务、截止日期和状态"
+  },
+  "Vazifa saqlandi": {
+    "en": "Task saved",
+    "ru": "Задача сохранена",
+    "zh": "任务已保存"
+  },
+  "Ism, email va rolni tekshiring": {
+    "en": "Check the name, email and role",
+    "ru": "Проверьте имя, email и роль",
+    "zh": "请检查姓名、邮箱和角色"
+  },
+  "O‘z superadmin huquqingizni olib tashlay olmaysiz": {
+    "en": "You cannot remove your own superadmin privileges",
+    "ru": "Вы не можете лишить себя прав суперадминистратора",
+    "zh": "您不能移除自己的超级管理员权限"
+  },
+  "Mavjud foydalanuvchi emaili o‘zgartirilmaydi": {
+    "en": "An existing user's email cannot be changed",
+    "ru": "Email существующего пользователя нельзя изменить",
+    "zh": "无法更改现有用户的邮箱"
+  },
+  "Foydalanuvchi huquqlari yangilandi": {
+    "en": "User permissions updated",
+    "ru": "Права пользователя обновлены",
+    "zh": "用户权限已更新"
+  },
+  "Integratsiya va SEO ruxsatlari faqat superadmin uchun": {
+    "en": "Integration and SEO permissions are restricted to superadmins",
+    "ru": "Права на интеграции и SEO доступны только суперадминистратору",
+    "zh": "仅超级管理员拥有集成与 SEO 设置权限"
+  },
+  "Sozlamalar yangilandi": {
+    "en": "Settings updated",
+    "ru": "Настройки обновлены",
+    "zh": "设置已更新"
+  },
+  "Ruxsat yo‘q yoki manzil topilmadi": {
+    "en": "Access denied or address not found",
+    "ru": "Доступ запрещён или адрес не найден",
+    "zh": "无访问权限或未找到地址"
+  },
+  "API error": {
+    "en": "API error",
+    "ru": "Ошибка API",
+    "zh": "API 错误"
+  },
+  "Bu email allaqachon mavjud": {
+    "en": "This email already exists",
+    "ru": "Этот email уже существует",
+    "zh": "此邮箱已存在"
+  },
+  "Amal bajarilmadi. Qayta urinib ko‘ring.": {
+    "en": "The action failed. Please try again.",
+    "ru": "Не удалось выполнить действие. Попробуйте снова.",
+    "zh": "操作失败，请重试。"
+  },
+  "Ichki statistika": {
+    "en": "Internal statistics",
+    "ru": "Внутренняя статистика",
+    "zh": "内部统计"
+  },
+  "Kontent statistikasi": {
+    "en": "Content statistics",
+    "ru": "Статистика контента",
+    "zh": "内容统计"
+  },
+  "Qurilish statistikasi": {
+    "en": "Construction statistics",
+    "ru": "Статистика строительства",
+    "zh": "建设统计"
+  },
+  "Investitsiya statistikasi": {
+    "en": "Investment statistics",
+    "ru": "Статистика инвестиций",
+    "zh": "投资统计"
+  },
+  "Murojaatlar statistikasi": {
+    "en": "Appeal statistics",
+    "ru": "Статистика обращений",
+    "zh": "诉求统计"
+  },
+  "Vazifalar statistikasi": {
+    "en": "Task statistics",
+    "ru": "Статистика задач",
+    "zh": "任务统计"
+  },
+  "Ichki statistika — faqat ko‘rish": {
+    "en": "Internal statistics — read only",
+    "ru": "Внутренняя статистика — только просмотр",
+    "zh": "内部统计 — 只读"
+  },
+  "Faqat sizga ruxsat berilgan bo‘limlar ko‘rsatiladi. Shaxsiy ma’lumotlar va materiallar matni yuborilmaydi.": {
+    "en": "Only authorized sections are shown. Personal information and content text are not included.",
+    "ru": "Отображаются только разрешённые разделы. Персональные данные и тексты материалов не передаются.",
+    "zh": "仅显示已获授权的栏目，不提供个人信息或材料正文。"
+  },
+  "Statistika bo‘limlariga ruxsat berilmagan": {
+    "en": "No statistics sections have been granted",
+    "ru": "Доступ к разделам статистики не предоставлен",
+    "zh": "尚未授予统计栏目权限"
+  },
+  "Admin ko‘radigan statistika bo‘limlari": {
+    "en": "Statistics visible to this administrator",
+    "ru": "Разделы статистики, доступные администратору",
+    "zh": "此管理员可查看的统计栏目"
+  },
+  "Faqat ruxsat berilgan ichki statistika va hisobotlarni ko‘rish.": {
+    "en": "View only authorized internal statistics and reports.",
+    "ru": "Просмотр только разрешённой внутренней статистики и отчётов.",
+    "zh": "仅查看已授权的内部统计与报告。"
+  },
+  "Kontent, nashr, media, xarita, tarjimalar, sozlamalar va kundalik ishlarni boshqarish.": {
+    "en": "Manage content, publishing, media, maps, translations, settings and daily operations.",
+    "ru": "Управление контентом, публикациями, медиа, картой, переводами, настройками и текущими задачами.",
+    "zh": "管理内容、发布、媒体、地图、翻译、设置及日常工作。"
+  },
+  "Kontent menejeri materialni mustaqil nashr qilishi yoki qoralama sifatida saqlashi mumkin.": {
+    "en": "The content manager can publish directly or save a draft.",
+    "ru": "Контент-менеджер может самостоятельно публиковать материал или сохранять черновик.",
+    "zh": "内容管理员可直接发布材料或保存为草稿。"
+  },
+  "Superadmin hisobingizga admin yoki kontent menejeri rolini biriktirishi kerak.": {
+    "en": "A superadmin must assign the administrator or content manager role to your account.",
+    "ru": "Суперадминистратор должен назначить вашему аккаунту роль администратора или контент-менеджера.",
+    "zh": "超级管理员须为您的账户分配管理员或内容管理员角色。"
+  },
+  "Foydalanuvchini email orqali qo‘shing, rol va ruxsatlarni belgilang. Hisob bloklansa, boshqaruvga kirish darhol to‘xtaydi.": {
+    "en": "Add users by email and assign roles and permissions. Blocking an account immediately removes management access.",
+    "ru": "Добавьте пользователя по email и назначьте роль и права. Блокировка аккаунта немедленно прекращает доступ к управлению.",
+    "zh": "通过邮箱添加用户并分配角色和权限。禁用账户后，管理访问权限立即失效。"
+  },
+  "Ko‘rsatkichlar tizimdagi yozuvlardan hisoblanadi. Namuna kontent ham hisobga kiradi; sayt tashriflari hisoblanmaydi.": {
+    "en": "Figures are calculated from system records, including sample content. Website visits are not tracked.",
+    "ru": "Показатели рассчитываются по записям системы, включая демонстрационные. Посещения сайта не учитываются.",
+    "zh": "指标根据系统记录计算，包括示例内容，不统计网站访问量。"
+  },
+  "Statistika ruxsati noto‘g‘ri": {
+    "en": "Invalid statistics permission",
+    "ru": "Недопустимое разрешение статистики",
+    "zh": "统计权限无效"
+  },
+  "Admin": {
+    "en": "Administrator",
+    "ru": "Администратор",
+    "zh": "管理员"
+  },
+  "Zonalar": {
+    "en": "Zones",
+    "ru": "Зоны",
+    "zh": "分区"
+  }
+}

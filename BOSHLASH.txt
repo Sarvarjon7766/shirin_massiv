@@ -1,0 +1,20 @@
+SHIRIN — 2026-10-20
+
+TUZILMA (ikki mustaqil loyiha)
+frontend/ — interfeys (Vinext/React, Cloudflare Worker).
+  app/ marshrutlar va /api proksi, features/ asosiy komponentlar, components/ui, hooks, lib/ (i18n, data, site-config, permissions, backend klienti).
+backend/ — API (Node.js + MongoDB, fayllar GridFS'da).
+  src/server.ts HTTP server, src/api.ts barcha endpointlar, src/db.ts MongoDB ulanishi, scripts/security-check.mjs.
+
+ISHGA TUSHIRISH
+Node.js 22.13+, npm, MongoDB (lokal yoki Atlas). Har bir papkada alohida: npm install
+1) backend:  .env.example dan .env yarating (MONGODB_URI, API_SHARED_SECRET, OWNER_LOGIN, OWNER_PASSWORD), npm run dev
+2) frontend: .dev.vars yarating (BACKEND_SECRET — backenddagi API_SHARED_SECRET bilan bir xil), npm run dev
+
+TEKSHIRUV
+backend:  npm run typecheck && npm run check
+frontend: npx tsc --noEmit && node scripts/localization-check.mjs
+
+Batafsil: README.md
+
+KIRISH: /admin da OWNER_LOGIN va OWNER_PASSWORD bilan kiring; xodimlarni Foydalanuvchilar bo'limida parol bilan qo'shasiz. Tashrifchilar /login da o'zi ro'yxatdan o'tadi.

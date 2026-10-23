@@ -1,0 +1,3 @@
+import {backendFetch} from './backend';
+export async function publicData(){const res=await backendFetch('/api/public');if(!res.ok)throw new Error('Backend /api/public: '+res.status);return await res.json() as {items:any[];settings:any;sample:boolean}}
+export const routeKinds:Record<string,string>={projects:'projects',investment:'lots',infrastructure:'infrastructure',news:'news',events:'events',documents:'documents',partners:'partners',photos:'photos',videos:'videos',live:'cameras',compare:'comparisons',pages:'pages',leadership:'leadership',reports:'reports',tenders:'tenders',vacancies:'vacancies',faq:'faqs'};

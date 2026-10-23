@@ -1,0 +1,26 @@
+export type Item={id:string;kind:string;title:string;summary:string;body:string;image:string;category:string;status:string;data:Record<string,any>;author?:string;updated?:string;note?:string};
+export const kinds:Record<string,string>={projects:'Loyihalar',lots:'Investitsiya hududlari',infrastructure:'Infratuzilma',news:'Yangiliklar',events:'Tadbirlar',documents:'Hujjatlar',partners:'Hamkorlik',zones:'Zonalar',photos:'Fotogalereya',videos:'Videogalereya',cameras:'Jonli kameralar',comparisons:'Hozir va kelajak',pages:'Axborot sahifalari',leadership:'Rahbariyat',reports:'Ochiq hisobotlar',tenders:'Tenderlar',vacancies:'Bo‘sh ish o‘rinlari',faqs:'Savol-javob'};
+export const statuses:Record<string,string>={draft:'Qoralama',review:'Tasdiq kutilmoqda',published:'Nashr qilingan',rejected:'Qaytarilgan',new:'Yangi',progress:'Jarayonda',closed:'Yakunlangan',planned:'Rejalashtirilgan',building:'Qurilmoqda',done:'Tayyor'};
+export const roles:Record<string,string>={superadmin:'Superadmin',admin:'Admin',leader:'Admin',manager:'Kontent menejeri',visitor:'Tashrifchi'};
+const make=(id:string,kind:string,title:string,summary:string,category:string,image:string,data:Record<string,any>={}):Item=>({id,kind,title,summary,body:summary+'\n\nUshbu material Shirin portalining dastlabki namuna kontentidir. Rasmiy loyiha pasporti va tasdiqlangan ma’lumotlar kiritilgach, ushbu matn yangilanadi.',category,image,status:'published',data:{sample:true,...data},updated:'2026-10-19'});
+export const samples:Item[]=[
+make('p1','projects','Zamonaviy mahalla','Yashil hovlilar, qulay piyoda yo‘laklari va kundalik xizmatlar uyg‘unligi.','Turar-joy','/assets/mahalla.jpg',{stage:'planned',progress:0,zone:'Turar-joy mavzesi'}),
+make('p2','projects','Markaziy maydon','Madaniyat, uchrashuv va shahar hayoti uchun ochiq jamoat makoni.','Jamoat','/assets/masterplan.webp',{stage:'planned',progress:0,zone:'Markaziy hudud'}),
+make('p3','projects','Biznes park','Tadbirkorlar va yangi g‘oyalar uchun zamonaviy ish muhiti.','Biznes','/assets/hero.jpg',{stage:'planned',progress:0,zone:'Biznes mavzesi'}),
+make('p4','projects','Ta’lim kampusi','Maktab va bolalar bog‘chasini birlashtiruvchi qulay ta’lim muhiti.','Ta’lim','/assets/mahalla.jpg',{stage:'planned',progress:0}),
+make('p5','projects','Yashil sayr yo‘lagi','Piyoda sayr, sport va oilaviy dam olishga mo‘ljallangan hudud.','Ekologiya','/assets/masterplan.webp',{stage:'planned',progress:0}),
+make('p6','projects','Transport markazi','Shaharcha hududlarini bog‘lovchi jamoat transporti konsepsiyasi.','Transport','/assets/hero.jpg',{stage:'planned',progress:0}),
+make('l1','lots','Savdo markazi hududi','Savdo va xizmat ko‘rsatish loyihasi uchun namunaviy hudud.','Savdo','/assets/hero.jpg',{code:'SH-001',area:2.4,floors:5,stage:'planned'}),
+make('l2','lots','Turar-joy kvartali','Turar-joy va mahalla xizmatlari uchun namunaviy taklif.','Turar-joy','/assets/mahalla.jpg',{code:'SH-002',area:4.1,floors:9,stage:'planned'}),
+make('l3','lots','Biznes park hududi','Ofis va biznes xizmatlari uchun namunaviy hudud.','Biznes','/assets/masterplan.webp',{code:'SH-003',area:3.2,floors:7,stage:'planned'}),
+...['Transport va yo‘llar','Energiya ta’minoti','Suv va kanalizatsiya','Raqamli infratuzilma','Yashil hududlar','Ijtimoiy xizmatlar'].map((t,i)=>make('i'+i,'infrastructure',t,['Qulay harakatlanish va hududlararo bog‘lanish.','Barqaror elektr va issiqlik ta’minoti konsepsiyasi.','Suvdan oqilona foydalanish va muhandislik tarmoqlari.','Aloqa va raqamli shahar xizmatlari.','Parklar, sayr yo‘laklari va ekologik muhit.','Ta’lim, sog‘liqni saqlash va kundalik xizmatlar.'][i],'Infratuzilma',['/assets/hero.jpg','/assets/masterplan.webp','/assets/mahalla.jpg'][i%3],{stage:'planned',progress:0})),
+make('n1','news','Shirin: yangi shahar muhitiga nazar','Shaharcha konsepsiyasida inson, tabiat va qulaylik birinchi o‘rinda.','Loyiha haqida','/assets/masterplan.webp'),
+make('n2','news','Kelajak mahallasi qanday bo‘ladi?','Yashil hovlilar va piyodalar uchun qulay ko‘chalar haqida.','Shahar hayoti','/assets/mahalla.jpg'),
+make('n3','news','Hamkorlik uchun ochiq platforma','Investorlar va loyiha hamkorlari uchun portal imkoniyatlari.','Investitsiya','/assets/hero.jpg'),
+make('e1','events','Loyiha taqdimoti','Shirin shaharchasi konsepsiyasi bilan tanishuv uchrashuvi. Sana hali belgilanmagan.','Taqdimot','/assets/hero.jpg'),
+make('d1','documents','Loyiha konsepsiyasi','Tasdiqlangan taqdimot shu bo‘limga joylanadi.','Taqdimot','',{url:''}),
+make('d2','documents','Investorlar uchun qo‘llanma','Investitsiya shartlari tasdiqlangach, hujjat biriktiriladi.','Investitsiya','',{url:''}),
+make('z1','zones','Turar-joy mavzesi','Uy-joylar, yashil hovlilar va mahalla xizmatlari.','Turar-joy','/assets/mahalla.jpg',{area:120,x:29,y:54}),
+make('z2','zones','Biznes mavzesi','Ofislar va savdo majmualari uchun hudud.','Biznes','/assets/hero.jpg',{area:80,x:60,y:32}),
+make('z3','zones','Park va dam olish','Yashil muhit, sayr va sport uchun ochiq maydonlar.','Ekologiya','/assets/masterplan.webp',{area:60,x:71,y:70})];
+export const defaults={title:'Shirin',tagline:'Yangi hayot manzili',phone:'',email:'',address:'',about:'Shirin — yashash, ishlash va dam olish uyg‘unlashgan shaharcha konsepsiyasi.'};

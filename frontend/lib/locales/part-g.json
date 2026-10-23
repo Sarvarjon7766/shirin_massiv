@@ -1,0 +1,82 @@
+{
+  "buguni.": {
+    "en": "today.",
+    "ru": "сегодня.",
+    "zh": "今天。"
+  },
+  "ga": {
+    "en": "ha",
+    "ru": "га",
+    "zh": "公顷"
+  },
+  "Parolni yashirish": {
+    "en": "Hide password",
+    "ru": "Скрыть пароль",
+    "zh": "隐藏密码"
+  },
+  "Parolni ko‘rsatish": {
+    "en": "Show password",
+    "ru": "Показать пароль",
+    "zh": "显示密码"
+  },
+  "Xaritadagi hududlar katalogi: holat, maydon, auksion muddati va narxi. Hududni bossangiz, xaritada ochiladi.": {
+    "en": "Catalogue of the plots on the map: status, area, auction deadline and price. Click a plot to open it on the map.",
+    "ru": "Каталог участков на карте: статус, площадь, срок аукциона и цена. Нажмите на участок, чтобы открыть его на карте.",
+    "zh": "地图上的地块目录：状态、面积、拍卖截止时间和价格。点击地块即可在地图上打开。"
+  },
+  "ga hududlar maydoni": {
+    "en": "ha of plot area",
+    "ru": "га площадь участков",
+    "zh": "公顷地块面积"
+  },
+  "ga uchastkalar maydoni": {
+    "en": "ha of plot area",
+    "ru": "га площадь участков",
+    "zh": "公顷地块面积"
+  },
+  "ta uchastka": {
+    "en": "plots",
+    "ru": "участков",
+    "zh": "个地块"
+  },
+  "Shiringa investitsiya kiriting": {
+    "en": "Invest in Shirin",
+    "ru": "Инвестируйте в Ширин",
+    "zh": "投资 Shirin"
+  },
+  "Investorlar va hamkorlar": {
+    "en": "Investors and partners",
+    "ru": "Инвесторы и партнёры",
+    "zh": "投资者与合作伙伴"
+  },
+  "Hamkorlar ro‘yxati": {
+    "en": "List of partners",
+    "ru": "Список партнёров",
+    "zh": "合作伙伴名单"
+  },
+  "Investor yo‘riqnomasi": {
+    "en": "Investor guide",
+    "ru": "Руководство инвестора",
+    "zh": "投资者指南"
+  },
+  "Muloqotga": {
+    "en": "Open to",
+    "ru": "Открыты",
+    "zh": "欢迎"
+  },
+  "ochiqmiz.": {
+    "en": "dialogue.",
+    "ru": "к диалогу.",
+    "zh": "沟通交流。"
+  },
+  "Reja": {
+    "en": "Plan",
+    "ru": "План",
+    "zh": "规划图"
+  },
+  "Metro": {
+    "en": "Metro",
+    "ru": "Метро",
+    "zh": "地铁"
+  }
+}

@@ -1,0 +1,4 @@
+import {publicData} from '../../lib/server-data';
+import {xmlEscape as x} from '../../lib/xml';
+export const dynamic='force-dynamic';
+export async function GET(req:Request){const {items,settings}=await publicData();const base=settings.canonicalDomain||new URL(req.url).origin;const rows=items.filter((i:any)=>i.kind==='news').slice(0,30).map((i:any)=>`<item><title>${x(i.title)}</title><link>${x(base+'/news/'+i.id)}</link><guid>${x(base+'/news/'+i.id)}</guid><description>${x(i.summary)}</description>${i.updated?'<pubDate>'+new Date(i.updated).toUTCString()+'</pubDate>':''}</item>`).join('');return new Response(`<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>${x(settings.title)}</title><link>${x(base)}</link><description>${x(settings.seoDescription)}</description>${rows}</channel></rss>`,{headers:{'Content-Type':'application/xml; charset=utf-8'}})}

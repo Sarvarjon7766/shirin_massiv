@@ -1,0 +1,532 @@
+{
+  "Hudud o‘chirildi": {
+    "en": "Plot deleted",
+    "ru": "Участок удалён",
+    "zh": "地块已删除"
+  },
+  "Uchastka o‘chirildi": {
+    "en": "Plot deleted",
+    "ru": "Участок удалён",
+    "zh": "地块已删除"
+  },
+  "Hudud tahrirlandi": {
+    "en": "Plot edited",
+    "ru": "Участок изменён",
+    "zh": "地块已编辑"
+  },
+  "Uchastka tahrirlandi": {
+    "en": "Plot edited",
+    "ru": "Участок изменён",
+    "zh": "地块已编辑"
+  },
+  "Hudud yaratildi": {
+    "en": "Plot created",
+    "ru": "Участок создан",
+    "zh": "地块已创建"
+  },
+  "Uchastka yaratildi": {
+    "en": "Plot created",
+    "ru": "Участок создан",
+    "zh": "地块已创建"
+  },
+  "Hududlar import qilindi": {
+    "en": "Plots imported",
+    "ru": "Участки импортированы",
+    "zh": "地块已导入"
+  },
+  "Uchastkalar import qilindi": {
+    "en": "Plots imported",
+    "ru": "Участки импортированы",
+    "zh": "地块已导入"
+  },
+  "Hududlar nashr qilindi": {
+    "en": "Plots published",
+    "ru": "Участки опубликованы",
+    "zh": "地块已发布"
+  },
+  "Uchastkalar nashr qilindi": {
+    "en": "Plots published",
+    "ru": "Участки опубликованы",
+    "zh": "地块已发布"
+  },
+  "Hududlar nashrdan olindi": {
+    "en": "Plots unpublished",
+    "ru": "Участки сняты с публикации",
+    "zh": "地块已取消发布"
+  },
+  "Uchastkalar nashrdan olindi": {
+    "en": "Plots unpublished",
+    "ru": "Участки сняты с публикации",
+    "zh": "地块已取消发布"
+  },
+  "Hududlar ommaviy yangilandi": {
+    "en": "Plots updated in bulk",
+    "ru": "Участки обновлены массово",
+    "zh": "地块已批量更新"
+  },
+  "Uchastkalar ommaviy yangilandi": {
+    "en": "Plots updated in bulk",
+    "ru": "Участки обновлены массово",
+    "zh": "地块已批量更新"
+  },
+  "Hududlar o‘chirildi": {
+    "en": "Plots deleted",
+    "ru": "Участки удалены",
+    "zh": "地块已删除"
+  },
+  "Uchastkalar o‘chirildi": {
+    "en": "Plots deleted",
+    "ru": "Участки удалены",
+    "zh": "地块已删除"
+  },
+  "Namuna hududlar yuklandi": {
+    "en": "Sample plots loaded",
+    "ru": "Загружены образцы участков",
+    "zh": "示例地块已加载"
+  },
+  "Namuna uchastkalar yuklandi": {
+    "en": "Sample plots loaded",
+    "ru": "Загружены образцы участков",
+    "zh": "示例地块已加载"
+  },
+  "Xarita o‘chirildi": {
+    "en": "Map deleted",
+    "ru": "Карта удалена",
+    "zh": "地图已删除"
+  },
+  "Xarita qatlami o‘chirildi": {
+    "en": "Map layer deleted",
+    "ru": "Слой карты удалён",
+    "zh": "地图图层已删除"
+  },
+  "Xarita qatlami tahrirlandi": {
+    "en": "Map layer edited",
+    "ru": "Слой карты изменён",
+    "zh": "地图图层已编辑"
+  },
+  "Xarita qatlami yaratildi": {
+    "en": "Map layer created",
+    "ru": "Слой карты создан",
+    "zh": "地图图层已创建"
+  },
+  "Xarita sozlamalari yangilandi": {
+    "en": "Map settings updated",
+    "ru": "Настройки карты обновлены",
+    "zh": "地图设置已更新"
+  },
+  "Xarita tahrirlandi": {
+    "en": "Map edited",
+    "ru": "Карта изменена",
+    "zh": "地图已编辑"
+  },
+  "Xarita yaratildi": {
+    "en": "Map created",
+    "ru": "Карта создана",
+    "zh": "地图已创建"
+  },
+  "Portal": {
+    "en": "Portal",
+    "ru": "Портал",
+    "zh": "门户"
+  },
+  "Parol o‘rnatilgan": {
+    "en": "Password set",
+    "ru": "Пароль установлен",
+    "zh": "已设置密码"
+  },
+  "Interfeys": {
+    "en": "Interface",
+    "ru": "Интерфейс",
+    "zh": "界面"
+  },
+  "Qo‘llanma: qayerda nima": {
+    "en": "Guide: what is where",
+    "ru": "Руководство: что где",
+    "zh": "指南：什么在哪里"
+  },
+  "Holat va toifalar": {
+    "en": "Statuses and categories",
+    "ru": "Статусы и категории",
+    "zh": "状态与类别"
+  },
+  "Qatlamlar va reja rasmi": {
+    "en": "Layers and master plan image",
+    "ru": "Слои и изображение генплана",
+    "zh": "图层与总体规划图"
+  },
+  "Metro va yo‘llar": {
+    "en": "Metro and roads",
+    "ru": "Метро и дороги",
+    "zh": "地铁与道路"
+  },
+  "Xarita ko‘rinishi": {
+    "en": "Map appearance",
+    "ru": "Вид карты",
+    "zh": "地图外观"
+  },
+  "Loyiha va obyektlar": {
+    "en": "Projects and objects",
+    "ru": "Проекты и объекты",
+    "zh": "项目与对象"
+  },
+  "Zonalar (matn va joylashuv)": {
+    "en": "Zones (text and location)",
+    "ru": "Зоны (текст и расположение)",
+    "zh": "区域（文字与位置）"
+  },
+  "Yangiliklar va hujjatlar": {
+    "en": "News and documents",
+    "ru": "Новости и документы",
+    "zh": "新闻与文档"
+  },
+  "Vakansiyalar": {
+    "en": "Vacancies",
+    "ru": "Вакансии",
+    "zh": "职位空缺"
+  },
+  "Barcha materiallar": {
+    "en": "All materials",
+    "ru": "Все материалы",
+    "zh": "全部资料"
+  },
+  "Rasm va video": {
+    "en": "Images and video",
+    "ru": "Фото и видео",
+    "zh": "图片与视频"
+  },
+  "Sayt": {
+    "en": "Site",
+    "ru": "Сайт",
+    "zh": "网站"
+  },
+  "Rasmlar va slayder": {
+    "en": "Images and slider",
+    "ru": "Изображения и слайдер",
+    "zh": "图片与轮播"
+  },
+  "Xush kelibsiz,": {
+    "en": "Welcome,",
+    "ru": "Добро пожаловать,",
+    "zh": "欢迎，"
+  },
+  "Yangilik": {
+    "en": "News item",
+    "ru": "Новость",
+    "zh": "新闻"
+  },
+  "Saytning Yangiliklar bo‘limi": {
+    "en": "The site’s News section",
+    "ru": "Раздел «Новости» сайта",
+    "zh": "网站“新闻”栏目"
+  },
+  "Tadbir": {
+    "en": "Event",
+    "ru": "Мероприятие",
+    "zh": "活动"
+  },
+  "Tadbirlar sahifasi": {
+    "en": "Events page",
+    "ru": "Страница мероприятий",
+    "zh": "活动页面"
+  },
+  "Loyihalar sahifasi va xaritadagi belgi": {
+    "en": "Projects page and map marker",
+    "ru": "Страница проектов и метка на карте",
+    "zh": "项目页面及地图标记"
+  },
+  "Infratuzilma obyekti": {
+    "en": "Infrastructure object",
+    "ru": "Объект инфраструктуры",
+    "zh": "基础设施对象"
+  },
+  "Infratuzilma sahifasi va xaritadagi belgi": {
+    "en": "Infrastructure page and map marker",
+    "ru": "Страница инфраструктуры и метка на карте",
+    "zh": "基础设施页面及地图标记"
+  },
+  "Zona": {
+    "en": "Zone",
+    "ru": "Зона",
+    "zh": "区域"
+  },
+  "Xaritadagi zona chegarasi": {
+    "en": "Zone boundary on the map",
+    "ru": "Граница зоны на карте",
+    "zh": "地图上的区域边界"
+  },
+  "Hujjat": {
+    "en": "Document",
+    "ru": "Документ",
+    "zh": "文档"
+  },
+  "Hujjatlar sahifasi": {
+    "en": "Documents page",
+    "ru": "Страница документов",
+    "zh": "文档页面"
+  },
+  "Hamkor": {
+    "en": "Partner",
+    "ru": "Партнёр",
+    "zh": "合作伙伴"
+  },
+  "Hamkorlar sahifasi": {
+    "en": "Partners page",
+    "ru": "Страница партнёров",
+    "zh": "合作伙伴页面"
+  },
+  "Foto": {
+    "en": "Photo",
+    "ru": "Фото",
+    "zh": "照片"
+  },
+  "Savol-javoblar sahifasi": {
+    "en": "FAQ page",
+    "ru": "Страница вопросов и ответов",
+    "zh": "常见问题页面"
+  },
+  "Bo‘limdagi materiallar: qo‘shish, tahrirlash, nashr qilish.": {
+    "en": "Section materials: add, edit and publish.",
+    "ru": "Материалы раздела: добавление, редактирование и публикация.",
+    "zh": "栏目资料：添加、编辑和发布。"
+  },
+  "· Joylashuvi belgilansa, /map xaritasida ham chiqadi.": {
+    "en": "· If a location is set, it also appears on the /map map.",
+    "ru": "· Если задано местоположение, материал появится и на карте /map.",
+    "zh": "· 若设置了位置，也会显示在 /map 地图上。"
+  },
+  "Ma’lumot yo‘q": {
+    "en": "No data",
+    "ru": "Нет данных",
+    "zh": "暂无数据"
+  },
+  "Kelajakda auksionga qo‘yiladi": {
+    "en": "To be auctioned in the future",
+    "ru": "Будет выставлен на аукцион",
+    "zh": "将来拍卖"
+  },
+  "Sotuvga qo‘yilmaydi": {
+    "en": "Not for sale",
+    "ru": "Не продаётся",
+    "zh": "不出售"
+  },
+  "Auksion e’lon qilingan": {
+    "en": "Auction announced",
+    "ru": "Аукцион объявлен",
+    "zh": "拍卖已公布"
+  },
+  "To‘lov kutilmoqda": {
+    "en": "Awaiting payment",
+    "ru": "Ожидается оплата",
+    "zh": "等待付款"
+  },
+  "Auksion kutilmoqda": {
+    "en": "Auction pending",
+    "ru": "Ожидается аукцион",
+    "zh": "等待拍卖"
+  },
+  "Auksionga tayyor": {
+    "en": "Ready for auction",
+    "ru": "Готов к аукциону",
+    "zh": "可拍卖"
+  },
+  "Sotilgan": {
+    "en": "Sold",
+    "ru": "Продан",
+    "zh": "已售"
+  },
+  "Hozircha hudud yo‘q. «Yangi hudud» yoki import orqali qo‘shing.": {
+    "en": "No plots yet. Add them with “New plot” or by import.",
+    "ru": "Участков пока нет. Добавьте через «Новый участок» или импорт.",
+    "zh": "暂无地块。请通过“新建地块”或导入添加。"
+  },
+  "Bo‘sh": {
+    "en": "Free",
+    "ru": "Свободен",
+    "zh": "空闲"
+  },
+  "Kutishda": {
+    "en": "Pending",
+    "ru": "В ожидании",
+    "zh": "等待中"
+  },
+  "Sotuvda": {
+    "en": "On sale",
+    "ru": "В продаже",
+    "zh": "在售"
+  },
+  "Olingan": {
+    "en": "Taken",
+    "ru": "Занят",
+    "zh": "已占用"
+  },
+  "Ijarada": {
+    "en": "Leased",
+    "ru": "В аренде",
+    "zh": "已出租"
+  },
+  "Noturar-joy": {
+    "en": "Non-residential",
+    "ru": "Нежилое",
+    "zh": "非住宅"
+  },
+  "Restoran va kafe": {
+    "en": "Restaurants and cafés",
+    "ru": "Рестораны и кафе",
+    "zh": "餐厅与咖啡馆"
+  },
+  "Tashkilotlar": {
+    "en": "Organisations",
+    "ru": "Организации",
+    "zh": "机构"
+  },
+  "Davlat idoralari": {
+    "en": "Government offices",
+    "ru": "Государственные органы",
+    "zh": "政府机构"
+  },
+  "Sport va dam olish": {
+    "en": "Sports and recreation",
+    "ru": "Спорт и отдых",
+    "zh": "体育与休闲"
+  },
+  "Zona qatlamlari": {
+    "en": "Zone layers",
+    "ru": "Слои зон",
+    "zh": "区域图层"
+  },
+  "Zonalar va maydon qatlamlari GeoJSON fayldan qo‘shiladi. Qatlam xaritada chap tomonda karta bo‘lib chiqadi, ko‘rsatish/yashirish mumkin.": {
+    "en": "Zone and area layers are added from a GeoJSON file. A layer appears as a card on the left of the map and can be shown or hidden.",
+    "ru": "区域和面图层通过 GeoJSON 文件添加。图层在地图左侧以卡片形式显示，可显示或隐藏。",
+    "zh": "区域和面图层通过 GeoJSON 文件添加。图层在地图左侧以卡片形式显示，可显示或隐藏。"
+  },
+  "Qatlam qo‘shish": {
+    "en": "Add layer",
+    "ru": "Добавить слой",
+    "zh": "添加图层"
+  },
+  "yuqoridagi tugma": {
+    "en": "top button",
+    "ru": "верхняя кнопка",
+    "zh": "顶部按钮"
+  },
+  "ommaga ko‘rinadi": {
+    "en": "visible to the public",
+    "ru": "виден публично",
+    "zh": "公开可见"
+  },
+  "shaffofsizlik": {
+    "en": "opacity",
+    "ru": "непрозрачность",
+    "zh": "不透明度"
+  },
+  "Metro, yo‘l va bekatlar": {
+    "en": "Metro, roads and stations",
+    "ru": "Метро, дороги и станции",
+    "zh": "地铁、道路与站点"
+  },
+  "Yo‘nalishni o‘zgartirish: qalamcha (✎) tugmasini bosing — xarita ochiladi. Nuqtani sudrab suring, o‘ng tugma bilan o‘chiring, «Davom ettirish» bilan chiziqni uzaytiring, yangi bekat qo‘shing; oxirida «Saqlash».": {
+    "en": "To change a route: press the pencil (✎) button — the map opens. Drag a point to move it, right-click to delete it, use “Continue” to extend the line, add new stations; finally press “Save”.",
+    "ru": "Чтобы изменить маршрут: нажмите значок карандаша (✎) — откроется карта. Перетаскивайте точку, правой кнопкой удаляйте, кнопкой «Продолжить» удлиняйте линию, добавляйте новые станции; в конце нажмите «Сохранить».",
+    "zh": "修改线路：点击铅笔（✎）按钮——地图将打开。拖动点可移动，右键可删除，用“继续”延长线路，可添加新站点；最后点击“保存”。"
+  },
+  "Yangi yo‘nalish": {
+    "en": "New route",
+    "ru": "Новый маршрут",
+    "zh": "新建线路"
+  },
+  "Chiziq (yo‘l, metro)": {
+    "en": "Line (road, metro)",
+    "ru": "Линия (дорога, метро)",
+    "zh": "线（道路、地铁）"
+  },
+  "Xarita nomi": {
+    "en": "Map name",
+    "ru": "Название карты",
+    "zh": "地图名称"
+  },
+  "Qisqa izoh (ixtiyoriy)": {
+    "en": "Short note (optional)",
+    "ru": "Краткое примечание (необязательно)",
+    "zh": "简短说明（可选）"
+  },
+  "«Orqaga» tugmasi matni": {
+    "en": "“Back” button text",
+    "ru": "Текст кнопки «Назад»",
+    "zh": "“返回”按钮文字"
+  },
+  "«Orqaga» tugmasi manzili": {
+    "en": "“Back” button address",
+    "ru": "Адрес кнопки «Назад»",
+    "zh": "“返回”按钮地址"
+  },
+  "Tugma matni": {
+    "en": "Button text",
+    "ru": "Текст кнопки",
+    "zh": "按钮文字"
+  },
+  "Tugma manzili": {
+    "en": "Button address",
+    "ru": "Адрес кнопки",
+    "zh": "按钮地址"
+  },
+  "/ bilan boshlanadigan yoki https:// manzil (menyu bandlari bo‘lsa, tugma menyu ochadi)": {
+    "en": "An address starting with / or https:// (if there are menu items, the button opens a menu)",
+    "ru": "Адрес, начинающийся с / или https:// (если есть пункты меню, кнопка открывает меню)",
+    "zh": "以 / 或 https:// 开头的地址（若有菜单项，按钮将打开菜单）"
+  },
+  "Matn (har bir qator — alohida abzats)": {
+    "en": "Text (each line is a separate paragraph)",
+    "ru": "Текст (каждая строка — отдельный абзац)",
+    "zh": "文字（每行为一个段落）"
+  },
+  "Chap tomondagi «Obyektlar» kartasini ko‘rsatish": {
+    "en": "Show the “Objects” card on the left",
+    "ru": "Показывать карточку «Объекты» слева",
+    "zh": "显示左侧“对象”卡片"
+  },
+  "Karta sarlavhasi": {
+    "en": "Card title",
+    "ru": "Заголовок карточки",
+    "zh": "卡片标题"
+  },
+  "Qidiruv maydonini ko‘rsatish": {
+    "en": "Show the search field",
+    "ru": "Показывать поле поиска",
+    "zh": "显示搜索框"
+  },
+  "Statistika kartalarini ko‘rsatish (jami maydon va soni)": {
+    "en": "Show statistics cards (total area and count)",
+    "ru": "Показывать карточки статистики (общая площадь и количество)",
+    "zh": "显示统计卡片（总面积和数量）"
+  },
+  "Maydon kartasi izohi": {
+    "en": "Area card caption",
+    "ru": "Подпись карточки площади",
+    "zh": "面积卡片说明"
+  },
+  "Soni kartasi izohi": {
+    "en": "Count card caption",
+    "ru": "Подпись карточки количества",
+    "zh": "数量卡片说明"
+  },
+  "Kartani ko‘rsatish": {
+    "en": "Show the card",
+    "ru": "Показывать карточку",
+    "zh": "显示卡片"
+  },
+  "Qisqa matn": {
+    "en": "Short text",
+    "ru": "Краткий текст",
+    "zh": "简短文字"
+  },
+  "Rasm yoki video qo‘shish": {
+    "en": "Add image or video",
+    "ru": "Добавить изображение или видео",
+    "zh": "添加图片或视频"
+  },
+  "Rollar serverda tekshiriladi. Foydalanuvchini login orqali qo‘shing. Unga boshlang‘ich parol bering: u shu login va parol bilan kiradi. Saytning tashrifchi ruxsatini ham alohida berish kerak.": {
+    "en": "Roles are checked on the server. Add a user by login and give them an initial password: they sign in with that login and password. The site’s visitor permission must also be granted separately.",
+    "ru": "Роли проверяются на сервере. Добавьте пользователя по логину и задайте ему начальный пароль: он входит с этим логином и паролем. Разрешение посетителя сайта нужно выдать отдельно.",
+    "zh": "角色在服务器端校验。通过登录名添加用户并设置初始密码：用户使用该登录名和密码登录。网站访客权限需另行授予。"
+  }
+}
