@@ -10,7 +10,9 @@
     "typecheck": "tsc --noEmit",
     "check": "tsx scripts/security-check.mjs",
     "seed:mock": "tsx --env-file=.env scripts/seed-mock.ts",
-    "import:shirin": "tsx --env-file=.env scripts/import-shirin.ts"
+    "import:shirin": "tsx --env-file=.env scripts/import-shirin.ts",
+    "db:export": "tsx --env-file=.env scripts/export-db.ts",
+    "db:import": "tsx --env-file=.env scripts/import-db.ts"
   },
   "dependencies": {
     "mongodb": "^6.17.0",

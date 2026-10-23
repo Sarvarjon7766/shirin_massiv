@@ -18,3 +18,15 @@ frontend: npx tsc --noEmit && node scripts/localization-check.mjs
 Batafsil: README.md
 
 KIRISH: /admin da OWNER_LOGIN va OWNER_PASSWORD bilan kiring; xodimlarni Foydalanuvchilar bo'limida parol bilan qo'shasiz. Tashrifchilar /login da o'zi ro'yxatdan o'tadi.
+
+SERVERGA KO'CHIRISH (baza ma'lumotlari bilan)
+Eksport (hozirgi kompyuterda):  cd backend && npm run db:export   ->  backend/data/db (kontent, sayt va xarita sozlamalari, qatlamlar, hududlar, rasm/fayllar)
+  Foydalanuvchilar, parollar, sessiyalar, murojaatlar, vazifalar, jurnal chiqmaydi (shaxsiy ma'lumot).
+  data/ papka GitHub'ga yuklanmaydi — serverga arxiv (zip) bilan o'tkaziladi (scp / SFTP).
+Serverda:
+  1) git clone https://github.com/Sarvarjon7766/shirin_massiv.git ; ikkala papkada npm install
+  2) backend/.env va frontend/.dev.vars ni yarating (MONGODB_URI, API_SHARED_SECRET = BACKEND_SECRET, OWNER_LOGIN, OWNER_PASSWORD — KUCHLI parol)
+  3) arxivni backend/ ichiga oching (backend/data/db hosil bo'ladi)
+  4) cd backend && npm run db:import   (mavjud yozuvlar _id bo'yicha yangilanadi, boshqalarga tegmaydi)
+  5) npm start (backend), frontend: npm run build va ishga tushirish
+  6) /admin ga OWNER_LOGIN bilan kirib, xodimlarni qayta qo'shing.

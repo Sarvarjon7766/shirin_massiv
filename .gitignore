@@ -16,3 +16,5 @@ shirin_malumotlar/
 .claude/
 ngrok*
 frontend/.openai/
+backend/data/
+backend/shirin-db-export.zip
