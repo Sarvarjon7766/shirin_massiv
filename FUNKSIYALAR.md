@@ -13,7 +13,7 @@ Samarqand viloyati «Shirin» shaharchasi uchun ommaviy axborot portali, investi
 ## 1. Ommaviy sayt (tashrifchi uchun)
 
 ### 1.1 Sahifalar
-Bosh sahifa `/`, Shaharcha haqida `/about`, Loyihalar `/projects` (+ har bir loyiha sahifasi), Investitsiya `/investment`, Xarita `/map` va `/map/<nom>`, Infratuzilma, Yangiliklar, Tadbirlar, Hujjatlar, Hamkorlar, Fotogalereya, Videogalereya, Jonli kameralar `/live`, Hozir va kelajak `/compare`, Qurilish jarayoni `/construction`, Axborot sahifalari, Rahbariyat, Ochiq hisobotlar, Tenderlar, Bo‘sh ish o‘rinlari, Savol-javob, Qidiruv `/search`, Rasmiy ma’lumot `/official`, Sayt xaritasi `/site-map`, Maxfiylik, Aloqa `/contact`, Kirish `/login`, Murojaatlarim `/my-appeals`. Texnik: `/rss.xml`, `/sitemap.xml`, `/robots.txt`. Eski `/masterplan` xaritaga yo‘naltiradi.
+Bosh sahifa `/`, Shaharcha haqida `/about`, Loyihalar `/projects` (+ har bir loyiha sahifasi va monitoringga havola), investitsiya hududlari, istiqbolli loyihalar va hamkorlar birlashtirilgan Investitsiya `/investment`, Xarita `/map` va `/map/<nom>`, Infratuzilma, Yangiliklar va hujjatlar `/news` (eski `/documents` manzili ham ishlaydi), Tadbirlar, Galereya `/gallery` (foto va videolar; eski `/photos` va `/videos` manzillari ham ishlaydi), Jonli kameralar `/live`, Hozir va kelajak `/compare` (eski sahifa, menyuda ko‘rsatilmaydi), Qurilish jarayoni va loyihalar monitoringi `/construction`, Axborot sahifalari, Rahbariyat, Ochiq hisobotlar, Tenderlar, Bo‘sh ish o‘rinlari, Savol-javob, Qidiruv `/search`, Rasmiy ma’lumot `/official`, Sayt xaritasi `/site-map`, Maxfiylik, Aloqa `/contact`, Kirish `/login`, Murojaatlarim `/my-appeals`. Texnik: `/rss.xml`, `/sitemap.xml`, `/robots.txt`. Eski `/masterplan` xaritaga yo‘naltiradi.
 
 ### 1.2 Bosh sahifa
 - To‘liq kenglikdagi katta blok: **slayder** (bir nechta rasm, GIF yoki ovozsiz video), nuqtalar, oldingi/keyingi va to‘xtatish tugmalari, almashish vaqti sozlanadi; «harakatni kamaytirish» sozlamasi hurmat qilinadi.
@@ -21,16 +21,16 @@ Bosh sahifa `/`, Shaharcha haqida `/about`, Loyihalar `/projects` (+ har bir loy
 
 ### 1.3 Kontent bo‘limlari (18 tur)
 Loyihalar, Investitsiya hududlari (eski), Infratuzilma, Yangiliklar, Tadbirlar, Hujjatlar, Hamkorlik, Zonalar, Fotogalereya, Videogalereya, Jonli kameralar, Hozir va kelajak, Axborot sahifalari, Rahbariyat, Ochiq hisobotlar, Tenderlar, Bo‘sh ish o‘rinlari, Savol-javob.
-- Har bir bo‘limda ro‘yxat sahifasi (kartochkalar, qidiruv/filtr) va material sahifasi (rasm to‘liq o‘z nisbatida, matn, yon panelda holat/maydon/sana/kod, «Xaritada ko‘rish», «Ma’lumot so‘rash» tugmalari).
+- Har bir bo‘limda ro‘yxat sahifasi (kartochkalar, qidiruv/filtr) va material sahifasi (rasm to‘liq o‘z nisbatida, matn, yon panelda holat/maydon/sana/kod, «Xaritada ko‘rish», «Ma’lumot so‘rash» tugmalari). Fotogalereya va videogalereya ommaviy saytda yagona `/gallery` sahifasida ko‘rsatiladi.
 - **Qo‘shimcha materiallar:** materialga biriktirilgan taqdimot (PPTX), PDF, Word, Excel yuklab olinadi yoki ochiladi.
 - Video: fayl (MP4/WEBM), HLS jonli efir yoki YouTube; kameralar HLS orqali.
 - «Hozir va kelajak»: ikki rasmni surgich bilan solishtirish.
 
 ### 1.4 Investitsiya sahifasi
-Xaritadagi hududlarning jadval ko‘rinishi (yagona manba): qidiruv, holat bo‘yicha filtr (sonlari bilan), maydon, boshlang‘ich narx, ariza muddati, holati; qator bosilsa xaritada o‘sha hudud ochiladi.
+`/investment` bitta sahifada investitsiya hududlari katalogi, istiqbolli loyihalar va hamkorlik imkoniyatlarini birlashtiradi. Xaritadagi hududlarning jadval ko‘rinishi yagona manbadan olinadi: qidiruv, holat bo‘yicha filtr (sonlari bilan), maydon, boshlang‘ich narx, ariza muddati, holati; qator bosilsa xaritada o‘sha hudud ochiladi.
 
 ### 1.5 Qidiruv va murojaat
-- Butun sayt bo‘yicha qidiruv (material turlari bo‘yicha).
+- Butun sayt bo‘yicha qidiruv (`/search`, yuqori navigatsiyadan ochiladi; barcha ommaviy materiallar bo‘yicha).
 - **Murojaat yuborish:** ism, telefon, mavzu, matn, rozilik; hududdan «Shu hudud haqida so‘rash» orqali hudud avtomatik biriktiriladi; soatiga 5 tadan ortiq yuborib bo‘lmaydi.
 - **Shaxsiy kabinet «Murojaatlarim»:** holati (yangi / ko‘rib chiqilmoqda / yakunlangan) va rasmiy javob.
 
@@ -38,7 +38,7 @@ Xaritadagi hududlarning jadval ko‘rinishi (yagona manba): qidiruv, holat bo‘
 - 5 til, har bir sahifada til menyusi; sayt matni, material mazmuni, xato xabarlari, sana/raqam formatlari tilga moslashadi (1 600 dan ortiq matn tarjimasi).
 - Yorug‘ / tizim / tungi mavzu.
 - **Maxsus imkoniyatlar:** katta shrift, yuqori kontrast, matnni ovozda o‘qish; klaviatura navigatsiyasi, «asosiy mazmunga o‘tish» havolasi.
-- **Moslashuvchan dizayn:** telefon, planshet, kompyuter, keng monitor; menyu (ikki qatori bilan) sahifa siljiganda tepada qotib turadi (telefonda faqat asosiy menyu).
+- **Moslashuvchan dizayn:** telefon, planshet, kompyuter, keng monitor; asosiy navigatsiya, qidiruv, aloqa va murojaat havolalari bitta yuqori qatorda jamlangan (telefonda ochiladigan menyu).
 - Yumshoq navigatsiya: sahifalar o‘tishida butun sahifa qayta yuklanmaydi.
 
 ### 1.7 SEO va texnik

@@ -1,0 +1,246 @@
+body{font-size:15px}
+.site-top{position:sticky;top:0;z-index:40;background:var(--paper)}
+.public-header{height:auto;min-height:89px;gap:14px}
+.public-header nav{position:relative;flex:1;min-width:0;display:flex;flex-wrap:wrap;gap:clamp(5px,.6vw,11px);overflow:visible;padding-bottom:2px}
+.public-header nav>a{flex:0 0 auto;font-size:10px;white-space:nowrap}
+.public-header nav>a.active:after{bottom:-8px}
+.nav-utility{display:flex;flex:0 0 100%;align-items:center;justify-content:flex-end;gap:12px;padding:6px 200px 0 0;border-top:1px solid var(--line)}
+.public-header nav>.accessibility-tools{position:absolute;right:0;bottom:4px}
+.public-header nav>.nav-appearance{position:absolute;right:32px;bottom:0;display:flex}
+.header-tools>.appearance-controls{display:none}
+.nav-dropdown{position:relative;flex:0 0 auto}
+.public-header nav .nav-dropdown-trigger{display:flex;align-items:center;gap:5px;padding:8px 11px;border:1px solid #a7b982;border-radius:20px;background:var(--lime);color:var(--ink);font-size:10px;font-weight:700;white-space:nowrap}
+.public-header nav .nav-dropdown-trigger:hover{background:#cdddac}
+.nav-dropdown-trigger svg{transition:transform .2s}
+.nav-dropdown.open .nav-dropdown-trigger svg{transform:rotate(90deg)}
+.public-header nav .nav-dropdown-menu{position:absolute;top:calc(100% + 14px);left:0;z-index:60;display:grid;width:280px;padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--paper);box-shadow:0 16px 38px #0002}
+.public-header nav .nav-dropdown-menu a{display:flex;align-items:center;gap:10px;padding:11px 9px;border-radius:5px;font-size:12px}
+.public-header nav .nav-dropdown-menu a:hover{background:var(--line)}
+.nav-dropdown-menu a>svg:first-child{flex:none;color:#829a70}
+.nav-dropdown-menu a>span{display:grid;gap:3px}
+.nav-dropdown-menu a b{font-size:11px}
+.nav-dropdown-menu a small{color:var(--muted);font-size:9px}
+.nav-dropdown-menu a>svg:last-child{margin-left:auto}
+.header-tools{flex-shrink:0;display:flex;align-items:center;gap:12px}
+.nav-search{display:flex;flex:0 0 34px;align-items:center;border:1px solid var(--line);border-radius:5px;background:var(--paper)}
+.nav-search input{display:none;width:100%;min-width:0;padding:8px;border:0;outline:0;background:transparent;font-size:12px}
+.nav-search button{display:grid;place-items:center;padding:8px;border:0;background:transparent}
+.nav-appeal{display:flex;align-items:center;gap:6px;padding:8px 9px;border-radius:5px;background:var(--green);color:white;font-size:10px;font-weight:700;white-space:nowrap}
+.nav-appeal:hover{background:var(--ink);color:white}
+.nav-my-appeals{font-size:10px;font-weight:600;white-space:nowrap}
+.nav-contact{display:flex;flex:0 0 auto;flex-direction:column;gap:3px;max-width:135px;overflow:hidden;color:var(--muted);font-size:9px;line-height:1.4}
+.nav-contact span{display:flex;align-items:center;gap:5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.nav-contact svg{flex:none}
+.nav-appearance{display:none}
+.investment-section{margin-top:58px}
+.news-section{margin-top:44px}
+.news-section-nav{display:flex;gap:10px;margin:28px 0 8px}
+.news-section-nav a{padding:9px 15px;border:1px solid var(--line);border-radius:20px;font-size:11px}
+.news-section-nav a:hover{border-color:#8ca679;background:#edf2e6}
+.where-links{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px}
+.where-links a{display:inline-flex;align-items:center;gap:5px;font-size:11px;font-weight:600;color:var(--green)}
+.cf-map-links{display:flex;flex-wrap:wrap;gap:8px}
+.map-workflow{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin:0 0 18px;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--paper)}
+.map-workflow>span{margin-right:4px;color:var(--muted);font-size:11px}
+.map-workflow>a{padding:6px 10px;border:1px solid var(--line);border-radius:16px;font-size:11px}
+.map-workflow>a:hover,.map-workflow>a.active{border-color:#9db480;background:#eaf0e2;color:var(--ink)}
+.lk-error{color:#a33;font-size:12px}
+.investment-section .section-label{align-items:center}
+.investment-section .section-label h2{font-size:clamp(25px,3vw,38px);letter-spacing:-1px}
+.project-resources{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin:30px 0}
+.project-resources>a{display:flex;align-items:center;gap:14px;padding:20px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.project-resources>a>span{display:grid;gap:5px}
+.project-resources b{font-size:15px}
+.project-resources small{font-size:12px;color:var(--muted)}
+.project-resources>a>svg:last-child{margin-left:auto}
+.gallery-tabs{display:flex;gap:8px;margin:25px 0}
+.gallery-section{margin:40px 0}
+.gallery-section>h2{margin-bottom:20px;font-size:clamp(25px,3vw,38px);letter-spacing:-1px}
+.appeal-card{margin:20px 0;padding:24px;border:1px solid var(--line);border-left:5px solid #77945b;border-radius:8px;background:#fff}
+.appeal-card>div:first-child{display:flex;align-items:center;justify-content:space-between;gap:15px}
+.appeal-card h3{margin:16px 0 8px;font-size:20px}
+.appeal-card p{font-size:15px}
+.appeal-card blockquote{margin:18px 0 0;padding:14px 18px;border-left:3px solid #9eb486;background:#f1f5eb}
+html[data-theme=dark] .project-resources>a,html[data-theme=dark] .appeal-card{background:#192a21;border-color:#364b3c}
+html[data-theme=dark] .appeal-card blockquote{background:#203427}
+@media(max-width:1200px){
+  .public-header{min-height:76px;flex-wrap:wrap;position:relative}
+  .public-header nav{display:none;flex-basis:100%;width:100%;order:3;flex-wrap:wrap;overflow:visible;padding:10px 4% 18px}
+  .public-header nav.open{display:flex;background:var(--paper);box-shadow:0 10px 14px #0001}
+  .public-header nav>a{padding:8px 0}
+  .public-header nav>a.active:after{bottom:0}
+  .nav-dropdown{flex:0 0 auto}
+  .public-header nav .nav-dropdown-menu{position:static;width:100%;flex-basis:100%;box-shadow:none}
+  .nav-dropdown.open{flex:0 0 100%}
+  .public-header nav>.accessibility-tools{position:static;right:auto;bottom:auto}
+  .mobile-toggle{display:grid!important}
+  .header-tools{margin-left:auto}
+  .header-tools .appearance-controls{display:none}
+  .public-header nav>.nav-appearance{position:static;right:auto;bottom:auto;display:flex;flex:0 0 100%}
+  .header-tools>.appearance-controls{display:none}
+}
+@media(max-width:640px){
+  .public-header{padding:10px 4%}
+  .public-header nav.open{display:grid;grid-template-columns:1fr 1fr;gap:10px 14px}
+  .nav-dropdown.open{grid-column:1/-1}
+  .public-header nav .nav-dropdown-menu{grid-column:1/-1}
+  .nav-utility{grid-column:1/-1;display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:6px 0 0}
+  .nav-utility .nav-contact{grid-column:1/-1}
+  .nav-search{grid-column:1/-1;flex-basis:auto;width:100%}
+  .nav-search input{display:block}
+  .nav-appeal{justify-content:center}
+  .nav-contact{grid-column:1/-1;max-width:none;padding:8px 0}
+  .nav-contact span{overflow:visible;white-space:normal}
+  .accessibility-tools{grid-column:1/-1}
+  .project-resources{grid-template-columns:1fr}
+  .appeal-card{padding:18px}
+}
+
+/* Navbar tekislash (kompyuter): 1-qator — asosiy havolalar, 2-qator — chapda aloqa, o'ngda murojaat/qulaylik/til/mavzu.
+   Absolyut joylashuv (bir-birining ustiga chiqib qolishi) olib tashlandi: hamma narsa bitta flex oqimida. */
+@media(min-width:1201px){
+  .public-header{align-items:center;padding-top:8px;padding-bottom:8px}
+  .public-header nav{row-gap:6px;align-items:center}
+  .public-header nav::after{content:'';flex:0 0 100%;order:1;height:0;border-top:1px solid var(--line)}
+  .nav-utility{display:contents}
+  .nav-utility>*,.public-header nav>.accessibility-tools,.public-header nav>.nav-appearance{order:3}
+  .nav-utility>.nav-contact{order:2;margin-right:auto;flex-direction:row;gap:14px;max-width:none;overflow:visible}
+  .public-header nav>.accessibility-tools,.public-header nav>.nav-appearance{position:static;right:auto;bottom:auto;display:flex;align-items:center}
+  .public-header nav>.nav-appearance{margin-left:4px}
+  .nav-search{margin-left:auto}
+  .nav-appeal,.nav-my-appeals{padding-block:7px}
+}
+
+/* Navbar — o'qiladigan o'lchamlar va bir tekis oraliqlar (kompyuter) */
+@media(min-width:1201px){
+  .public-header{gap:clamp(18px,2vw,40px);padding-top:10px;padding-bottom:10px}
+  .public-header .brand{font-size:clamp(22px,1.7vw,28px)}
+  .public-header nav{column-gap:clamp(12px,1.25vw,26px);row-gap:8px}
+  .public-header nav>a{font-size:clamp(11.5px,.92vw,14px);font-weight:600;letter-spacing:.1px}
+  .public-header nav .nav-dropdown-trigger{font-size:clamp(11px,.85vw,13px);padding:8px 14px}
+  .public-header nav::after{margin-top:2px}
+  .nav-utility>.nav-contact{font-size:clamp(11px,.82vw,13px);color:var(--muted)}
+  .nav-utility>.nav-contact span{gap:6px}
+  .nav-appeal{font-size:clamp(11px,.82vw,13px);padding:8px 14px}
+  .nav-my-appeals{font-size:clamp(11px,.85vw,13px);padding:0 4px}
+  .nav-search{flex-basis:38px}
+  .nav-search button{padding:10px}
+  .nav-utility{column-gap:14px}
+  .public-header .panel-link{font-size:clamp(11px,.85vw,13px);padding:11px 16px}
+}
+
+/* Telefon/planshet menyusi — bitta ustun, katta bosiladigan qatorlar, chiziqlar bilan ajratilgan */
+@media(max-width:1200px){
+  .public-header nav.open{display:flex;flex-direction:column;flex-wrap:nowrap;align-items:stretch;gap:0;padding:6px 4% 22px;max-height:calc(100vh - 80px);overflow:auto}
+  .public-header nav.open>a{font-size:16px;font-weight:600;padding:14px 2px;border-bottom:1px solid var(--line);white-space:normal}
+  .public-header nav.open>a.active{color:#708f57}
+  .public-header nav.open .nav-dropdown{flex:none;padding:12px 0;border-bottom:1px solid var(--line)}
+  .public-header nav.open .nav-dropdown-trigger{width:100%;justify-content:space-between;font-size:14px;padding:12px 16px}
+  .public-header nav.open .nav-dropdown-menu{margin-top:8px;border:0;padding:0}
+  .public-header nav.open .nav-dropdown-menu a{padding:13px 8px;font-size:14px}
+  .public-header nav.open .nav-search{flex:none;width:100%;margin:14px 0 4px;grid-column:auto}
+  .public-header nav.open .nav-search input{display:block;font-size:15px;padding:12px}
+  .public-header nav.open .nav-utility{display:flex;flex-wrap:wrap;align-items:center;gap:12px;padding:14px 0 6px;border-top:0}
+  .public-header nav.open .nav-appeal{flex:1 1 auto;justify-content:center;font-size:14px;padding:12px 16px}
+  .public-header nav.open .nav-my-appeals{font-size:14px;padding:12px 6px}
+  .public-header nav.open .nav-contact{flex:1 1 100%;max-width:none;flex-direction:column;gap:6px;padding:4px 0;font-size:13px;text-align:left}
+  .public-header nav.open .nav-contact span{white-space:normal}
+  .public-header nav.open>.accessibility-tools,.public-header nav.open>.nav-appearance{flex:none;display:flex;padding:8px 0}
+}
+@media(max-width:1200px){.public-header{height:auto;align-content:flex-start;row-gap:0}.public-header nav.open{margin-top:6px}}
+@media(max-width:1200px){.public-header nav,.public-header nav.open{top:auto}}
+
+/* Qidiruv navbarning o'zida: maydon doim ko'rinadi, yozganda natijalar pastda chiqadi */
+.nav-search{position:relative}
+.nav-search-pop{position:absolute;top:calc(100% + 8px);right:0;z-index:70;display:grid;width:min(360px,92vw);padding:6px;border:1px solid var(--line);border-radius:10px;background:var(--paper);box-shadow:0 16px 38px #0003}
+.nav-search-pop a{display:grid;gap:2px;padding:10px 12px;border-radius:6px}
+.nav-search-pop a:hover,.nav-search-pop a:focus-visible{background:var(--line)}
+.nav-search-pop b{font-size:13px;font-weight:600}
+.nav-search-pop small{color:var(--muted);font-size:11px}
+.nav-search-empty{padding:12px;color:var(--muted);font-size:12px}
+.nav-search-all{display:flex;align-items:center;justify-content:space-between;margin-top:4px;padding:10px 12px;border:0;border-top:1px solid var(--line);background:transparent;color:var(--green);font-size:12px;font-weight:700}
+@media(min-width:1201px){
+  .nav-search{flex:0 0 clamp(150px,13vw,210px);margin-left:auto}
+  .nav-search input{display:block;font-size:12px;padding:9px 4px 9px 12px}
+  .nav-search button[type=submit]:not(.nav-search-all){padding:9px 11px}
+}
+@media(max-width:1200px){.nav-search-pop{left:0;right:auto;width:100%}}
+.nav-search-all{white-space:nowrap;gap:10px;width:100%;cursor:pointer}.nav-search-all svg{flex:none}
+
+/* Footer doim sahifa pastida: kontent qisqa bo'lsa ham bo'sh joy footerdan pastda qolmaydi */
+:has(>.public-footer){min-height:100vh;min-height:100dvh;display:flex;flex-direction:column}
+:has(>.public-footer)>main{flex:1 0 auto}
+:has(>.public-footer)>.public-footer{flex-shrink:0}
+
+/* Boshqaruv tugmasi: kompyuterda 2-qator oxirida (til/mavzudan keyin); telefonda sarlavhadagi belgi sifatida qoladi */
+.nav-panel{display:none}
+@media(min-width:1201px){
+  .header-tools .panel-link{display:none}
+  .public-header nav>.nav-panel{display:inline-flex;order:4;margin-left:6px;height:34px;padding:0 14px}
+  .header-tools{display:none}
+}
+@media(max-width:1200px){.public-header nav .nav-panel{display:none}}
+/* Footer: aloqa ustuni */
+.footer-contact{display:grid;align-content:start;gap:10px}
+.footer-contact h4{margin-bottom:4px}
+.footer-contact>span,.footer-contact>a{display:flex;align-items:flex-start;gap:8px;line-height:1.5;overflow-wrap:anywhere}
+.footer-contact svg{flex:none;margin-top:3px;opacity:.8}
+@media(min-width:1001px){.footer-top{grid-template-columns:1.6fr repeat(4,1fr)}}
+@media(min-width:1201px){.nav-utility>.nav-appeal{margin-left:auto}}
+
+/* Investitsiya menyusi: kontent menejer kiritadigan aloqa/taqdimot qatorlari */
+.invest-editor{display:grid;gap:10px;margin-top:26px;padding-top:22px;border-top:1px solid var(--line)}
+.invest-editor h3{font-size:18px}
+.invest-row{display:grid;grid-template-columns:150px minmax(120px,1fr) minmax(160px,1.4fr) auto;gap:8px;align-items:center}
+.invest-row select,.invest-row input{min-width:0;padding:9px 10px;border:1px solid var(--line);border-radius:6px;background:var(--paper);color:inherit}
+.invest-file{display:flex;align-items:center;gap:10px;min-width:0}
+.invest-file small{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@media(max-width:760px){.invest-row{grid-template-columns:1fr 1fr}.invest-row>input,.invest-row>.invest-file{grid-column:1/-1}}
+.nav-dropdown-menu a>svg:first-child{flex:none}
+.invest-editor{grid-column:1/-1}
+/* hover bilan ochiladigan menyular: trigger va menyu orasidagi bo'shliqda ham yopilib ketmasin */
+.public-header nav .nav-dropdown-menu::before{content:'';position:absolute;left:0;right:0;top:-16px;height:16px}
+.accessibility-tools>div::before,.ac-menu::before{content:'';position:absolute;left:0;right:0;top:-10px;height:10px}
+
+/* Navbar yozuvlari kattaroq (kompyuter) */
+@media(min-width:1201px){
+  .public-header nav>a{font-size:clamp(12.5px,1.02vw,16px)}
+  .public-header nav .nav-dropdown-trigger{font-size:clamp(12px,.95vw,15px);padding:9px 16px}
+  .nav-appeal{font-size:clamp(12px,.92vw,14.5px);padding:9px 16px}
+  .nav-my-appeals{font-size:clamp(12px,.95vw,14.5px)}
+  .public-header .panel-link{font-size:clamp(12px,.95vw,14.5px)}
+  .nav-search input{font-size:clamp(12.5px,.95vw,14.5px)}
+  .nav-search{flex-basis:clamp(160px,14vw,230px)}
+  .public-header .ac-btn,.public-header .ac-lang button{font-size:clamp(12px,.9vw,14px)}
+  .public-header nav .nav-dropdown-menu a{font-size:13px}
+  .nav-dropdown-menu a b{font-size:13px}
+  .nav-dropdown-menu a small{font-size:11px}
+}
+@media(min-width:1201px){
+  .public-header nav>a{font-size:clamp(12px,.95vw,15.5px)}
+  .public-header nav .nav-dropdown-trigger{font-size:clamp(11.5px,.88vw,14.5px);padding:8px 14px}
+  .nav-appeal{font-size:clamp(11.5px,.86vw,14px);padding:8px 13px}
+  .nav-my-appeals{font-size:clamp(11.5px,.88vw,14px)}
+  .public-header .panel-link{font-size:clamp(11.5px,.88vw,14px);padding:0 12px}
+  .nav-search{flex-basis:clamp(130px,11vw,220px)}
+  .public-header{gap:clamp(14px,1.4vw,36px)}
+  .public-header nav{column-gap:clamp(9px,1vw,24px)}
+}
+/* Qidiruv 2-qatorning chap tomoniga (u yerda joy bor) — 1-qatorda havolalar katta shriftda sig'adi */
+@media(min-width:1201px){
+  .nav-search{order:2;margin-left:0;margin-right:auto;flex:0 0 clamp(200px,17vw,300px)}
+  .nav-search-pop{left:0;right:auto}
+  .public-header nav>a{font-size:clamp(12.5px,1.02vw,16px)}
+  .public-header nav .nav-dropdown-trigger{font-size:clamp(12px,.95vw,15px);padding:9px 16px}
+  .public-header nav{column-gap:clamp(11px,1.2vw,26px)}
+  .nav-appeal{font-size:clamp(12px,.92vw,14.5px);padding:8px 14px}
+  .nav-my-appeals,.public-header .panel-link{font-size:clamp(12px,.92vw,14.5px)}
+}
+@media(min-width:1201px) and (max-width:1299px){
+  .public-header nav>a{font-size:12px}
+  .public-header nav{column-gap:9px}
+  .public-header nav .nav-dropdown-trigger{font-size:11.5px;padding:8px 11px}
+  .nav-search{flex-basis:170px}
+  .nav-appeal,.nav-my-appeals,.public-header .panel-link{font-size:11.5px}
+  .nav-appeal{padding:8px 10px}
+}

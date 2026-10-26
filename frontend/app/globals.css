@@ -117,7 +117,17 @@ html[data-theme=dark] .lm-card dl>div{border-color:#26382d}
 .pe-cats{display:flex;flex-wrap:wrap;gap:6px 12px;font-size:12px}.pe-cats>span{width:100%;color:var(--muted)}.pe-cats label{display:flex;gap:4px;align-items:center}
 .pe-geom{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:10px;font-size:13px;display:flex;flex-direction:column;gap:8px}
 .pe-actions{display:flex;gap:10px;position:sticky;bottom:-16px;background:white;padding:12px 0 4px;border-top:1px solid var(--line)}
-.pe-vertex{width:14px;height:14px;border-radius:50%;background:white;border:3px solid #1683ff;box-shadow:0 1px 4px rgba(0,0,0,.4);cursor:grab}
+.pe-vertex{width:18px;height:18px;border-radius:50%;background:#fff;border:4px solid #0057d9;box-shadow:0 0 0 2px #fff,0 2px 8px rgba(0,0,0,.6);cursor:grab}
+.pe-vertex:hover{transform:scale(1.16)}
+.pe-tools>span{color:#33433a}
+.pe-tools>strong{color:#0057d9}
+.pe-linked>p{margin:0;font-size:12px;line-height:1.6;color:var(--muted)}
+.pe-linked>ul{display:grid;gap:6px;margin:0;padding:0;list-style:none}
+.pe-linked>ul a{display:flex;justify-content:space-between;gap:10px;padding:9px 10px;border:1px solid var(--line);border-radius:6px}
+.pe-linked>ul a:hover{background:var(--paper)}
+.pe-linked>ul small{color:var(--muted)}
+.pe-linked>.btn{align-self:flex-start}
+.pe-link-error{color:#a33}
 @media(max-width:1000px){
  .pe-body{grid-template-columns:1fr;grid-template-rows:240px 1fr;height:auto;min-height:0}
  .pe-list{border-right:0;border-bottom:1px solid var(--line)}.pe-map{min-height:460px}

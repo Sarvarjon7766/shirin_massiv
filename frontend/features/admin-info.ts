@@ -7,16 +7,18 @@ export const ADMIN_INFO:Record<string,AdminInfo>={
   appeals:{what:'Fuqarolar yuborgan murojaatlar. Ko‘rib chiqing, holatini o‘zgartiring va javob yozing.',where:'Javob fuqaroning «Murojaatlarim» sahifasida ko‘rinadi',href:'/my-appeals'},
   tasks:{what:'Xodimlar uchun ichki vazifalar: kim, qachongacha, qancha bajarildi.',where:'Saytda ko‘rinmaydi (ichki sahifa)'},
   reports:{what:'Boshqaruv hisobotlari: loyihalar, murojaatlar va vazifalar bo‘yicha qisqa ko‘rsatkichlar.',where:'Saytda ko‘rinmaydi (ichki sahifa)'},
-  content:{what:'Barcha bo‘limlardagi materiallar bitta ro‘yxatda: qidirish, holat bo‘yicha saralash, tahrirlash va nashr qilish.',where:'Saytda: har bir material o‘z bo‘limida chiqadi'},
+  content:{what:'Barcha bo‘limlardagi materiallarni bir joyda qidiring, tahrirlang va nashr qiling. Har bir materialni xaritadagi hudud yoki joylashuvga bog‘lash mumkin.',where:'Material turiga qarab saytdagi tegishli sahifada; xaritaga bog‘langan loyihalar esa /map da ko‘rinadi'},
   maps:{what:'Alohida xaritalar yarating (Investitsiya, Bosh reja, Metro…) va har birida nimalar ko‘rinishini tanlang.',where:'Saytda: /map, /map/<nom>',href:'/map'},
   plots:{what:'Hududlar (xaritadagi lotlar): chizing yoki import qiling, holati, toifasi, maydoni va auksionini kiriting.',where:'Saytda: /map va /investment',href:'/investment'},
   statuses:{what:'Hudud holatlari (bo‘sh, kutishda, sotuvda…) va toifalari (turar-joy, noturar-joy…): nomi va rangi.',where:'Saytda: xarita tepasidagi tugmalar va filtrlar',href:'/map'},
   layers:{what:'Zona qatlamlari va reja rasmlari (generplan): xaritada yoqiladi/o‘chiriladi.',where:'Saytda: xaritaning chap paneli',href:'/map'},
   transit:{what:'Metro, yo‘l va bekatlarni xaritada chizing, bekatlarga nom bering.',where:'Saytda: xarita tepasidagi tugmalar',href:'/map'},
   mapview:{what:'Xarita sarlavhasi, tugmalari, yo‘riqnomasi va boshlang‘ich joyi.',where:'Saytda: xarita sahifasining tepa qismi',href:'/map'},
+  pages:{what:'Qo‘shimcha axborot sahifalarini yarating va ularni menyu yoki boshqa kontentdan havola qiling.',where:'Saytda: /pages va har bir sahifaning o‘z havolasi',href:'/pages'},
   media:{what:'Yuklangan barcha rasm, video va hujjatlar kutubxonasi. Ishlatilmayotganini o‘chirish mumkin.',where:'Fayllar material va sahifalarda ishlatiladi'},
   settings:{what:'Sayt nomi, shior, telefon, email, manzil va «Shaharcha haqida» matni.',where:'Saytda: sarlavha, footer, «Aloqa» va «Shaharcha haqida»',href:'/about'},
   'site-images':{what:'Logotip, bosh sahifa slayderi (rasm, GIF, video), «haqida» va bosh reja rasmlari.',where:'Saytda: bosh sahifaning katta bloki va rasm bloklari',href:'/'},
+  'site-invest':{what:'«Shiringa investitsiya kiriting» tugmasi bosilganda chiqadigan qatorlar: investitsiya taqdimoti (fayl), telefon, Telegram, email.',where:'Saytda: yuqoridagi menyuda «Shiringa investitsiya kiriting» ustiga borganda',href:'/'},
   'site-menu':{what:'Yuqoridagi asosiy menyu: bandlarni yashirish, nomini o‘zgartirish.',where:'Saytda: har bir sahifaning tepasidagi menyu',href:'/'},
   'site-texts':{what:'Saytdagi tayyor yozuvlar (tugma, sarlavha, izoh) matnini o‘zgartirish.',where:'Saytda: barcha sahifalarda'},
   'site-official':{what:'Tashkilot nomi, ro‘yxatdan o‘tish maʼlumoti, ish vaqti, maxfiylik matni.',where:'Saytda: «Rasmiy maʼlumot» va footer',href:'/official'},
@@ -25,4 +27,4 @@ export const ADMIN_INFO:Record<string,AdminInfo>={
   users:{what:'Boshqaruvga kiruvchi xodimlar: login, parol va rol (kontent menejer, admin).',where:'Saytda ko‘rinmaydi (ichki sahifa)'},
   audit:{what:'Kim, qachon, nima qilgani: so‘nggi 100 ta amal.',where:'Saytda ko‘rinmaydi (ichki sahifa)'},
 };
-export const SITE_TABS:Record<string,string>={settings:'general','site-images':'images','site-menu':'navigation','site-texts':'copy','site-official':'official','site-seo':'seo'};
+export const SITE_TABS:Record<string,string>={settings:'general','site-images':'images','site-menu':'navigation','site-texts':'copy','site-official':'official','site-seo':'seo','site-invest':'invest'};

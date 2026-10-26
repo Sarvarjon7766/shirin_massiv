@@ -10,7 +10,7 @@ const shortLang:Record<string,string>={uz:'UZ','uz-Cyrl':'ЎЗ',ru:'RU',en:'EN',
 const themes:[string,any,string][]=[['light',Sun,'Yorug‘'],['system',Monitor,'Tizim'],['dark',Moon,'Tungi']];
 export function AppearanceControls(){
   const {locale,setLocale,theme,setTheme,t}=useLocale();
-  const [open,setOpen]=useState(false),root=useRef<HTMLDivElement>(null),trigger=useRef<HTMLButtonElement>(null);
+  const [open,setOpen]=useState(false),root=useRef<HTMLDivElement>(null),trigger=useRef<HTMLButtonElement>(null);const timer=useRef<any>(0);const hover=(on:boolean)=>{if(typeof window==='undefined'||!window.matchMedia('(hover:hover)').matches)return;clearTimeout(timer.current);if(on)setOpen(true);else timer.current=setTimeout(()=>setOpen(false),220)};
   useEffect(()=>{
     if(!open)return;
     const onDown=(e:MouseEvent)=>{if(!root.current?.contains(e.target as Node))setOpen(false)};
@@ -26,7 +26,7 @@ export function AppearanceControls(){
     return()=>{document.removeEventListener('mousedown',onDown);document.removeEventListener('keydown',onKey)};
   },[open]);
   return <div className="appearance-controls">
-    <div className="ac-lang" ref={root}>
+    <div className="ac-lang" ref={root} onMouseEnter={()=>hover(true)} onMouseLeave={()=>hover(false)}>
       <button type="button" ref={trigger} className="ac-btn" aria-haspopup="menu" aria-expanded={open} aria-label={t('Til')+': '+(languages as any)[locale]} onClick={()=>setOpen(!open)}><Languages size={15}/><span>{shortLang[locale]||locale}</span><ChevronDown size={13} className={open?'ac-flip':''}/></button>
       {open&&<ul className="ac-menu" role="menu" aria-label={t('Til')}>{Object.entries(languages).map(([k,v])=><li key={k} role="none"><button type="button" role="menuitemradio" aria-checked={k===locale} onClick={()=>{setLocale(k);setOpen(false)}}><span>{v as string}</span>{k===locale&&<Check size={14}/>}</button></li>)}</ul>}
     </div>

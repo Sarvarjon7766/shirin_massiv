@@ -1,0 +1,122 @@
+{
+  "Investitsiya menyusi: taqdimot va aloqa": {
+    "en": "Investment menu: presentation and contacts",
+    "ru": "Меню «Инвестиции»: презентация и контакты",
+    "zh": "投资菜单：演示文稿与联系方式"
+  },
+  "Saytning yuqoridagi «Shiringa investitsiya kiriting» tugmasi bosilganda shu qatorlar chiqadi: taqdimotni yuklab olish, telefon, Telegram. Hech narsa kiritilmasa, oddiy yo‘nalishlar ko‘rsatiladi.": {
+    "en": "These rows appear when the “Invest in Shirin” button at the top of the site is pressed: presentation download, phone, Telegram. If nothing is entered, the standard links are shown.",
+    "ru": "Эти строки появляются при нажатии кнопки «Инвестируйте в Ширин» вверху сайта: скачивание презентации, телефон, Telegram. Если ничего не указано, показываются обычные ссылки.",
+    "zh": "点击网站顶部“投资希林”按钮时显示这些行：下载演示文稿、电话、Telegram。若未填写，则显示常规链接。"
+  },
+  "Taqdimot (fayl)": {
+    "en": "Presentation (file)",
+    "ru": "Презентация (файл)",
+    "zh": "演示文稿（文件）"
+  },
+  "Telefon": {
+    "en": "Phone",
+    "ru": "Телефон",
+    "zh": "电话"
+  },
+  "Havola": {
+    "en": "Link",
+    "ru": "Ссылка",
+    "zh": "链接"
+  },
+  "Turi": {
+    "en": "Type",
+    "ru": "Тип",
+    "zh": "类型"
+  },
+  "Yozuv (masalan: Investitsiya bo‘limi)": {
+    "en": "Label (e.g. Investment department)",
+    "ru": "Подпись (например: Инвестиционный отдел)",
+    "zh": "文字（例如：投资部门）"
+  },
+  "Fayl yuklash": {
+    "en": "Upload file",
+    "ru": "Загрузить файл",
+    "zh": "上传文件"
+  },
+  "Almashtirish": {
+    "en": "Replace",
+    "ru": "Заменить",
+    "zh": "替换"
+  },
+  "Qator qo‘shish": {
+    "en": "Add row",
+    "ru": "Добавить строку",
+    "zh": "添加一行"
+  },
+  "Yuklab olish": {
+    "en": "Download",
+    "ru": "Скачать",
+    "zh": "下载"
+  },
+  "Taqdimot": {
+    "en": "Presentation",
+    "ru": "Презентация",
+    "zh": "演示文稿"
+  },
+  "Galereya (foto)": {
+    "en": "Gallery (photos)",
+    "ru": "Галерея (фото)",
+    "zh": "图库（照片）"
+  },
+  "Galereya (video)": {
+    "en": "Gallery (videos)",
+    "ru": "Галерея (видео)",
+    "zh": "图库（视频）"
+  },
+  "Galereya — foto": {
+    "en": "Gallery — photo",
+    "ru": "Галерея — фото",
+    "zh": "图库 — 照片"
+  },
+  "Galereya — video": {
+    "en": "Gallery — video",
+    "ru": "Галерея — видео",
+    "zh": "图库 — 视频"
+  },
+  "Galereya sahifasi": {
+    "en": "Gallery page",
+    "ru": "Страница галереи",
+    "zh": "图库页面"
+  },
+  "Galereya — fotolar": {
+    "en": "Gallery — photos",
+    "ru": "Галерея — фото",
+    "zh": "图库 — 照片"
+  },
+  "Galereya — videolar": {
+    "en": "Gallery — videos",
+    "ru": "Галерея — видео",
+    "zh": "图库 — 视频"
+  },
+  "Investitsiya va hamkorlar": {
+    "en": "Investment and partners",
+    "ru": "Инвестиции и партнёры",
+    "zh": "投资与合作伙伴"
+  },
+  "Loyihalar, monitoring va galereya": {
+    "en": "Projects, monitoring and gallery",
+    "ru": "Проекты, мониторинг и галерея",
+    "zh": "项目、监测与图库"
+  },
+  "Loyihalar monitoringi — kameralar": {
+    "en": "Project monitoring — cameras",
+    "ru": "Мониторинг проектов — камеры",
+    "zh": "项目监测 — 摄像头"
+  },
+  "«Shiringa investitsiya kiriting» tugmasi bosilganda chiqadigan qatorlar: investitsiya taqdimoti (fayl), telefon, Telegram, email.": {
+    "en": "Rows shown when the “Invest in Shirin” button is pressed: investment presentation (file), phone, Telegram, email.",
+    "ru": "Строки, которые появляются при нажатии кнопки «Инвестируйте в Ширин»: инвестиционная презентация (файл), телефон, Telegram, email.",
+    "zh": "点击“投资希林”按钮时显示的行：投资演示文稿（文件）、电话、Telegram、电子邮件。"
+  },
+  "Saytda: yuqoridagi menyuda «Shiringa investitsiya kiriting» ustiga borganda": {
+    "en": "On the site: when hovering over “Invest in Shirin” in the top menu",
+    "ru": "На сайте: при наведении на «Инвестируйте в Ширин» в верхнем меню",
+    "zh": "网站上：将鼠标移到顶部菜单“投资希林”时"
+  }
+}

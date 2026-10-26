@@ -1,9 +1,27 @@
 import {localeCodes,validLocale,siteTextFields} from './i18n';
 import {defaults} from './data';
-export const defaultNav=[['/about','Shaharcha haqida'],['/projects','Loyihalar'],['/investment','Investitsiya'],['/map','Xarita'],['/infrastructure','Infratuzilma'],['/news','Yangiliklar']].map(([href,label])=>({href,label,visible:true}));
-export const extendedDefaults={...defaults,organizationName:'',organizationType:'',registration:'',workingHours:'',reception:'',responsible:'',privacy:'',copyright:'',logo:'',heroImage:'/assets/hero.jpg',heroSlides:[] as {type:'image'|'video';url:string;alt?:string}[],heroInterval:6,aboutImage:'/assets/mahalla.jpg',planImage:'/assets/masterplan.webp',seoTitle:'Shirin — shahar va imkoniyatlar portali',seoDescription:'Shirin shaharchasi loyihalari, investitsiya imkoniyatlari, qurilish yangiliklari va interaktiv xarita.',canonicalDomain:'',googleMapsKey:'',searchConsoleVerification:'',indexable:true,defaultLocale:'uz',defaultTheme:'system',translations:{} as Record<string,any>,localizedSettings:{} as Record<string,any>,navigation:defaultNav,copy:{} as Record<string,string>};
+export const defaultNav=[['/about','Shaharcha haqida'],['/projects','Loyihalar'],['/investment','Shiringa investitsiya kiriting'],['/map','Xarita'],['/infrastructure','Infratuzilma'],['/news','Yangiliklar']].map(([href,label])=>({href,label,visible:true}));
+export const extendedDefaults={...defaults,organizationName:'',organizationType:'',registration:'',workingHours:'',reception:'',responsible:'',privacy:'',copyright:'',logo:'',heroImage:'/assets/hero.jpg',heroSlides:[] as {type:'image'|'video';url:string;alt?:string}[],heroInterval:6,investContacts:[] as {type:'presentation'|'phone'|'telegram'|'email'|'link';label:string;value:string}[],aboutImage:'/assets/mahalla.jpg',planImage:'/assets/masterplan.webp',seoTitle:'Shirin — shahar va imkoniyatlar portali',seoDescription:'Shirin shaharchasi loyihalari, investitsiya imkoniyatlari, qurilish yangiliklari va interaktiv xarita.',canonicalDomain:'',googleMapsKey:'',searchConsoleVerification:'',indexable:true,defaultLocale:'uz',defaultTheme:'system',translations:{} as Record<string,any>,localizedSettings:{} as Record<string,any>,navigation:defaultNav,copy:{} as Record<string,string>};
 export function safeAssetUrl(value:any):string{if(typeof value!=='string')return '';const s=value.trim().slice(0,1500);if(/^\/(assets\/|api\/files\/)[a-zA-Z0-9_./-]+$/.test(s)&&!s.includes('..'))return s;try{const u=new URL(s);return u.protocol==='https:'&&!u.username&&!u.password?u.href:''}catch{return ''}}
+const investTypes=['presentation','phone','telegram','email','link'];
+function sanitizeInvestContacts(raw:any){
+  const out:{type:'presentation'|'phone'|'telegram'|'email'|'link';label:string;value:string}[]=[];
+  for(const x of (Array.isArray(raw)?raw:[]).slice(0,10)){
+    const type=investTypes.includes(x?.type)?x.type:'';if(!type)continue;
+    const label=typeof x?.label==='string'?x.label.trim().slice(0,80):'';
+    let value=typeof x?.value==='string'?x.value.trim().slice(0,300):'';
+    if(type==='phone')value=value.replace(/[^\d+()\-\s]/g,'').trim().slice(0,30);
+    else if(type==='telegram'){const m=value.match(/^(?:https?:\/\/)?(?:t\.me\/|telegram\.me\/)?@?([A-Za-z0-9_+]{3,64})\/?$/);value=m?'https://t.me/'+m[1]:''}
+    else if(type==='email')value=/^[^\s@<>]+@[^\s@<>]+\.[^\s@<>]+$/.test(value)?value:'';
+    else if(type==='presentation')value=safeAssetUrl(value);
+    else value=value.startsWith('/')&&!value.startsWith('//')&&!value.includes('..')&&/^\/[a-zA-Z0-9_./?=&#%-]*$/.test(value)?value:safeAssetUrl(value);
+    if(!value)continue;
+    out.push({type,label,value});
+  }
+  return out;
+}
 export function sanitizeConfig(input:any,previous:any={}){const out:any={...extendedDefaults,...previous};const lengths:Record<string,number>={title:80,tagline:150,phone:50,email:120,address:400,about:5000,organizationName:300,organizationType:100,registration:300,workingHours:400,reception:1000,responsible:300,privacy:10000,copyright:1000,seoTitle:160,seoDescription:500,searchConsoleVerification:250,googleMapsKey:250};for(const [k,max] of Object.entries(lengths))if(k in input)out[k]=typeof input[k]==='string'?input[k].trim().slice(0,max):'';for(const k of ['logo','heroImage','aboutImage','planImage'])if(k in input)out[k]=safeAssetUrl(input[k]);
+if('investContacts' in input)out.investContacts=sanitizeInvestContacts(input.investContacts);
 if('heroSlides' in input)out.heroSlides=(Array.isArray(input.heroSlides)?input.heroSlides:[]).slice(0,10).map((x:any)=>({type:x?.type==='video'?'video':'image',url:safeAssetUrl(x?.url),alt:typeof x?.alt==='string'?x.alt.trim().slice(0,120):''})).filter((x:any)=>x.url);
 if('heroInterval' in input){const n=Number(input.heroInterval);out.heroInterval=Number.isFinite(n)?Math.min(30,Math.max(3,Math.round(n))):6}if('indexable' in input)out.indexable=input.indexable===true;
 if('canonicalDomain'in input){out.canonicalDomain='';try{const u=new URL(input.canonicalDomain);if(u.protocol==='https:'&&!u.username&&!u.password)out.canonicalDomain=u.origin}catch{}}

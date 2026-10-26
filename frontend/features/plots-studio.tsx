@@ -1,6 +1,6 @@
 'use client';
 import {useCallback,useEffect,useMemo,useRef,useState} from 'react';
-import {Plus,Upload,Download,Trash2,Save,Eye,EyeOff,Search,X,Pencil,PenTool,Undo2,Check,Ruler,HelpCircle,MapPin} from 'lucide-react';
+import {Plus,Upload,Download,Trash2,Save,Eye,EyeOff,Search,X,Pencil,PenTool,Undo2,Check,Ruler,HelpCircle,MapPin,ExternalLink} from 'lucide-react';
 import {useLocale} from './locale-provider';
 import {statusList,statusInfo} from '../lib/map-status';
 import {statusMatch} from '../lib/map-status';
@@ -76,6 +76,7 @@ function nearestEdge(ring:Pt[],p:Pt){
 export default function PlotsStudio(){
   const {t:tx}=useLocale();
   const [fc,setFc]=useState<any>(emptyCollection),[loading,setLoading]=useState(true),[message,setMessage]=useState(''),[error,setError]=useState('');
+  const [mapObjects,setMapObjects]=useState<any[]>([]),[linkedError,setLinkedError]=useState('');
   const [query,setQuery]=useState(''),[statusFilter,setStatusFilter]=useState('all'),[checked,setChecked]=useState<Set<string>>(new Set()),[bulkStatus,setBulkStatus]=useState('');
   const [form,setForm]=useState<any>(null),[editing,setEditing]=useState(''),[mode,setMode]=useState<Mode>('view'),[ring,setRing]=useState<Pt[]>([]),[geomChanged,setGeomChanged]=useState(false),[geomOverride,setGeomOverride]=useState<any>(null),[rawGeom,setRawGeom]=useState(''),[dirty,setDirty]=useState(false),[busy,setBusy]=useState(false),[mapReady,setMapReady]=useState(false),[help,setHelp]=useState(false);
   const [bgLayers,setBgLayers]=useState<any[]>([]),[bgId,setBgId]=useState(''),[bgOn,setBgOn]=useState(true),[bgOpacity,setBgOpacity]=useState(0.6);
@@ -91,6 +92,7 @@ export default function PlotsStudio(){
   const fail=(e:any)=>{setError(e?.message||'Xatolik');setMessage('')};
   const reload=useCallback(async()=>{try{setFc(await api('plots/geojson'));setError('')}catch(e:any){setError(e.message)}finally{setLoading(false)}},[]);
   useEffect(()=>{reload()},[reload]);
+  useEffect(()=>{api('map/objects').then(setMapObjects).catch(e=>setLinkedError('Bog‘langan loyihalar ro‘yxatini yuklab bo‘lmadi: '+e.message))},[]);
   const [cfg,setCfg]=useState<MapConfig>(defaultMapConfig);
   useEffect(()=>{fetch('/api/map/config',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(c=>{if(c)setCfg({...defaultMapConfig,...c})}).catch(()=>{})},[]);
   const statuses=statusList(cfg);
@@ -111,17 +113,20 @@ export default function PlotsStudio(){
       instance.addControl(new lib.ScaleControl({unit:'metric'}),'bottom-left');
       instance.on('load',()=>{
         instance.addSource('plots',{type:'geojson',data:emptyCollection,promoteId:'id'});
-        instance.addLayer({id:'plots-fill',type:'fill',source:'plots',paint:{'fill-color':statusMatch(defaultMapConfig,'statusKey'),'fill-opacity':['case',['get','published'],0.72,0.3]}});
-        instance.addLayer({id:'plots-line',type:'line',source:'plots',filter:['==',['get','published'],true],paint:{'line-color':'#ffffff','line-width':1,'line-opacity':0.85}});
-        instance.addLayer({id:'plots-line-draft',type:'line',source:'plots',filter:['==',['get','published'],false],paint:{'line-color':'#333333','line-width':1.4,'line-dasharray':[2,2]}});
+        instance.addLayer({id:'plots-fill',type:'fill',source:'plots',paint:{'fill-color':statusMatch(defaultMapConfig,'statusKey'),'fill-opacity':['case',['get','published'],0.76,0.52]}});
+        instance.addLayer({id:'plots-line-casing',type:'line',source:'plots',paint:{'line-color':'#14251e','line-width':3.5,'line-opacity':0.75}});
+        instance.addLayer({id:'plots-line',type:'line',source:'plots',filter:['==',['get','published'],true],paint:{'line-color':'#ffffff','line-width':1.8,'line-opacity':1}});
+        instance.addLayer({id:'plots-line-draft',type:'line',source:'plots',filter:['==',['get','published'],false],paint:{'line-color':'#9b4d00','line-width':2.5,'line-opacity':1,'line-dasharray':[2,1.5]}});
         instance.addLayer({id:'plots-labels',type:'symbol',source:'plots',minzoom:14,layout:{'text-field':['get','lotNumber'],'text-font':['Open Sans Regular'],'text-size':11},paint:{'text-color':'#002b3c','text-halo-color':'rgba(255,255,255,.92)','text-halo-width':1.5}});
-        instance.addLayer({id:'plots-selected',type:'line',source:'plots',filter:['==',['get','id'],''],paint:{'line-color':'#1683ff','line-width':3.2}});
+        instance.addLayer({id:'plots-selected',type:'line',source:'plots',filter:['==',['get','id'],''],paint:{'line-color':'#0057d9','line-width':4.5,'line-opacity':1}});
         instance.addSource('shape',{type:'geojson',data:emptyCollection});
-        instance.addLayer({id:'shape-fill',type:'fill',source:'shape',filter:['==',['geometry-type'],'Polygon'],paint:{'fill-color':'#1683ff','fill-opacity':0.25}});
-        instance.addLayer({id:'shape-line',type:'line',source:'shape',paint:{'line-color':'#1683ff','line-width':2.5,'line-dasharray':[2,1]}});
+        instance.addLayer({id:'shape-fill',type:'fill',source:'shape',filter:['==',['geometry-type'],'Polygon'],paint:{'fill-color':'#0878ff','fill-opacity':0.42}});
+        instance.addLayer({id:'shape-line-casing',type:'line',source:'shape',paint:{'line-color':'#ffffff','line-width':7,'line-opacity':0.95}});
+        instance.addLayer({id:'shape-line',type:'line',source:'shape',paint:{'line-color':'#0057d9','line-width':4,'line-opacity':1}});
         instance.addSource('preview',{type:'geojson',data:emptyCollection});
-        instance.addLayer({id:'preview-fill',type:'fill',source:'preview',filter:['==',['geometry-type'],'Polygon'],paint:{'fill-color':'#1fa36b','fill-opacity':0.2}});
-        instance.addLayer({id:'preview-line',type:'line',source:'preview',paint:{'line-color':'#1fa36b','line-width':1.5}});
+        instance.addLayer({id:'preview-fill',type:'fill',source:'preview',filter:['==',['geometry-type'],'Polygon'],paint:{'fill-color':'#1fa36b','fill-opacity':0.35}});
+        instance.addLayer({id:'preview-line-casing',type:'line',source:'preview',paint:{'line-color':'#ffffff','line-width':5,'line-opacity':0.9}});
+        instance.addLayer({id:'preview-line',type:'line',source:'preview',paint:{'line-color':'#087a4b','line-width':3,'line-opacity':1}});
         instance.on('click','plots-fill',(e:any)=>{if(modeRef.current!=='view')return;const id=e.features?.[0]?.properties?.id;if(id)selectRef.current(id)});
         instance.on('mouseenter','plots-fill',()=>{if(modeRef.current==='view')instance.getCanvas().style.cursor='pointer'});
         instance.on('mouseleave','plots-fill',()=>{instance.getCanvas().style.cursor=''});
@@ -155,6 +160,7 @@ export default function PlotsStudio(){
     // Chizilayotgan/tahrirlanayotgan hududning eski shaklini yashirish
     const hide=mode!=='view'&&editing?['!=',['get','id'],editing]:true;
     map.current.setFilter('plots-fill',hide===true?null:hide);
+    map.current.setFilter('plots-line-casing',hide===true?null:hide);
     map.current.setFilter('plots-line',hide===true?['==',['get','published'],true]:['all',hide,['==',['get','published'],true]]);
     map.current.setFilter('plots-line-draft',hide===true?['==',['get','published'],false]:['all',hide,['==',['get','published'],false]]);
   },[mapReady,editing,mode]);
@@ -247,6 +253,7 @@ export default function PlotsStudio(){
   async function toggleOne(r:any){try{await api('plots/bulk','POST',{ids:[r.id],published:!r.published});await reload()}catch(e){fail(e)}}
   const toggleCheck=(id:string)=>setChecked(s=>{const n=new Set(s);n.has(id)?n.delete(id):n.add(id);return n});
   const allChecked=shown.length>0&&shown.every((r:any)=>checked.has(r.id));
+  const relatedObjects=editing?mapObjects.filter(x=>x.data?.plotId===editing):[];
 
   // ---------- Import / eksport ----------
   function downloadJson(name:string,data:any){const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(data,null,2)],{type:'application/geo+json'}));a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
@@ -321,7 +328,7 @@ export default function PlotsStudio(){
       <li>{tx('Hududni xaritadan yoki ro‘yxatdan tanlang — o‘ng tomonda ma’lumotlari ochiladi.')}</li>
       <li>{tx('«Yangi hudud» → xaritada burchaklarni ketma-ket bosing → «Chizishni tugatish».')}</li>
       <li>{tx('Chegarani to‘g‘rilash: «Chegarani tahrirlash» → nuqtalarni sudrang; chiziq ustini bosing — yangi nuqta; nuqtaga ikki marta bosing — o‘chadi.')}</li>
-      <li>{tx('Hudud faqat «Xaritada ko‘rsatish» belgilanganda ommaga ko‘rinadi. Qoralamalar xaritada xira va chiziqli ko‘rinadi.')}</li>
+      <li>{tx('Hudud faqat «Xaritada ko‘rsatish» belgilanganda ommaga ko‘rinadi. Qoralamalar xaritada sariq punktir chegara bilan ajralib turadi.')}</li>
       <li>{tx('Bir nechta hududning holatini birdan o‘zgartirish uchun ro‘yxatda ularni belgilang.')}</li></ul></div>}
     {(message||error)&&<p className={'pe-msg'+(error?' err':'')} role={error?'alert':'status'} style={{whiteSpace:'pre-line'}}>{error||message}</p>}
     <div className="pe-body">
@@ -342,7 +349,7 @@ export default function PlotsStudio(){
       <div className="pe-map">
         <div ref={box} className="pe-canvas" role="application" aria-label={tx('Hududlar xaritasi (tahrirlash)')}/>
         {bgLayers.length>0&&<div className="pe-bg"><label className="ma-check"><input type="checkbox" checked={bgOn} onChange={e=>setBgOn(e.target.checked)}/> {tx('Reja rasmi')}</label>{bgLayers.length>1&&<select value={bgId} onChange={e=>setBgId(e.target.value)} aria-label={tx('Reja rasmi')}>{bgLayers.map(l=><option key={l.id} value={l.id}>{l.title}</option>)}</select>}<input type="range" min={0.1} max={1} step={0.05} value={bgOpacity} onChange={e=>setBgOpacity(Number(e.target.value))} onPointerUp={saveBgOpacity} onKeyUp={saveBgOpacity} onBlur={saveBgOpacity} aria-label={tx('Shaffoflik')} title={tx('Shaffoflik ommaviy xaritada ham shunday bo‘ladi')}/></div>}
-        {mode!=='view'&&<div className="pe-tools" role="toolbar" aria-label={tx('Chizish asboblari')}><PenTool size={15}/> <b>{mode==='draw'?tx('Chizish'):tx('Chegarani tahrirlash')}</b> <span>{ring.length} {tx('ta nuqta')}</span>
+        {mode!=='view'&&<div className="pe-tools" role="toolbar" aria-label={tx('Chizish asboblari')}><PenTool size={15}/> <b>{mode==='draw'?tx('Chizish'):tx('Chegarani tahrirlash')}</b> <span>{mode==='draw'?tx('Burchaklarni xaritada bosing · kamida 3 nuqta'):tx('Nuqtalarni sudrab chegarani o‘zgartiring')}</span><strong>{ring.length} {tx('ta nuqta')}</strong>
           {mode==='draw'&&<><button className="btn outline small" disabled={!ring.length} onClick={()=>setRing(ring.slice(0,-1))}><Undo2 size={13}/> {tx('Orqaga')}</button><button className="btn dark small" disabled={ring.length<3} onClick={finishDraw}><Check size={13}/> {tx('Chizishni tugatish')}</button></>}
           {mode==='edit'&&<button className="btn dark small" onClick={()=>setMode('view')}><Check size={13}/> {tx('Tayyor')}</button>}
           {ring.length>=3&&<span><Ruler size={13}/> {ringAreaHa(ring).toFixed(2)} {tx('ga')}</span>}</div>}
@@ -369,6 +376,12 @@ export default function PlotsStudio(){
             <div className="pe-cats"><span>{tx('Toifa (turar-joy, noturar-joy, restoran…; bo‘sh qolsa vazifadan aniqlanadi)')}</span>{(cfg.categories||[]).map(c=><label key={c.key}><input type="checkbox" checked={form.categories.includes(c.key)} onChange={e=>setField('categories',e.target.checked?[...form.categories,c.key]:form.categories.filter((x:string)=>x!==c.key))}/> {tx(c.label)}</label>)}</div>
             <details><summary>{tx('Qo‘shimcha ko‘rsatkichlar')}</summary>{input('functionShare','Asosiy vazifa ulushi (%)','number',{min:0,max:100})}{input('grossAreaM2','Umumiy maydon (m²)','number',{min:0})}{input('openAreaM2','Ochiq maydon (m²)','number',{min:0})}{input('kmn','KMN (%)','number',{min:0})}{input('umn','UMN','number',{min:0})}</details>
             <label className="pe-field">{tx('Tavsif')}<textarea rows={3} value={form.description} onChange={e=>setField('description',e.target.value)}/></label>
+          </fieldset>
+          <fieldset className="pe-linked"><legend>{tx('Loyiha bilan bog‘lanishi')}</legend>
+            <p>{tx('Avval hududni saqlang. So‘ng «Loyihalar» bo‘limida kerakli loyihani tahrir qilib, shu hududni tanlang. Shunda xaritada hudud bosilganda loyiha ham ko‘rinadi.')}</p>
+            {linkedError&&<small className="pe-link-error" role="alert">{linkedError}</small>}
+            {relatedObjects.length?<ul>{relatedObjects.map((item:any)=><li key={item.id}><a href={'/'+item.kind+'/'+item.id} target="_blank" rel="noopener noreferrer"><b>{tx(item.title)}</b><small>{tx(item.kind==='projects'?'Loyiha':item.kind==='infrastructure'?'Infratuzilma':'Zona')}</small></a></li>)}</ul>:<small className="muted">{editing?tx('Hozircha bu hududga biriktirilgan nashr qilingan loyiha yo‘q.'):tx('Hududni saqlagandan keyin loyihaga biriktirish mumkin.')}</small>}
+            <a className="btn outline small" href="/admin/projects" target="_blank" rel="noopener noreferrer">{tx(relatedObjects.length?'Bog‘langan loyihalarni ko‘rish':'Loyihaga biriktirish')} <ExternalLink size={13}/></a>
           </fieldset>
           <details open={!!(form.auction.lotId||form.auction.winner)}><summary>{tx('Auksion ma’lumoti')}</summary>
             {ainput('lotId','Auksion lot raqami')}{ainput('name','Auksion nomi')}{ainput('applicationDeadline','Ariza muddati','datetime-local')}{ainput('startsAt','Auksion boshlanishi','datetime-local')}

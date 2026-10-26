@@ -1,5 +1,5 @@
 'use client';
-import {Check} from 'lucide-react';
+import {Check,ExternalLink,Map} from 'lucide-react';
 import {useLocale} from './locale-provider';
 import {MediaPicker} from './media-tools';
 import ContentTranslations from './content-translations';
@@ -77,9 +77,10 @@ export default function ContentForm({form,setForm,canPublish,assets,reload,busy,
       {isLot&&<div className="form-grid">{dInput('investorName','Investor / kompaniya nomi')}{dInput('code','Kod')}{dInput('floors','Qavatlar','number')}</div>}
     </section>}
 
-    {r.map&&<section className="cf-sec">{head('Xaritadagi joylashuvi','Belgilansa, material /map xaritasida ko‘rinadi. Belgilanmasa xaritada chiqmaydi.')}
+    {r.map&&<section className="cf-sec">{head('Xaritada ko‘rsatish','Joylashuv — xaritada ko‘rinadigan nuqta. Bog‘langan hudud — chegarasi chizilgan lot; kerak bo‘lsa ikkalasini ham belgilang.')}
+      <div className="cf-map-links"><a className="btn outline small" href="/admin/maps" target="_blank" rel="noopener noreferrer"><Map size={14}/>{tx('Xarita sozlamalari')}<ExternalLink size={13}/></a><a className="btn outline small" href="/admin/plots" target="_blank" rel="noopener noreferrer"><Map size={14}/>{tx('Hududlarni chizish yoki import qilish')}<ExternalLink size={13}/></a></div>
       <LocationPicker lat={data.lat} lng={data.lng} onChange={(lat,lng)=>setData({lat,lng})}/>
-      <PlotPicker value={data.plotId||''} onChange={(id,plot)=>setData({plotId:id,...(plot?{area:data.area||plot.areaHa||'',code:data.code||plot.lotNumber||''}:{})})}/>
+      <PlotPicker label={tx('Loyiha yoki obyektni xaritadagi hududga bog‘lash')} value={data.plotId||''} onChange={(id,plot)=>setData({plotId:id,...(plot?{area:data.area||plot.areaHa||'',code:data.code||plot.lotNumber||''}:{})})}/>
     </section>}
 
     {!r.noAttach&&<section className="cf-sec">{head('Qo‘shimcha fayllar','Taqdimot (PPTX), PDF yoki hujjat: material sahifasida «Qo‘shimcha materiallar» bo‘lib chiqadi.')}

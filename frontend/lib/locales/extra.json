@@ -269,6 +269,141 @@
     "ru": "Медиассылка должна использовать HTTPS и не содержать пароль",
     "zh": "媒体链接须使用 HTTPS，且不得包含密码"
   },
+  "Loyihalar monitoringi": {
+    "en": "Project monitoring",
+    "ru": "Мониторинг проектов",
+    "zh": "项目监测"
+  },
+  "Loyihalarning holati va bajarilish darajasi": {
+    "en": "Project status and completion progress",
+    "ru": "Статус проектов и степень выполнения",
+    "zh": "项目状态和完成进度"
+  },
+  "Galereya": {
+    "en": "Gallery",
+    "ru": "Галерея",
+    "zh": "图库"
+  },
+  "Loyihalar va qurilish jarayonining foto-videolari": {
+    "en": "Project and construction photos and videos",
+    "ru": "Фото и видео проектов и строительства",
+    "zh": "项目与建设过程的照片和视频"
+  },
+  "Yangiliklar.": {
+    "en": "News.",
+    "ru": "Новости.",
+    "zh": "新闻。"
+  },
+  "Shirin shaharchasiga oid yangiliklar va rasmiy hujjatlar.": {
+    "en": "News and official documents about Shirin.",
+    "ru": "Новости и официальные документы о Ширине.",
+    "zh": "Shirin 的新闻和官方文件。"
+  },
+  "Investitsiya imkoniyatlari": {
+    "en": "Investment opportunities",
+    "ru": "Инвестиционные возможности",
+    "zh": "投资机会"
+  },
+  "Hududlar va investitsiya takliflari": {
+    "en": "Areas and investment offers",
+    "ru": "Территории и инвестиционные предложения",
+    "zh": "地块与投资提案"
+  },
+  "Loyihalar va obyektlar bilan tanishing": {
+    "en": "Explore projects and sites",
+    "ru": "Ознакомьтесь с проектами и объектами",
+    "zh": "了解项目与建设对象"
+  },
+  "Investorlar uchun hujjatlar": {
+    "en": "Documents for investors",
+    "ru": "Документы для инвесторов",
+    "zh": "投资者文件"
+  },
+  "Rasmiy materiallar va hujjatlar": {
+    "en": "Official materials and documents",
+    "ru": "Официальные материалы и документы",
+    "zh": "官方资料与文件"
+  },
+  "Hamkorlik bo‘yicha murojaat": {
+    "en": "Partnership enquiry",
+    "ru": "Обращение по вопросам сотрудничества",
+    "zh": "合作咨询"
+  },
+  "Investitsiya bo‘yicha bog‘lanish": {
+    "en": "Contact us about investment",
+    "ru": "Связаться по вопросам инвестиций",
+    "zh": "联系投资事宜"
+  },
+  "Hozircha yangiliklar yo‘q": {
+    "en": "There are no news items yet",
+    "ru": "Новостей пока нет",
+    "zh": "暂无新闻"
+  },
+  "Hozircha hujjatlar yo‘q": {
+    "en": "There are no documents yet",
+    "ru": "Документов пока нет",
+    "zh": "暂无文件"
+  },
+  "Yangiliklar va hujjatlar.": {
+    "en": "News and documents.",
+    "ru": "Новости и документы.",
+    "zh": "新闻与文件。"
+  },
+  "Shirin shaharchasiga oid yangiliklar, rasmiy hujjatlar va investorlar uchun materiallar.": {
+    "en": "News about Shirin, official documents, and materials for investors.",
+    "ru": "Новости о Ширине, официальные документы и материалы для инвесторов.",
+    "zh": "Shirin 相关动态、官方文件及投资者资料。"
+  },
+  "Istiqbolli loyihalar": {
+    "en": "Promising projects",
+    "ru": "Перспективные проекты",
+    "zh": "重点项目"
+  },
+  "Hamkorlik imkoniyatlari": {
+    "en": "Partnership opportunities",
+    "ru": "Возможности для сотрудничества",
+    "zh": "合作机会"
+  },
+  "Hamkor bo‘lish": {
+    "en": "Become a partner",
+    "ru": "Стать партнёром",
+    "zh": "成为合作伙伴"
+  },
+  "Hozircha istiqbolli loyihalar yo‘q": {
+    "en": "There are no promising projects yet",
+    "ru": "Перспективных проектов пока нет",
+    "zh": "暂无重点项目"
+  },
+  "Hozircha hamkorlar haqida ma’lumot yo‘q": {
+    "en": "There is no partner information yet",
+    "ru": "Информация о партнёрах пока отсутствует",
+    "zh": "暂无合作伙伴信息"
+  },
+  "Shirin galereyasi.": {
+    "en": "Shirin gallery.",
+    "ru": "Галерея Ширина.",
+    "zh": "Shirin 图库。"
+  },
+  "Shaharcha hayoti, qurilish jarayoni va loyihalardan foto hamda videolar.": {
+    "en": "Photos and videos of town life, construction, and projects.",
+    "ru": "Фото и видео о жизни города, строительстве и проектах.",
+    "zh": "城镇生活、建设过程和项目的照片与视频。"
+  },
+  "Fotolar": {
+    "en": "Photos",
+    "ru": "Фотографии",
+    "zh": "照片"
+  },
+  "Videolar": {
+    "en": "Videos",
+    "ru": "Видео",
+    "zh": "视频"
+  },
+  "Butun saytdan qidirish": {
+    "en": "Search the entire site",
+    "ru": "Поиск по всему сайту",
+    "zh": "搜索整个网站"
+  },
   "YouTube video yoki jonli efir manzilini kiriting": {
     "en": "Enter a YouTube video or live stream URL",
     "ru": "Укажите адрес видео или прямой трансляции YouTube",

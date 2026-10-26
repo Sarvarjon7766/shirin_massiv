@@ -1,5 +1,5 @@
 'use client';
-import {useEffect,useMemo,useRef,useState} from 'react';
+import {useCallback,useEffect,useMemo,useRef,useState} from 'react';
 import {Search,X,MapPin,ExternalLink,Pencil} from 'lucide-react';
 import {useLocale} from './locale-provider';
 import {plotStatusMeta} from '../lib/plot-model';
@@ -7,13 +7,18 @@ import {plotStatusMeta} from '../lib/plot-model';
 // Kontent formasida: xaritadagi tayyor hududlardan birini tanlab biriktirish (GeoJSON qo'lda yozilmaydi).
 // Hududlar admin → «Xarita» bo'limida chiziladi yoki import qilinadi.
 type PlotRow={id:string;lotNumber:string;title:string;areaHa:number;statusKey:string;published:boolean};
+function isPlotRow(value:unknown):value is PlotRow{
+  if(typeof value!=='object'||value===null)return false;
+  const row=value as Record<string,unknown>;
+  return typeof row.id==='string'&&typeof row.lotNumber==='string'&&typeof row.title==='string'&&typeof row.areaHa==='number'&&typeof row.statusKey==='string'&&typeof row.published==='boolean';
+}
 
-export default function PlotPicker({value,onChange}:{value:string;onChange:(id:string,plot?:PlotRow)=>void}){
+export default function PlotPicker({value,onChange,label}:{value:string;onChange:(id:string,plot?:PlotRow)=>void;label?:string}){
   const {t:tx}=useLocale();
   const [rows,setRows]=useState<PlotRow[]|null>(null),[error,setError]=useState(''),[open,setOpen]=useState(false),[query,setQuery]=useState(''),box=useRef<HTMLDivElement>(null);
-  useEffect(()=>{
-    fetch('/api/plots',{cache:'no-store'}).then(r=>r.ok?r.json():Promise.reject()).then((d:any)=>setRows(d)).catch(()=>setError(tx('Hududlar ro‘yxatini yuklab bo‘lmadi')));
-  },[]);
+  const fetchPlots=useCallback(()=>{const controller=new AbortController();fetch('/api/plots',{cache:'no-store',signal:controller.signal}).then(async r=>{if(!r.ok)throw Error();const data:unknown=await r.json();if(!Array.isArray(data)||!data.every(isPlotRow))throw Error();return data}).then(setRows).catch(()=>{if(!controller.signal.aborted)setError(tx('Hududlar ro‘yxatini yuklab bo‘lmadi'))});return()=>controller.abort()},[tx]);
+  useEffect(()=>fetchPlots(),[fetchPlots]);
+  const retry=()=>{setError('');setRows(null);fetchPlots()};
   useEffect(()=>{
     if(!open)return;
     const onDown=(e:MouseEvent)=>{if(!box.current?.contains(e.target as Node))setOpen(false)};
@@ -27,7 +32,7 @@ export default function PlotPicker({value,onChange}:{value:string;onChange:(id:s
     return (rows||[]).filter(r=>!q||[r.lotNumber,r.title].some(v=>String(v||'').toLowerCase().includes(q))).slice(0,40);
   },[rows,query]);
   return <div className="pp" ref={box}>
-    <span className="pp-label">{tx('Xarita hududi')}</span>
+    <span className="pp-label">{label||tx('Xarita hududi')}</span>
     {value?<div className="pp-current">
       <MapPin size={16}/>
       <div><b>{current?`${current.lotNumber?current.lotNumber+' · ':''}${current.title}`:tx('Tanlangan hudud')}</b>
@@ -44,6 +49,7 @@ export default function PlotPicker({value,onChange}:{value:string;onChange:(id:s
         {rows&&!results.length&&<li className="pp-none">{rows.length?tx('Hech narsa topilmadi'):tx('Hali hudud yo‘q')}</li>}</ul>
       <p className="pp-foot">{tx('Kerakli hudud yo‘qmi?')} <a href="/admin/plots" target="_blank" rel="noopener noreferrer">{tx('Xaritada yangisini chizing')}</a></p>
     </div>}
-    <p className="form-hint">{tx('Chegara endi qo‘lda yozilmaydi: hudud admin → «Xarita» bo‘limida xaritada chiziladi yoki GeoJSON fayldan import qilinadi, bu yerda esa tayyor hududni tanlaysiz. Ochiq sahifada «Xaritada ko‘rish» havolasi paydo bo‘ladi.')}</p>
+    {error&&<button type="button" className="btn outline small pp-retry" onClick={retry}>{error} · {tx('Qayta yuklash')}</button>}
+    <p className="form-hint">{tx('Bu loyihani hudud lotiga biriktiradi: saytdagi xaritada bosilganda loyiha ma’lumoti chiqadi. Avval lot chizilmagan bo‘lsa, xarita boshqaruvida hudud yarating.')}</p>
   </div>;
 }

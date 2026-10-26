@@ -35,6 +35,13 @@ export default function MapAdmin({section='maps'}:{section?:MapSection}){
   const info=SECTIONS[section];
   return <div className="ma">
     <div className="where-box"><ExternalLink size={18}/><div><b>{tx(info.what)}</b><p>{tx(info.where)}</p></div><a className="btn outline small" href={info.href} target="_blank" rel="noopener noreferrer">{tx('Saytda ochish')}<ExternalLink size={14}/></a></div>
+    <nav className="map-workflow" aria-label={tx('Xarita va kontent boshqaruvi')}>
+      <span>{tx('Bog‘liq boshqaruv:')}</span>
+      <a className={section==='maps'?'active':''} href="/admin/maps">{tx('Xaritalar')}</a>
+      <a className={section==='plots'?'active':''} href="/admin/plots">{tx('Hududlar')}</a>
+      <a className={section==='layers'?'active':''} href="/admin/layers">{tx('Qatlamlar')}</a>
+      <a href="/admin/content">{tx('Kontent menejeri')}</a>
+    </nav>
     {section==='maps'&&<MapsStudio/>}
     {section==='plots'&&<PlotsStudio/>}
     {section==='statuses'&&<StatusesStudio/>}
